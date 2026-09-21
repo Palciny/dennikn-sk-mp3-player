@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T15:37:31.974148+00:00",
+  "generated_at": "2026-09-21T20:16:12.373539+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 21,
-  "total_count": 3445,
+  "count": 25,
+  "total_count": 3449,
   "latest_day": "2026-09-21",
   "categories": [
     "1. svetová vojna",
@@ -648,6 +648,72 @@
   ],
   "articles": [
     {
+      "title": "Newsfilter: Stojíme pred bezprostrednou hrozbou z Ruska a Fico je opäť mimo",
+      "url": "https://dennikn.sk/5575495/newsfilter-stojime-pred-bezprostrednou-hrozbou-z-ruska-a-fico-je-opat-mimo/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5575495-1.mp3",
+      "published": "2026-09-21T17:01:03+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Komentáre",
+        "Ficova vláda",
+        "Kamil Šaško",
+        "Newsfilter",
+        "Robert Fico",
+        "Rusko",
+        "Vladimir Putin",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-21T20:13:57.388553+00:00",
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
+    },
+    {
+      "title": "Rusi sa v okupovaných Oleškách vysmievajú živým aj mŕtvym",
+      "url": "https://dennikn.sk/5575200/rusi-sa-v-okupovanych-oleskach-vysmievaju-zivym-aj-mrtvym/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5575200-1.mp3",
+      "published": "2026-09-21T16:38:56+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Komentáre",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-21T20:13:57.388553+00:00",
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
+    },
+    {
+      "title": "Po troch dekádach odsúdili jedného z vrahov rapera Tupaca Shakura. Usvedčil sa sám",
+      "url": "https://dennikn.sk/5552609/po-troch-dekadach-odsudili-jedneho-z-vrahov-rapera-tupaca-shakura-usvedcil-sa-sam/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5552609-1.mp3",
+      "published": "2026-09-21T16:18:01+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Kultúra",
+        "Hudba"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-21T20:13:57.388553+00:00",
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
+    },
+    {
+      "title": "Kým Fico komentoval článok 5, parlament vyslal vojakov do Poľska a Rumunska. V novej misii má zmätok aj časť opozície",
+      "url": "https://dennikn.sk/5574054/kym-fico-komentoval-clanok-5-parlament-vyslal-vojakov-do-polska-a-rumunska-v-novej-misii-ma-zmatok-aj-cast-opozicie/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5574054-1.mp3",
+      "published": "2026-09-21T15:55:37+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Slovensko",
+        "Ficova vláda",
+        "Robert Kaliňák",
+        "Slovenská armáda",
+        "Vojenské nákupy",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-21T20:13:57.388553+00:00",
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
+    },
+    {
       "title": "Čo všetko prichádza na východ Slovenska spolu s automobilkou Volvo",
       "url": "https://dennikn.sk/5574282/co-vsetko-prichadza-na-vychod-slovenska-spolu-s-automobilkou-volvo/",
       "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5574282-1.mp3",
@@ -659,7 +725,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Ako volili dve Ruská: jedno pod dohľadom a druhé ako utrhnuté z reťaze (reportáž z Jerevanu)",
@@ -674,7 +740,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Túto svetovú vojnu môžete vnímať už pri ďalšej ceste na benzínovú pumpu",
@@ -689,7 +755,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Ježkov neberte zimovať do obývačky. Kravské mlieko ich môže zabiť",
@@ -705,7 +771,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Ľudia, veď on nás strašne klame",
@@ -721,7 +787,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Slovensko sa nepridalo k embargu na izraelské osady na Západnom brehu, EÚ je rozdelená (+ anketa europoslancov)",
@@ -737,7 +803,7 @@
       ],
       "feed_url": "https://dennikn.sk/slovensko/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Duleba, Scherf, Just: Kremeľ si odškrtol voľby, teraz príde tá horšia časť",
@@ -753,7 +819,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Ruský útok môže podľa šéfa českej tajnej služby prísť o mesiace, nie roky. Ako by mohol vyzerať a ako Fica podráždil Petr Pavel",
@@ -768,7 +834,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Športový newsfilter: Weiss nemá kam cúvať. Reprezentácia musí vyhrať svoju skupinu",
@@ -789,7 +855,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Hrdinka Diana Virgovičová: Z vody vieme odstrániť ťažké kovy aj pesticídy. O výskum som sa začala zaujímať po osobnej diagnóze",
@@ -813,7 +879,7 @@
       ],
       "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Slováci po Moháči. Kľúčová bitka ovplyvnila rozptýlenie Slovákov a jej dôsledky siahajú až do 21. storočia (Moháč 500/5)",
@@ -827,7 +893,7 @@
       ],
       "feed_url": "https://dennikn.sk/komentare/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Jedným z bežných omylov je predstava, že bitka pri Moháči má iba jediný historický význam, vraví turecký dejepisár (Moháč 500/4)",
@@ -841,7 +907,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Musíme odstrániť kopu nánosov, ktorú vlastnou interpretáciou Moháča nahromadila každá generácia, vraví historik Szabolcs Varga (Moháč 500/3)",
@@ -855,7 +921,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Európa sa na Uhorsko nevykašľala. V čom všetkom sme sa o bitke pri Moháči mýlili (Moháč 500/2)",
@@ -869,7 +935,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Skutočné dedičstvo Moháča: bitka pozdvihla dnešné Slovensko a posilnila západnú orientáciu Uhorska (Moháč 500/1)",
@@ -883,7 +949,7 @@
       ],
       "feed_url": "https://dennikn.sk/veda/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Nový príbeh Moháča. Ako kľúčová bitka zmenila náš svet",
@@ -897,7 +963,7 @@
       ],
       "feed_url": "https://dennikn.sk/komentare/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Zápas, ktorým si Dávid Hancko získal fanúšikov. A do mesiaca ho milovali",
@@ -913,7 +979,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Covid príde skôr, chrípka môže byť slabšia. Kedy sa dať zaočkovať? Treba dve dávky? A aké doplnky naozaj pomáhajú?",
@@ -929,7 +995,7 @@
       ],
       "feed_url": "https://dennikn.sk/slovensko/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Trumpov svet (609. deň): Po troch porážkach Trump zaútočil na médiá, novinári z veľkých redakcií prišli o akreditácie",
@@ -946,7 +1012,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Ivana videla, ako jej známy násilím znehybnil svoje malé dieťa. Váha, či ide o ubližovanie a či má zasiahnuť",
@@ -964,7 +1030,7 @@
       ],
       "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     },
     {
       "title": "Ráno s NHL: Prečo by Quinn Hughes odchádzal za bratmi, keď v Minnesote dostane všetko?",
@@ -980,7 +1046,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
       "first_seen": "2026-09-21T14:41:10.930064+00:00",
-      "last_seen": "2026-09-21T15:35:00.227626+00:00"
+      "last_seen": "2026-09-21T20:13:57.388553+00:00"
     }
   ]
 }
