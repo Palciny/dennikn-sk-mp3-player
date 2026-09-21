@@ -1,0 +1,26 @@
+# Podcast RSS feeds to ingest, one URL per line. Blank lines and lines
+# starting with # are ignored.
+#
+# Fill these in yourself - I deliberately did not guess the URLs. To find a
+# show's real feed:
+#   - open the show on dennikn.sk/audio/ and look for an RSS link, or
+#   - find it on Apple Podcasts / Podcast Addict and copy the feed URL there,
+#     or
+#   - open the show page and check the <link rel="alternate"
+#     type="application/rss+xml"> tag in the HTML source.
+#
+# Verify one by hand first: the feed should contain <enclosure> elements with
+# type="audio/mpeg". If it does, this script will pick the episodes up.
+#
+# Shows worth adding (based on what is already in your archive):
+#   Newsfilter
+#   Svetový newsfilter
+#   Ekonomický newsfilter
+#   V redakcii
+#   Vedecký podcast N2
+#   Kóšer podcast
+#   Terapia slovom
+#   Enkonomika
+#
+# Example line:
+# https://example.com/feed/newsfilter.xml
