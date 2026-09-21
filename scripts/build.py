@@ -41,6 +41,27 @@ MAX_STALE_DAYS = int(os.environ.get("MAX_STALE_DAYS", "3"))
 # Suffixes ordered by how often they occur in the existing archive.
 MP3_SUFFIXES = ["1", "2", "3", "4", "5", "6", "1-1", "1-2", "2-1"]
 
+# Podcast RSS feeds, one URL per line in scripts/podcast_feeds.txt.
+PODCAST_FEEDS_PATH = Path(__file__).resolve().parent / "podcast_feeds.txt"
+
+# Recurring series use hand-made filenames keyed to the publication date rather
+# than the post id. Verified against the existing archive: these recover a bit
+# over half of the non-neural records. (title_prefix or None, filename template)
+DATE_TEMPLATES = [
+    ("Vývoj bojov", "exportVB{d}{m}{Y}.mp3"),
+    ("Svetový newsfilter", "SNF{d}{m}{y}.mp3"),
+    ("Svetový newsfilter", "SNF{d}{m}{Y}mixdown.mp3"),
+    ("Newsfilter", "NF{d}{m}{y}.mp3"),
+    ("Newsfilter", "NFF{d}{m}{y}.mp3"),
+    ("Newsfilter", "NF{d}{m}{Y}mixdown.mp3"),
+    ("Komentátori", "komentatori{d}{m}{Y}.mp3"),
+    (None, "vredakcii{d}{m}{Y}.mp3"),
+    (None, "dpoh{d}{m}{Y}.mp3"),
+]
+
+# Some series are dated the day before publication, so try a small window.
+DATE_TEMPLATE_DAYS_BACK = (0, 1, 2)
+
 MP3_RE = re.compile(r"https?://[^\s\"'<>]+\.mp3(?:\?[^\s\"'<>]*)?", re.IGNORECASE)
 DENNIKN_ARTICLE_RE = re.compile(r"^https://dennikn\.sk/(\d+)/", re.IGNORECASE)
 GUID_POST_ID_RE = re.compile(r"[?&]p=(\d+)")
@@ -95,7 +116,11 @@ STATS = {
     "entries_known": 0,
     "entries_new": 0,
     "resolved_by_cdn": 0,
+    "resolved_by_legacy": 0,
     "resolved_by_html": 0,
+    "podcast_feeds_ok": 0,
+    "podcast_feeds_failed": 0,
+    "podcast_episodes_new": 0,
     "html_blocked": 0,
     "html_failed": 0,
     "cdn_probes": 0,
@@ -267,6 +292,37 @@ def derive_mp3_url(post_id: str, published_iso: str | None) -> str | None:
     return None
 
 
+def derive_legacy_mp3_url(title: str, published_iso: str | None) -> str | None:
+    """Probe the date-keyed filenames used by the recurring series."""
+    if not published_iso:
+        return None
+    try:
+        base = datetime.fromisoformat(published_iso)
+    except ValueError:
+        return None
+
+    name = (title or "").casefold()
+    for days_back in DATE_TEMPLATE_DAYS_BACK:
+        day = base - timedelta(days=days_back)
+        parts = {
+            "d": f"{day.day:02d}",
+            "m": f"{day.month:02d}",
+            "Y": str(day.year),
+            "y": f"{day.year % 100:02d}",
+        }
+        folder = day.strftime("%Y/%m")
+        for prefix, template in DATE_TEMPLATES:
+            if prefix and not name.startswith(prefix.casefold()):
+                continue
+            if STATS["cdn_probes"] >= MAX_CDN_PROBES:
+                print("CDN probe budget exhausted")
+                return None
+            candidate = f"{CDN_ROOT}/{folder}/{template.format(**parts)}"
+            if url_exists(candidate):
+                return candidate
+    return None
+
+
 def extract_main_mp3(html: str, page_url: str) -> str | None:
     soup = BeautifulSoup(html, "html.parser")
 
@@ -332,6 +388,84 @@ def iter_feed_entries():
             yield feed_url, entry
 
 
+def load_podcast_feeds() -> list[str]:
+    if not PODCAST_FEEDS_PATH.exists():
+        return []
+    lines = PODCAST_FEEDS_PATH.read_text(encoding="utf-8").splitlines()
+    return dedupe_keep_order(
+        line.strip() for line in lines if line.strip() and not line.startswith("#")
+    )
+
+
+def episode_audio_url(entry) -> str | None:
+    """Pull the MP3 out of a podcast entry's enclosure or media content."""
+    for link in entry.get("links", []) or []:
+        href = (link.get("href") or "").strip()
+        rel = link.get("rel") or ""
+        mime = link.get("type") or ""
+        if rel == "enclosure" and href and ("audio" in mime or ".mp3" in href.lower()):
+            return href
+
+    for media in entry.get("media_content", []) or []:
+        href = (media.get("url") or "").strip()
+        if href and ".mp3" in href.lower():
+            return href
+
+    return None
+
+
+def ingest_podcasts(
+    records_by_url: dict[str, ArticleRecord],
+    seen_mp3s: set[str],
+    now_iso: str,
+) -> list[str]:
+    """Podcast episodes come straight from their own RSS - no scraping needed."""
+    feeds_used: list[str] = []
+
+    for feed_url in load_podcast_feeds():
+        try:
+            parsed = feedparser.parse(fetch_text(feed_url))
+            STATS["podcast_feeds_ok"] += 1
+        except Exception as exc:
+            STATS["podcast_feeds_failed"] += 1
+            print(f"Skipping podcast feed {feed_url}: {exc}")
+            continue
+
+        show = (parsed.feed.get("title") or "").strip()
+        feeds_used.append(feed_url)
+
+        for entry in parsed.entries[:MAX_FEED_ITEMS_PER_FEED]:
+            mp3_url = episode_audio_url(entry)
+            if not mp3_url or mp3_url in seen_mp3s:
+                continue
+
+            page_url = (entry.get("link") or "").strip() or mp3_url
+            if page_url in records_by_url:
+                records_by_url[page_url].last_seen = now_iso
+                continue
+
+            published = parse_published(entry.get("published") or entry.get("updated"))
+            title = (entry.get("title") or page_url).strip()
+            categories = dedupe_keep_order([show] if show else [])
+
+            records_by_url[page_url] = ArticleRecord(
+                title=title,
+                url=page_url,
+                mp3_url=mp3_url,
+                published=published,
+                published_day=iso_day(published),
+                categories=categories,
+                feed_url=feed_url,
+                first_seen=now_iso,
+                last_seen=now_iso,
+            )
+            seen_mp3s.add(mp3_url)
+            STATS["podcast_episodes_new"] += 1
+            print(f"  + [podcast] {title[:60]} -> {mp3_url}")
+
+    return feeds_used
+
+
 def load_existing_records(now_iso: str) -> dict[str, ArticleRecord]:
     if not OUTPUT_PATH.exists():
         return {}
@@ -362,13 +496,18 @@ def load_existing_records(now_iso: str) -> dict[str, ArticleRecord]:
     return existing
 
 
-def resolve_mp3(url: str, post_id: str | None, published: str | None):
+def resolve_mp3(url: str, post_id: str | None, published: str | None, title: str = ""):
     """Returns (mp3_url, article_html). CDN first, article page as fallback."""
     if post_id:
         mp3_url = derive_mp3_url(post_id, published)
         if mp3_url:
             STATS["resolved_by_cdn"] += 1
             return mp3_url, None
+
+    mp3_url = derive_legacy_mp3_url(title, published)
+    if mp3_url:
+        STATS["resolved_by_legacy"] += 1
+        return mp3_url, None
 
     # Older, hand-recorded audio does not follow the neural-audio naming, so we
     # still try the article page. This is the path that the edge may block.
@@ -426,7 +565,7 @@ def build_records() -> tuple[list[ArticleRecord], list[str]]:
 
         STATS["entries_new"] += 1
         post_id = post_id_from_entry(entry, url)
-        mp3_url, html = resolve_mp3(url, post_id, published)
+        mp3_url, html = resolve_mp3(url, post_id, published, title)
 
         if not mp3_url:
             STATS["no_audio"] += 1
@@ -449,6 +588,8 @@ def build_records() -> tuple[list[ArticleRecord], list[str]]:
         records_by_url[url] = record
         seen_mp3s.add(mp3_url)
         print(f"  + {title[:70]} -> {mp3_url}")
+
+    feed_urls_seen.extend(ingest_podcasts(records_by_url, seen_mp3s, now_iso))
 
     records = list(records_by_url.values())
     records.sort(
