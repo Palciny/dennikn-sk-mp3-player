@@ -105,6 +105,28 @@ BROWSER_HEADERS = {
 }
 
 
+# Browser TLS/HTTP2 fingerprints to impersonate, tried in order. Cloudflare
+# fingerprints the TLS handshake (JA3/JA4) and the HTTP/2 SETTINGS frame, and
+# it does not weigh every browser the same - a fingerprint that is refused at
+# one edge PoP often passes as a different browser. IMPERSONATE (singular) is
+# still honoured and is simply moved to the front of the list.
+IMPERSONATE_PROFILES = [
+    profile.strip()
+    for profile in os.environ.get(
+        "IMPERSONATE_PROFILES", "chrome,firefox,edge,safari"
+    ).split(",")
+    if profile.strip()
+]
+if os.environ.get("IMPERSONATE"):
+    preferred = os.environ["IMPERSONATE"].strip()
+    IMPERSONATE_PROFILES = [preferred] + [
+        p for p in IMPERSONATE_PROFILES if p != preferred
+    ]
+
+# Stop hitting the article pages once the edge has clearly decided to refuse us.
+MAX_CONSECUTIVE_BLOCKS = int(os.environ.get("MAX_CONSECUTIVE_BLOCKS", "8"))
+
+
 class BlockedError(RuntimeError):
     """The edge refused us (403/429) or served a challenge page."""
 
@@ -121,9 +143,13 @@ STATS = {
     "podcast_feeds_ok": 0,
     "podcast_feeds_failed": 0,
     "podcast_episodes_new": 0,
+    "html_attempted": 0,
     "html_blocked": 0,
     "html_failed": 0,
+    "html_skipped_after_block": 0,
     "cdn_probes": 0,
+    "cdn_blocked": 0,
+    "profile_switches": 0,
     "no_audio": 0,
     "too_old_to_probe": 0,
 }
@@ -142,17 +168,161 @@ class ArticleRecord:
     last_seen: str
 
 
-session = requests.Session()
-session.headers.update(BROWSER_HEADERS)
+def make_session(profile: str):
+    """
+    Build a curl_cffi session with the given browser fingerprint, or None if
+    curl_cffi is unusable. A `requests` session always looks like Python to a
+    fingerprinting edge, so it gets a 403 no matter how good the headers are.
+    """
+    try:
+        from curl_cffi import requests as curl_requests
+
+        created = curl_requests.Session(
+            impersonate=profile,
+            default_headers=True,
+            allow_redirects=True,
+        )
+        # Keep only the headers that carry meaning; let the impersonation own
+        # the rest so the header set and the TLS fingerprint stay consistent.
+        created.headers.update({"Accept-Language": BROWSER_HEADERS["Accept-Language"]})
+        return created
+    except Exception as exc:
+        print(f"Cannot impersonate {profile}: {exc}")
+        return None
 
 
-def warm_up() -> None:
+def _start_session():
+    global session, active_profile, profile_index, rotation_exhausted
+    for index, profile in enumerate(IMPERSONATE_PROFILES):
+        candidate = make_session(profile)
+        if candidate is not None:
+            session, active_profile, profile_index = candidate, profile, index
+            print(f"HTTP transport: curl_cffi (impersonate={profile})")
+            return
+    # curl_cffi is missing entirely - run on requests and never rotate.
+    session = requests.Session()
+    session.headers.update(BROWSER_HEADERS)
+    active_profile, rotation_exhausted = None, True
+    print("HTTP transport: requests (no fingerprint impersonation available)")
+
+
+session = None
+active_profile: str | None = None
+profile_index = 0
+last_good_index: int | None = None
+rotation_exhausted = False
+
+_start_session()
+
+# Flipped once the edge starts refusing article pages, so we stop asking.
+article_fetch_disabled = False
+consecutive_blocks = 0
+
+
+def _mark_profile_good() -> None:
+    global last_good_index
+    last_good_index = profile_index
+
+
+def _use_profile(index: int) -> bool:
+    global session, active_profile, profile_index
+    candidate = make_session(IMPERSONATE_PROFILES[index])
+    if candidate is None:
+        return False
+    session, active_profile, profile_index = candidate, IMPERSONATE_PROFILES[index], index
+    return True
+
+
+def rotate_session(reason: str) -> bool:
+    """
+    Swap to the next browser fingerprint and re-warm. Each profile gets exactly
+    one shot per run: once the list is exhausted we stop rebuilding sessions,
+    otherwise a site-wide block turns into a session churn loop.
+    """
+    global rotation_exhausted
+
+    if rotation_exhausted:
+        return False
+
+    next_index = profile_index + 1
+    while next_index < len(IMPERSONATE_PROFILES):
+        if _use_profile(next_index):
+            STATS["profile_switches"] += 1
+            print(f"::warning::{reason} - retrying as impersonate={active_profile}")
+            warm_up(quiet=True)
+            return True
+        next_index += 1
+
+    rotation_exhausted = True
+    print(f"::warning::{reason} - all impersonation profiles "
+          f"({', '.join(IMPERSONATE_PROFILES)}) were refused")
+
+    # One URL can be 403 for everyone (paywall, deleted post). Don't let that
+    # strand the run on the last profile tried - go back to what was working.
+    if last_good_index is not None and last_good_index != profile_index:
+        if _use_profile(last_good_index):
+            print(f"Reverting to last good profile: impersonate={active_profile}")
+    return False
+
+
+def warm_up(quiet: bool = False) -> None:
     """Pick up whatever cookies the edge wants to hand out before scraping."""
     try:
         response = session.get(SITE_ROOT, timeout=REQUEST_TIMEOUT)
-        print(f"Warm-up GET {SITE_ROOT} -> {response.status_code}")
+        if response.status_code == 200:
+            _mark_profile_good()
+        if not quiet:
+            print(f"Warm-up GET {SITE_ROOT} ({active_profile}) -> {response.status_code}")
+        if response.status_code in (403, 429, 503):
+            if quiet:
+                return
+            print("::warning::Warm-up was refused by the edge - article page "
+                  "fetches will likely be blocked this run")
     except Exception as exc:
         print(f"Warm-up failed (continuing anyway): {exc}")
+
+
+def _retry_after_seconds(response) -> float | None:
+    value = (response.headers.get("Retry-After") or "").strip()
+    if not value:
+        return None
+    try:
+        return min(float(value), 30.0)
+    except ValueError:
+        return None
+
+
+def _fetch_with_current_profile(url: str, headers: dict, retries: int) -> str:
+    last_exc: Exception | None = None
+    for attempt in range(retries + 1):
+        blocked_wait: float | None = None
+        try:
+            response = session.get(url, timeout=REQUEST_TIMEOUT, headers=headers)
+            if response.status_code in (403, 429, 503):
+                # 403 is a decision about *this fingerprint*, not a transient
+                # error: repeating it verbatim only deepens the block. Bubble it
+                # up so the caller can try a different browser instead.
+                if response.status_code == 403:
+                    raise BlockedError("HTTP 403")
+                blocked_wait = _retry_after_seconds(response) or (5.0 * (attempt + 1))
+                raise BlockedError(f"HTTP {response.status_code}")
+            response.raise_for_status()
+            body = response.text
+            head = body[:4000].lower()
+            if any(marker in head for marker in CHALLENGE_MARKERS):
+                raise BlockedError("interstitial challenge page")
+            return body
+        except BlockedError as exc:
+            last_exc = exc
+            if blocked_wait is None:
+                raise
+            if attempt < retries:
+                time.sleep(blocked_wait + random.random())
+        except Exception as exc:
+            last_exc = exc
+            if attempt < retries:
+                time.sleep(2 ** attempt + random.random())
+    raise last_exc if last_exc else RuntimeError("unreachable")
 
 
 def fetch_text(url: str, *, referer: str | None = None, retries: int = 2) -> str:
@@ -161,23 +331,15 @@ def fetch_text(url: str, *, referer: str | None = None, retries: int = 2) -> str
         headers["Referer"] = referer
         headers["Sec-Fetch-Site"] = "same-origin"
 
-    last_exc: Exception | None = None
-    for attempt in range(retries + 1):
+    while True:
         try:
-            response = session.get(url, timeout=REQUEST_TIMEOUT, headers=headers)
-            if response.status_code in (403, 429, 503):
-                raise BlockedError(f"HTTP {response.status_code}")
-            response.raise_for_status()
-            body = response.text
-            head = body[:4000].lower()
-            if any(marker in head for marker in CHALLENGE_MARKERS):
-                raise BlockedError("interstitial challenge page")
+            body = _fetch_with_current_profile(url, headers, retries)
+            _mark_profile_good()
             return body
-        except Exception as exc:
-            last_exc = exc
-            if attempt < retries:
-                time.sleep(2 ** attempt + random.random())
-    raise last_exc if last_exc else RuntimeError("unreachable")
+        except BlockedError as exc:
+            # Whichever profile gets through stays active for the rest of the run.
+            if not rotate_session(f"{url} refused ({exc})"):
+                raise
 
 
 def url_exists(url: str) -> bool:
@@ -192,7 +354,16 @@ def url_exists(url: str) -> bool:
                 allow_redirects=True,
                 headers={"Range": "bytes=0-0"},
             )
-        return response.status_code in (200, 206)
+        if response.status_code in (200, 206):
+            _mark_profile_good()
+            return True
+        # A refused probe is not the same as "this file does not exist"; without
+        # this counter a blocked CDN looks exactly like a quiet news day.
+        if response.status_code in (403, 429, 503):
+            STATS["cdn_blocked"] += 1
+            if rotate_session(f"CDN probe refused (HTTP {response.status_code})"):
+                return url_exists(url)
+        return False
     except Exception as exc:
         print(f"  probe error {url}: {exc}")
         return False
@@ -511,11 +682,24 @@ def resolve_mp3(url: str, post_id: str | None, published: str | None, title: str
 
     # Older, hand-recorded audio does not follow the neural-audio naming, so we
     # still try the article page. This is the path that the edge may block.
+    global article_fetch_disabled, consecutive_blocks
+
+    if article_fetch_disabled:
+        STATS["html_skipped_after_block"] += 1
+        return None, None
+
+    STATS["html_attempted"] += 1
     try:
         html = fetch_text(url, referer=SITE_ROOT)
+        consecutive_blocks = 0
     except BlockedError as exc:
         STATS["html_blocked"] += 1
+        consecutive_blocks += 1
         print(f"  blocked fetching {url}: {exc}")
+        if consecutive_blocks >= MAX_CONSECUTIVE_BLOCKS:
+            article_fetch_disabled = True
+            print(f"::warning::{consecutive_blocks} article fetches blocked in a "
+                  "row - skipping the HTML fallback for the rest of this run")
         return None, None
     except Exception as exc:
         STATS["html_failed"] += 1
@@ -671,14 +855,28 @@ def write_output(records: list[ArticleRecord], feed_urls: list[str]) -> str | No
 def health_check(latest_day: str | None) -> int:
     """Return a non-zero exit code when the run looks broken rather than idle."""
     problems: list[str] = []
+    warnings: list[str] = []
 
     if STATS["feeds_ok"] == 0:
         problems.append("no RSS feed could be read at all")
 
-    if STATS["entries_new"] > 0:
-        blocked = STATS["html_blocked"]
-        if blocked and blocked >= STATS["entries_new"]:
-            problems.append(f"every article fetch was blocked ({blocked})")
+    # The HTML fallback only recovers older, hand-recorded audio. Losing it
+    # degrades the run; it does not invalidate what the CDN pass found.
+    attempted = STATS["html_attempted"]
+    if attempted and STATS["html_blocked"] >= attempted:
+        warnings.append(
+            f"every article page fetch was refused ({STATS['html_blocked']}"
+            f" blocked, {STATS['html_skipped_after_block']} skipped)"
+        )
+
+    # A blocked CDN is different: url_exists() cannot tell "refused" from
+    # "missing", so every probe silently becomes "no audio".
+    if STATS["cdn_blocked"]:
+        message = f"{STATS['cdn_blocked']} CDN probes were refused"
+        if STATS["entries_new"] and not STATS["resolved_by_cdn"]:
+            problems.append(message + " and nothing resolved via the CDN")
+        else:
+            warnings.append(message)
 
     if latest_day:
         try:
@@ -689,6 +887,9 @@ def health_check(latest_day: str | None) -> int:
             pass
     else:
         problems.append("no articles in the index")
+
+    for warning in warnings:
+        print(f"::warning::{warning}")
 
     if not problems:
         return 0
@@ -708,6 +909,7 @@ if __name__ == "__main__":
     for key, value in STATS.items():
         print(f"{key:>20}: {value}")
     print(f"{'total_records':>20}: {len(items)}")
+    print(f"{'impersonate':>20}: {active_profile or 'requests (none)'}")
     print(f"{'latest_day':>20}: {latest_day}")
     print(f"Wrote {OUTPUT_PATH} and {LATEST_OUTPUT_PATH}")
 
