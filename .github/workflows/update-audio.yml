@@ -24,17 +24,33 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # continue-on-error so a broken run still commits whatever it managed to
+      # collect and still surfaces the failure in the run summary.
       - name: Build article audio index
+        id: build
+        continue-on-error: true
+        env:
+          PROBE_MAX_AGE_DAYS: '7'
+          MAX_CDN_PROBES: '2500'
+          MAX_STALE_DAYS: '3'
         run: python scripts/build.py
 
       - name: Commit updated data
+        if: always()
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add docs/data/articles.json
+          git add docs/data/articles.json docs/data/latest.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
           git commit -m "Update audio index"
+          git pull --rebase --autostash
           git push
+
+      - name: Fail the run if the index is stale
+        if: steps.build.outcome == 'failure'
+        run: |
+          echo "The build step reported a problem - see its log above."
+          exit 1
