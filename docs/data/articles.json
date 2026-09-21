@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:20:00.936237+00:00",
+  "generated_at": "2026-09-21T14:43:38.113739+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,9 +20,9 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 3389,
-  "total_count": 3389,
-  "latest_day": "2026-08-18",
+  "count": 3445,
+  "total_count": 3445,
+  "latest_day": "2026-09-21",
   "categories": [
     "1. svetová vojna",
     "17. november",
@@ -82,6 +82,7 @@
     "Dane a odvody",
     "Danglár",
     "Daniel Bombic",
+    "Davis Cup",
     "Demografická kríza",
     "Demokrati",
     "Denisa Saková",
@@ -319,6 +320,7 @@
     "Prijímačky na stredné školy",
     "Progresívne Slovensko",
     "Príbehy 20. storočia",
+    "Príroda",
     "Prírodné vedy",
     "Pseudoveda",
     "Psychologická poradňa",
@@ -391,6 +393,7 @@
     "Tichá erózia",
     "TikTok",
     "Tipy na filmy a seriály",
+    "Tipy, čo pozerať",
     "Tomáš Drucker",
     "Tomáš Taraba",
     "Toto vystrihneme",
@@ -469,10 +472,18 @@
     "Železnice",
     "Ženy v športe",
     "Život s hendikepom",
+    "Životné prostredie",
     "Životy mužov",
     "Životy žien"
   ],
   "published_days": [
+    "2026-09-21",
+    "2026-09-20",
+    "2026-09-19",
+    "2026-09-18",
+    "2026-09-17",
+    "2026-09-16",
+    "2026-09-15",
     "2026-08-18",
     "2026-08-17",
     "2026-08-16",
@@ -636,6 +647,912 @@
     "2026-03-07"
   ],
   "articles": [
+    {
+      "title": "Čo všetko prichádza na východ Slovenska spolu s automobilkou Volvo",
+      "url": "https://dennikn.sk/5574282/co-vsetko-prichadza-na-vychod-slovenska-spolu-s-automobilkou-volvo/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5574282-1.mp3",
+      "published": "2026-09-21T14:29:28+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Slovensko",
+        "Automobilový priemysel"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Ako volili dve Ruská: jedno pod dohľadom a druhé ako utrhnuté z reťaze (reportáž z Jerevanu)",
+      "url": "https://dennikn.sk/5574160/ako-volili-dve-ruska-jedno-pod-dohladom-a-druhe-ako-utrhnute-z-retaze-reportaz-z-jerevanu/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5574160-1.mp3",
+      "published": "2026-09-21T13:37:34+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Svet",
+        "Rusko",
+        "Vladimir Putin"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Túto svetovú vojnu môžete vnímať už pri ďalšej ceste na benzínovú pumpu",
+      "url": "https://dennikn.sk/5574591/tuto-svetovu-vojnu-mozete-vnimat-uz-pri-dalsej-ceste-na-benzinovu-pumpu/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5574591-1.mp3",
+      "published": "2026-09-21T13:03:24+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Komentáre",
+        "USA",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Ježkov neberte zimovať do obývačky. Kravské mlieko ich môže zabiť",
+      "url": "https://dennikn.sk/5570931/jezkov-neberte-zimovat-do-obyvacky-kravske-mlieko-ich-moze-zabit/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5570931-1.mp3",
+      "published": "2026-09-21T12:59:05+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Slovensko",
+        "Veda",
+        "Ochrana prírody",
+        "Príroda"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Ľudia, veď on nás strašne klame",
+      "url": "https://dennikn.sk/5574022/ludia-ved-on-nas-strasne-klame/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5574022-1.mp3",
+      "published": "2026-09-21T12:01:40+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Komentáre",
+        "Ficova vláda",
+        "Robert Fico",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Slovensko sa nepridalo k embargu na izraelské osady na Západnom brehu, EÚ je rozdelená (+ anketa europoslancov)",
+      "url": "https://dennikn.sk/5565453/slovensko-sa-nepridalo-k-embargu-na-izraelske-osady-na-zapadnom-brehu-eu-je-rozdelena-anketa-europoslancov/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5565453-1.mp3",
+      "published": "2026-09-21T10:33:15+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Slovensko",
+        "Svet",
+        "Európska únia",
+        "Izraelsko-palestínsky konflikt"
+      ],
+      "feed_url": "https://dennikn.sk/slovensko/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Duleba, Scherf, Just: Kremeľ si odškrtol voľby, teraz príde tá horšia časť",
+      "url": "https://dennikn.sk/5574211/duleba-scherf-just-kremel-si-odskrtol-volby-teraz-pride-ta-horsia-cast/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5574211-1.mp3",
+      "published": "2026-09-21T10:24:56+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Svet",
+        "Rusko",
+        "Vladimir Putin",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/svet/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Ruský útok môže podľa šéfa českej tajnej služby prísť o mesiace, nie roky. Ako by mohol vyzerať a ako Fica podráždil Petr Pavel",
+      "url": "https://dennikn.sk/5573441/rusky-utok-moze-podla-sefa-ceskej-tajnej-sluzby-prist-o-mesiace-nie-roky-ako-by-mohol-vyzerat-a-ako-fica-podrazdil-petr-pavel/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5573441-1.mp3",
+      "published": "2026-09-21T10:12:32+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Svet",
+        "NATO vs. Rusko",
+        "Robert Fico"
+      ],
+      "feed_url": "https://dennikn.sk/svet/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Športový newsfilter: Weiss nemá kam cúvať. Reprezentácia musí vyhrať svoju skupinu",
+      "url": "https://dennikn.sk/5574027/sportovy-newsfilter-weiss-nema-kam-cuvat-reprezentacia-musi-vyhrat-svoju-skupinu/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5574027-1.mp3",
+      "published": "2026-09-21T10:02:16+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Šport a pohyb",
+        "Cyklistika",
+        "Davis Cup",
+        "Futbal",
+        "Futbalová reprezentácia",
+        "Hokej",
+        "NHL",
+        "Športový newsfilter",
+        "Tenis"
+      ],
+      "feed_url": "https://dennikn.sk/sport/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Hrdinka Diana Virgovičová: Z vody vieme odstrániť ťažké kovy aj pesticídy. O výskum som sa začala zaujímať po osobnej diagnóze",
+      "url": "https://dennikn.sk/5568239/hrdinka-diana-virgovicova-z-vody-vieme-odstranit-tazke-kovy-aj-pesticidy-o-vyskum-som-sa-zacala-zaujimat-po-osobnej-diagnoze/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5568239-1.mp3",
+      "published": "2026-09-21T09:40:42+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Audio N",
+        "Rodina a vzťahy",
+        "Veda",
+        "AI",
+        "Heroine",
+        "Hrdinky",
+        "Klimatická kríza",
+        "Príroda",
+        "Prírodné vedy",
+        "Rozhovory",
+        "Životné prostredie",
+        "Životy žien"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Slováci po Moháči. Kľúčová bitka ovplyvnila rozptýlenie Slovákov a jej dôsledky siahajú až do 21. storočia (Moháč 500/5)",
+      "url": "https://dennikn.sk/5562254/slovaci-po-mohaci-klucova-bitka-ovplyvnila-rozptylenie-slovakov-a-jej-dosledky-siahaju-az-do-21-storocia-mohac-500-5/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5562254-1.mp3",
+      "published": "2026-09-21T08:46:43+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Komentáre",
+        "História"
+      ],
+      "feed_url": "https://dennikn.sk/komentare/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Jedným z bežných omylov je predstava, že bitka pri Moháči má iba jediný historický význam, vraví turecký dejepisár (Moháč 500/4)",
+      "url": "https://dennikn.sk/5562219/jednym-z-beznych-omylov-je-predstava-ze-bitka-pri-mohaci-ma-iba-jediny-historicky-vyznam-vravi-turecky-dejepisar-mohac-500-4/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5562219-1.mp3",
+      "published": "2026-09-21T08:45:58+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Veda",
+        "História"
+      ],
+      "feed_url": "https://dennikn.sk/veda/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Musíme odstrániť kopu nánosov, ktorú vlastnou interpretáciou Moháča nahromadila každá generácia, vraví historik Szabolcs Varga (Moháč 500/3)",
+      "url": "https://dennikn.sk/5562174/musime-odstranit-kopec-nanosov-ktoru-vlastnou-interpretaciou-mohaca-nahromadila-kazda-generacia-vravi-historik-szabolcs-varga-mohac-500-3/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5562174-1.mp3",
+      "published": "2026-09-21T08:45:16+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Veda",
+        "História"
+      ],
+      "feed_url": "https://dennikn.sk/veda/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Európa sa na Uhorsko nevykašľala. V čom všetkom sme sa o bitke pri Moháči mýlili (Moháč 500/2)",
+      "url": "https://dennikn.sk/5562126/europa-sa-na-uhorsko-nevykaslala-v-com-vsetkom-sme-sa-o-bitke-pri-mohaci-mylili-mohac-500-2/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5562126-1.mp3",
+      "published": "2026-09-21T08:44:23+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Veda",
+        "História"
+      ],
+      "feed_url": "https://dennikn.sk/veda/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Skutočné dedičstvo Moháča: bitka pozdvihla dnešné Slovensko a posilnila západnú orientáciu Uhorska (Moháč 500/1)",
+      "url": "https://dennikn.sk/5562105/skutocne-dedicstvo-mohaca-bitka-pozdvihla-dnesne-slovensko-a-posilnila-zapadnu-orientaciu-uhorska-mohac-500-1/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5562105-1.mp3",
+      "published": "2026-09-21T08:32:41+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Veda",
+        "História"
+      ],
+      "feed_url": "https://dennikn.sk/veda/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Nový príbeh Moháča. Ako kľúčová bitka zmenila náš svet",
+      "url": "https://dennikn.sk/5562095/novy-pribeh-mohaca-ako-klucova-bitka-zmenila-nas-svet/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5562095-1.mp3",
+      "published": "2026-09-21T08:32:04+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Komentáre",
+        "História"
+      ],
+      "feed_url": "https://dennikn.sk/komentare/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Zápas, ktorým si Dávid Hancko získal fanúšikov. A do mesiaca ho milovali",
+      "url": "https://dennikn.sk/5573353/zapas-ktorym-si-david-hancko-ziskal-fanusikov-a-do-mesiaca-ho-milovali/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5573353-1.mp3",
+      "published": "2026-09-21T07:40:11+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Šport a pohyb",
+        "Dávid Hancko",
+        "Futbal",
+        "La Liga"
+      ],
+      "feed_url": "https://dennikn.sk/sport/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Covid príde skôr, chrípka môže byť slabšia. Kedy sa dať zaočkovať? Treba dve dávky? A aké doplnky naozaj pomáhajú?",
+      "url": "https://dennikn.sk/5568835/covid-pride-skor-chripka-moze-byt-slabsia-kedy-sa-dat-zaockovat-treba-dve-davky-a-ake-doplnky-naozaj-pomahaju/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5568835-1.mp3",
+      "published": "2026-09-21T07:16:18+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Slovensko",
+        "Zdravie",
+        "Očkovanie proti koronavírusu",
+        "Zdravotníctvo"
+      ],
+      "feed_url": "https://dennikn.sk/slovensko/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Trumpov svet (609. deň): Po troch porážkach Trump zaútočil na médiá, novinári z veľkých redakcií prišli o akreditácie",
+      "url": "https://dennikn.sk/5572826/trumpov-svet-609-den-po-troch-porazkach-trump-zautocil-na-media-novinari-z-velkych-redakcii-prisli-o-akreditacie/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5572826-1.mp3",
+      "published": "2026-09-21T05:30:22+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Svet",
+        "Donald Trump",
+        "Médiá",
+        "Trumpov svet (vývoj v Bielom dome)",
+        "USA"
+      ],
+      "feed_url": "https://dennikn.sk/svet/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Ivana videla, ako jej známy násilím znehybnil svoje malé dieťa. Váha, či ide o ubližovanie a či má zasiahnuť",
+      "url": "https://dennikn.sk/5554490/ivana-videla-ako-jej-znamy-nasilim-znehybnil-svoje-male-dieta-vaha-ci-ide-o-ublizovanie-a-ci-ma-zasiahnut/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5554490-1.mp3",
+      "published": "2026-09-21T05:10:00+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Rodina a vzťahy",
+        "Duševné zdravie",
+        "Psychologická poradňa",
+        "Rodičovstvo",
+        "Vzťahy",
+        "Životy žien"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Ráno s NHL: Prečo by Quinn Hughes odchádzal za bratmi, keď v Minnesote dostane všetko?",
+      "url": "https://dennikn.sk/5553141/rano-s-nhl-preco-by-quinn-hughes-odchadzal-za-bratmi-ked-v-minnesote-dostane-vsetko/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5553141-1.mp3",
+      "published": "2026-09-21T04:58:26+00:00",
+      "published_day": "2026-09-21",
+      "categories": [
+        "Šport a pohyb",
+        "Hokej",
+        "NHL",
+        "Ráno s NHL"
+      ],
+      "feed_url": "https://dennikn.sk/sport/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Tlak na Merza sa zvyšuje. AfD vyhrá v ďalšej spolkovej krajine, Berlín ovládne Ľavica",
+      "url": "https://dennikn.sk/5572988/tlak-na-merza-sa-zvysuje-afd-vyhra-v-dalsej-spolkovej-krajine-berlin-ovladne-lavica/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5572988-1.mp3",
+      "published": "2026-09-20T19:07:36+00:00",
+      "published_day": "2026-09-20",
+      "categories": [
+        "Svet",
+        "Nemecko"
+      ],
+      "feed_url": "https://dennikn.sk/svet/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Hancko senzačnou prihrávkou zmenil madridské derby. Real zúri a jeho televízia sa chce vykašľať na ligu",
+      "url": "https://dennikn.sk/5573201/hancko-senzacnou-prihravkou-zmenil-madridske-derby-real-zuri-a-jeho-televizia-sa-chce-vykaslat-na-ligu/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5573201-1.mp3",
+      "published": "2026-09-20T18:15:19+00:00",
+      "published_day": "2026-09-20",
+      "categories": [
+        "Šport a pohyb",
+        "Dávid Hancko",
+        "Futbal",
+        "La Liga"
+      ],
+      "feed_url": "https://dennikn.sk/sport/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Doteraz najmenší pochod za život priniesol tému náhradného materstva. Organizátori chcú, aby sa trestalo",
+      "url": "https://dennikn.sk/5573108/doteraz-najmensi-pochod-za-zivot-priniesol-temu-nahradneho-materstva-organizatori-chcu-aby-sa-trestalo/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5573108-1.mp3",
+      "published": "2026-09-20T17:33:50+00:00",
+      "published_day": "2026-09-20",
+      "categories": [
+        "Slovensko",
+        "Interrupcie"
+      ],
+      "feed_url": "https://dennikn.sk/slovensko/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Týždňový newsfilter: Obchodník so zbraňami vo funkcii premiéra sa bojí vojny",
+      "url": "https://dennikn.sk/5573030/tyzdnovy-newsfilter-obchodnik-so-zbranami-vo-funkcii-premiera-sa-boji-vojny/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5573030-1.mp3",
+      "published": "2026-09-20T16:21:31+00:00",
+      "published_day": "2026-09-20",
+      "categories": [
+        "Audio N",
+        "Komentáre",
+        "Newsfilter",
+        "Robert Fico",
+        "Robert Kaliňák",
+        "Tomáš Taraba"
+      ],
+      "feed_url": "https://dennikn.sk/komentare/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Ako by malo Nemecko brániť svoju demokraciu?",
+      "url": "https://dennikn.sk/5572041/ako-by-malo-nemecko-branit-svoju-demokraciu/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5572041-1.mp3",
+      "published": "2026-09-20T12:44:33+00:00",
+      "published_day": "2026-09-20",
+      "categories": [
+        "Komentáre",
+        "Nemecko"
+      ],
+      "feed_url": "https://dennikn.sk/komentare/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Rusko vyrába zbrane rýchlejšie, než obnovuje armádu. Na vojnu s NATO by potrebovalo predovšetkým čas",
+      "url": "https://dennikn.sk/5571712/rusko-vyraba-zbrane-rychlejsie-nez-obnovuje-armadu-na-vojnu-s-nato-by-potrebovalo-predovsetkym-cas/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5571712-1.mp3",
+      "published": "2026-09-20T11:38:41+00:00",
+      "published_day": "2026-09-20",
+      "categories": [
+        "Komentáre",
+        "Rusko",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/komentare/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Fico pri článku 5 ukázal, že je zbabelec, klamár a zradca",
+      "url": "https://dennikn.sk/5572609/fico-pri-clanku-5-ukazal-ze-je-zbabelec-klamar-a-zradca/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5572609-1.mp3",
+      "published": "2026-09-20T10:15:33+00:00",
+      "published_day": "2026-09-20",
+      "categories": [
+        "Komentáre",
+        "Robert Fico",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/komentare/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Potlesk a slzy. Nový americký liek funguje proti rakovine pankreasu a sľubuje prelom v onkológii",
+      "url": "https://dennikn.sk/5568079/potlesk-a-slzy-novy-americky-liek-funguje-proti-rakovine-pankreasu-a-slubuje-prelom-v-onkologii/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5568079-1.mp3",
+      "published": "2026-09-20T08:51:02+00:00",
+      "published_day": "2026-09-20",
+      "categories": [
+        "Veda",
+        "Zdravie",
+        "Cesta k zdraviu",
+        "Čítanie z Respektu",
+        "Zdravotníctvo"
+      ],
+      "feed_url": "https://dennikn.sk/zdravie/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Ráno s NHL: Slafkovský dal gól a s Demidovom mu to išlo výborne. Mešár dostal ďalšie zlé signály",
+      "url": "https://dennikn.sk/5572183/rano-s-nhl-slafkovsky-dal-gol-a-s-demidovom-mu-to-islo-vyborne-mesar-dostal-dalsie-zle-signaly/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5572183-1.mp3",
+      "published": "2026-09-20T06:24:03+00:00",
+      "published_day": "2026-09-20",
+      "categories": [
+        "Šport a pohyb",
+        "Hokej",
+        "Juraj Slafkovský",
+        "NHL",
+        "Ráno s NHL"
+      ],
+      "feed_url": "https://dennikn.sk/sport/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Za slovenské legendy hrali aj influenceri. Ronaldinhovu šou sprevádzali dlhé rady a organizačný chaos",
+      "url": "https://dennikn.sk/5572111/za-slovenske-legendy-hrali-aj-influenceri-ronaldinhovu-sou-sprevadzali-dlhe-rady-a-organizacny-chaos/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5572111-1.mp3",
+      "published": "2026-09-20T05:11:18+00:00",
+      "published_day": "2026-09-20",
+      "categories": [
+        "Šport a pohyb",
+        "Futbal",
+        "Futbalová reprezentácia"
+      ],
+      "feed_url": "https://dennikn.sk/sport/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Načo Putin organizuje „voľby“ a čo nám hovoria o ňom aj o Rusku",
+      "url": "https://dennikn.sk/5571878/naco-putin-organizuje-volby-a-co-nam-hovoria-o-nom-aj-o-rusku/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5571878-1.mp3",
+      "published": "2026-09-19T16:38:32+00:00",
+      "published_day": "2026-09-19",
+      "categories": [
+        "Svet",
+        "Rusko",
+        "Vladimir Putin"
+      ],
+      "feed_url": "https://dennikn.sk/svet/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Keď nemám prácu, začnú na mňa padať depky, vraví režisérka Třeštíková. Hovorí aj o tom, kedy ju zahlcuje prázdno",
+      "url": "https://dennikn.sk/5566799/ked-nemam-pracu-zacnu-na-mna-padat-depky-vravi-reziserka-trestikova-hovori-aj-o-tom-kedy-ju-zahlcuje-prazdno/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5566799-1.mp3",
+      "published": "2026-09-19T14:00:00+00:00",
+      "published_day": "2026-09-19",
+      "categories": [
+        "Kultúra",
+        "Rodina a vzťahy",
+        "Duševné zdravie",
+        "Filmy",
+        "Rozhovory",
+        "Vzťahy",
+        "Životy žien"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "High 5ive: Čo si prinesiete z knižného festivalu? No predsa knihy. Tieto",
+      "url": "https://dennikn.sk/5571554/high-5ive-co-si-prinesiete-z-knizneho-festivalu-no-predsa-knihy-tieto/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5571554-1.mp3",
+      "published": "2026-09-19T13:13:24+00:00",
+      "published_day": "2026-09-19",
+      "categories": [
+        "Kultúra",
+        "High 5ive"
+      ],
+      "feed_url": "https://dennikn.sk/kultura/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "O jednu krízu menej? Trump má dohodu o Grónsku a Dáni si vydýchli",
+      "url": "https://dennikn.sk/5571337/o-jednu-krizu-menej-trump-ma-dohodu-o-gronsku-a-dani-si-vydychli/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5571337-1.mp3",
+      "published": "2026-09-19T07:15:09+00:00",
+      "published_day": "2026-09-19",
+      "categories": [
+        "Svet",
+        "Donald Trump",
+        "Grónsko",
+        "USA"
+      ],
+      "feed_url": "https://dennikn.sk/svet/feed",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Novinár, ktorý napísal knihu o Guardiolovi: Keby nebol taký úspešný, zrejme by ani Calzona neskúšal to isté so Slovenskom",
+      "url": "https://dennikn.sk/5566162/novinar-ktory-napisal-knihu-o-guardiolovi-keby-nebol-taky-uspesny-zrejme-by-ani-calzona-neskusal-to-iste-so-slovenskom/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5566162-1.mp3",
+      "published": "2026-09-19T05:33:16+00:00",
+      "published_day": "2026-09-19",
+      "categories": [
+        "Kultúra",
+        "Šport a pohyb",
+        "Ako čítať futbal",
+        "Futbal",
+        "Knihy",
+        "Premier League"
+      ],
+      "feed_url": "https://dennikn.sk/kultura/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Ráno s NHL: Hellebuyck si vypýtal výmenu a nenastúpil do prípravy. Šíria sa dohady o záhadnom skupinovom čete",
+      "url": "https://dennikn.sk/5571191/rano-s-nhl-hellebuyck-si-vypytal-vymenu-a-nenastupil-do-pripravy-siria-sa-dohady-o-zahadnom-skupinovom-cete/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5571191-1.mp3",
+      "published": "2026-09-19T05:00:12+00:00",
+      "published_day": "2026-09-19",
+      "categories": [
+        "Šport a pohyb",
+        "Hokej",
+        "NHL",
+        "Ráno s NHL"
+      ],
+      "feed_url": "https://dennikn.sk/sport/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Správate sa na verejnosti „ako dospelí“ alebo si dovolíte aj trocha kreativity? (Víkend bez politiky)",
+      "url": "https://dennikn.sk/5566250/spravate-sa-na-verejnosti-ako-dospeli-alebo-si-dovolite-aj-trocha-kreativity-vikend-bez-politiky/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5566250-1.mp3",
+      "published": "2026-09-18T15:51:39+00:00",
+      "published_day": "2026-09-18",
+      "categories": [
+        "Rodina a vzťahy",
+        "Duševné zdravie",
+        "Víkend bez politiky"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Nemecká novinárka o živote na Západnom brehu: Bolo to zdrvujúce. Súcitila som s palestínskou stranou a cítila hnev voči tej izraelskej",
+      "url": "https://dennikn.sk/5570368/nemecka-novinarka-o-zivote-na-zapadnom-brehu-bolo-to-zdrvujuce-sucitila-som-s-palestinskou-stranou-a-citila-hnev-voci-tej-izraelskej/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5570368-1.mp3",
+      "published": "2026-09-18T15:24:54+00:00",
+      "published_day": "2026-09-18",
+      "categories": [
+        "Kultúra",
+        "Svet",
+        "Izraelsko-palestínsky konflikt",
+        "Knihy",
+        "Rozhovory"
+      ],
+      "feed_url": "https://dennikn.sk/kultura/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Ešteže tohto herca odmietla armáda a hlavnou postavou Pluribusu nebol muž (tipy, na koho sa pozerať)",
+      "url": "https://dennikn.sk/5569755/esteze-tohto-herca-odmietla-armada-a-hlavnou-postavou-pluribusu-nebol-muz-tipy-na-koho-sa-pozerat/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5569755-1.mp3",
+      "published": "2026-09-18T15:17:30+00:00",
+      "published_day": "2026-09-18",
+      "categories": [
+        "Kultúra",
+        "Filmy",
+        "Seriály",
+        "Tipy, čo pozerať"
+      ],
+      "feed_url": "https://dennikn.sk/kultura/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Album Special pripomína menej známu podobu Miroslava Žbirku",
+      "url": "https://dennikn.sk/5567595/album-special-pripomina-menej-znamu-podobu-miroslava-zbirku/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5567595-1.mp3",
+      "published": "2026-09-18T13:30:27+00:00",
+      "published_day": "2026-09-18",
+      "categories": [
+        "Kultúra",
+        "Album týždňa",
+        "Hudba"
+      ],
+      "feed_url": "https://dennikn.sk/kultura/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Umelé oplodnenie je horská dráha emócií. Vhupli sme do toho nepripravení, hovorí mladá žena po troch IVF",
+      "url": "https://dennikn.sk/5560583/umele-oplodnenie-je-horska-draha-emocii-vhupli-sme-do-toho-nepripraveni-hovori-mlada-zena-po-troch-ivf/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5560583-1.mp3",
+      "published": "2026-09-18T08:28:59+00:00",
+      "published_day": "2026-09-18",
+      "categories": [
+        "Audio N",
+        "Rodina a vzťahy",
+        "Slovensko",
+        "Zdravie",
+        "Cesta k zdraviu",
+        "O čom ženy nehovoria",
+        "Rodičovstvo",
+        "Rozhovory",
+        "Vzťahy",
+        "Životy mužov",
+        "Životy žien"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Túžim po otvorenom vzťahu. Ako to vysvetliť partnerke, keď ju nechcem stratiť?",
+      "url": "https://dennikn.sk/5560032/tuzim-po-otvorenom-vztahu-ako-to-vysvetlit-partnerke-ked-ju-nechcem-stratit/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5560032-1.mp3",
+      "published": "2026-09-18T05:15:00+00:00",
+      "published_day": "2026-09-18",
+      "categories": [
+        "Rodina a vzťahy",
+        "Psychologická poradňa",
+        "Vzťahy",
+        "Životy mužov",
+        "Životy žien"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Na Slovensku bude hrať Tsitsipas: Kedysi mal byť jednotka, o jeho úpadku vypovedá aj príhoda z olympiády",
+      "url": "https://dennikn.sk/5566927/na-slovensku-bude-hrat-tsitsipas-kedysi-mal-byt-jednotka-o-jeho-upadku-vypoveda-aj-prihoda-z-olympiady/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5566927-1.mp3",
+      "published": "2026-09-18T05:06:36+00:00",
+      "published_day": "2026-09-18",
+      "categories": [
+        "Šport a pohyb",
+        "Davis Cup",
+        "Košice",
+        "Tenis"
+      ],
+      "feed_url": "https://dennikn.sk/sport/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Už moja mama ma učila, ako zastaviť overthinking. Psychológ vysvetľuje, kedy je opakované analyzovanie myšlienok problém",
+      "url": "https://dennikn.sk/5566110/uz-moja-mama-ma-ucila-ako-zastavit-overthinking-psycholog-vysvetluje-kedy-je-opakovane-analyzovanie-myslienok-problem/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5566110-1.mp3",
+      "published": "2026-09-18T04:04:01+00:00",
+      "published_day": "2026-09-18",
+      "categories": [
+        "Rodina a vzťahy",
+        "Duševné zdravie",
+        "Rozhovory",
+        "Vzťahy"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Jozef Gabčík a český odboj",
+      "url": "https://dennikn.sk/5567912/jozef-gabcik-a-cesky-odboj/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5567912-1.mp3",
+      "published": "2026-09-17T17:26:44+00:00",
+      "published_day": "2026-09-17",
+      "categories": [
+        "Komentáre",
+        "Kultúra",
+        "História",
+        "Knihy"
+      ],
+      "feed_url": "https://dennikn.sk/kultura/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Aj v krehkosti je sila. Moja tvorba je spôsob, ako sa vyrovnávam s realitou, hovorí umelkyňa Lucia Tallová",
+      "url": "https://dennikn.sk/5566764/aj-v-krehkosti-je-sila-moja-tvorba-je-sposob-ako-sa-vyrovnavam-s-realitou-hovori-umelkyna-lucia-tallova/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5566764-1.mp3",
+      "published": "2026-09-17T14:46:44+00:00",
+      "published_day": "2026-09-17",
+      "categories": [
+        "Kultúra",
+        "Martina Šimkovičová",
+        "Rozhovory",
+        "Vizuálne umenie",
+        "Životy žien"
+      ],
+      "feed_url": "https://dennikn.sk/kultura/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Jedni hovoria o mrazivom varovaní, iní by spávali pokojne. Ako vedci hodnotia správu Anthropicu o AI a biologických zbraniach?",
+      "url": "https://dennikn.sk/5566766/jedni-hovoria-o-mrazivom-varovani-ini-by-spavali-pokojne-ako-vedci-hodnotia-spravu-anthropicu-o-ai-a-biologickych-zbraniach/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5566766-1.mp3",
+      "published": "2026-09-17T14:29:36+00:00",
+      "published_day": "2026-09-17",
+      "categories": [
+        "Veda",
+        "AI",
+        "Technológie"
+      ],
+      "feed_url": "https://dennikn.sk/veda/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Je ukričaný, hovorí ukrajinská novinárka o ruskom dabingu Troch orieškov pre Popolušku",
+      "url": "https://dennikn.sk/5566651/je-ukricany-hovori-ukrajinska-novinarka-o-ruskom-dabingu-troch-orieskov-pre-popolusku/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5566651-1.mp3",
+      "published": "2026-09-17T11:38:37+00:00",
+      "published_day": "2026-09-17",
+      "categories": [
+        "Kultúra",
+        "Svet",
+        "Filmy",
+        "Rozhovory",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/kultura/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Namiesto drsnosti romantika. Film Tony ukazuje iný príbeh šéfkuchára Anthonyho Bourdaina",
+      "url": "https://dennikn.sk/5564570/namiesto-drsnosti-romantika-film-tony-ukazuje-iny-pribeh-sefkuchara-anthonyho-bourdaina/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5564570-1.mp3",
+      "published": "2026-09-17T07:51:30+00:00",
+      "published_day": "2026-09-17",
+      "categories": [
+        "Kultúra",
+        "Filmy",
+        "Knihy"
+      ],
+      "feed_url": "https://dennikn.sk/kultura/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Niekto dokáže hovoriť pútavo aj o podmorských kábloch, nie je to ľahké, hovorí Kubányi, ktorá monetizuje podcasty",
+      "url": "https://dennikn.sk/5564455/niekto-dokaze-hovorit-putavo-aj-o-podmorskych-kabloch-nie-je-to-lahke-hovori-kubanyi-ktora-monetizuje-podcasty/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5564455-1.mp3",
+      "published": "2026-09-16T19:13:54+00:00",
+      "published_day": "2026-09-16",
+      "categories": [
+        "Audio N",
+        "Rodina a vzťahy",
+        "Rozhovory",
+        "V ženskom rode",
+        "Životy žien"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Uverili sme tomu, že dospieť znamená nehrať sa. Nie je to pravda, hru stále potrebujeme, vraví dizajnérka hračiek",
+      "url": "https://dennikn.sk/5562093/uverili-sme-tomu-ze-dospiet-znamena-nehrat-sa-nie-je-to-pravda-hru-stale-potrebujeme-vravi-dizajnerka-hraciek/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5562093-1.mp3",
+      "published": "2026-09-16T17:56:46+00:00",
+      "published_day": "2026-09-16",
+      "categories": [
+        "Rodina a vzťahy",
+        "Zdravie",
+        "Duševné zdravie",
+        "Knihy",
+        "Rozhovory"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Nemusíme byť plnohodnotnými animátormi každej detskej činnosti, vraví psychologička Mária Tóthová Šimčáková",
+      "url": "https://dennikn.sk/5559857/nemusime-byt-plnohodnotnymi-animatormi-kazdej-detskej-cinnosti-vravi-psychologicka-maria-tothova-simcakova/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5559857-1.mp3",
+      "published": "2026-09-16T16:08:47+00:00",
+      "published_day": "2026-09-16",
+      "categories": [
+        "Audio N",
+        "Rodina a vzťahy",
+        "Duševné zdravie",
+        "Otcovia v plienkach",
+        "Rodičovstvo",
+        "Rozhovory",
+        "Vzťahy",
+        "Životy mužov"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Zuby si umyte druhou rukou, osprchujte sa potme. Ako si pomocou hravosti zlepšiť život",
+      "url": "https://dennikn.sk/5560047/zuby-si-umyte-druhou-rukou-osprchujte-sa-potme-ako-si-pomocou-hravosti-zlepsit-zivot/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5560047-1.mp3",
+      "published": "2026-09-15T11:08:33+00:00",
+      "published_day": "2026-09-15",
+      "categories": [
+        "Rodina a vzťahy",
+        "Zdravie",
+        "Duševné zdravie"
+      ],
+      "feed_url": "https://dennikn.sk/zdravie/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "Plošticiam a švábom je jedno, či máte upratanú domácnosť, vraví odborník na ničenie škodcov",
+      "url": "https://dennikn.sk/5559520/plosticiam-a-svabom-je-jedno-ci-mate-upratanu-domacnost-vravi-odbornik/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5559520-1.mp3",
+      "published": "2026-09-15T08:38:48+00:00",
+      "published_day": "2026-09-15",
+      "categories": [
+        "Bývanie a záhrada",
+        "Zdravie",
+        "Zdravotníctvo"
+      ],
+      "feed_url": "https://dennikn.sk/zdravie/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
+    {
+      "title": "„Lola mala 36 kíl a zápal pľúc, no lekárka ju poslala domov.“ Matka opisuje dcérinu smrť a jej boj s anorexiou",
+      "url": "https://dennikn.sk/5558107/lola-mala-36-kil-a-zapal-pluc-no-lekarka-ju-poslala-domov-matka-opisuje-dcerinu-smrt-a-jej-boj-s-anorexiou/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5558107-1.mp3",
+      "published": "2026-09-15T07:21:47+00:00",
+      "published_day": "2026-09-15",
+      "categories": [
+        "Rodina a vzťahy",
+        "Zdravie",
+        "Duševné zdravie",
+        "Rozhovory",
+        "Silné ženy",
+        "Zdravotníctvo",
+        "Životy žien"
+      ],
+      "feed_url": "https://dennikn.sk/zdravie/feed/",
+      "first_seen": "2026-09-21T14:41:10.930064+00:00",
+      "last_seen": "2026-09-21T14:41:10.930064+00:00"
+    },
     {
       "title": "Obrazy prežili zemetrasenie aj vojnu, zlodeji ich odniesli zo sicílskeho múzea za tri minúty",
       "url": "https://dennikn.sk/5512510/obrazy-ktore-prezili-zemetrasenie-aj-vojnu-zlodeji-odniesli-zo-sicilskeho-muzea-za-tri-minuty-dve-diela-vsak-nechali-oprete-o-zabradlie/",
