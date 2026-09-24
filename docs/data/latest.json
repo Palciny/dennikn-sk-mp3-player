@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:59:46.240065+00:00",
+  "generated_at": "2026-09-24T19:46:09.335082+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 16,
-  "total_count": 3505,
+  "count": 24,
+  "total_count": 3513,
   "latest_day": "2026-09-24",
   "categories": [
     "1. svetová vojna",
@@ -251,6 +251,7 @@
     "Morálka",
     "Motorizmus",
     "MS v atletike",
+    "MS v cyklistike",
     "MS v hokeji",
     "MS v hokeji do 18 rokov",
     "MS vo futbale",
@@ -654,6 +655,137 @@
   ],
   "articles": [
     {
+      "title": "Slovensko má novú superstar, vraveli Briti. Chladoňová po dokonalom výkone vyhrala MS do 23 rokov",
+      "url": "https://dennikn.sk/5582668/slovensko-ma-novu-superstar-vraveli-briti-chladonova-po-dokonalom-vykone-vyhrala-ms-do-23-rokov/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5582668-1.mp3",
+      "published": "2026-09-24T18:13:44+00:00",
+      "published_day": "2026-09-24",
+      "categories": [
+        "Šport a pohyb",
+        "Cyklistika",
+        "MS v cyklistike"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-24T19:44:00.903730+00:00",
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
+    },
+    {
+      "title": "Posledné dni na zmenu poisťovne: prečo robí Union kampaň a ako pri výbere zvažovať, kto je jej vlastník?",
+      "url": "https://dennikn.sk/5582004/posledne-dni-na-zmenu-poistovne-preco-robi-union-kampan-a-ako-pri-vybere-zvazovat-kto-je-jej-vlastnik/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5582004-1.mp3",
+      "published": "2026-09-24T17:48:34+00:00",
+      "published_day": "2026-09-24",
+      "categories": [
+        "Slovensko",
+        "Zdravotníctvo"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-24T19:44:00.903730+00:00",
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
+    },
+    {
+      "title": "Newsfilter: Čo Fico zlepil, Taraba rozlepuje",
+      "url": "https://dennikn.sk/5582430/newsfilter-co-fico-zlepil-taraba-rozlepuje/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5582430-1.mp3",
+      "published": "2026-09-24T16:54:31+00:00",
+      "published_day": "2026-09-24",
+      "categories": [
+        "Audio N",
+        "Komentáre",
+        "Miroslav Lajčák",
+        "Newsfilter",
+        "Progresívne Slovensko",
+        "Robert Fico",
+        "Tomáš Taraba"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-24T19:44:00.903730+00:00",
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
+    },
+    {
+      "title": "Prečo sme tak ticho, keď je sexuálnym predátorom četbot",
+      "url": "https://dennikn.sk/5581020/preco-sme-tak-ticho-ked-je-sexualnym-predatorom-cetbot/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5581020-1.mp3",
+      "published": "2026-09-24T16:46:44+00:00",
+      "published_day": "2026-09-24",
+      "categories": [
+        "Komentáre",
+        "AI",
+        "Rodičovstvo",
+        "Sexuálne násilie",
+        "Technológie",
+        "Tichá erózia",
+        "Vzťahy"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-24T19:44:00.903730+00:00",
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
+    },
+    {
+      "title": "Predátor ukradol slovenským vedcom identitu, pod ich menami vydal články napísané AI. Stopy vedú k podvodníkom do Indie",
+      "url": "https://dennikn.sk/5576589/predator-ukradol-slovenskym-vedcom-identitu-pod-ich-menami-vydal-clanky-napisane-ai-stopy-vedu-k-podvodnikom-do-indie/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5576589-1.mp3",
+      "published": "2026-09-24T16:15:49+00:00",
+      "published_day": "2026-09-24",
+      "categories": [
+        "Slovensko",
+        "Veda",
+        "AI",
+        "Hoaxy a propaganda",
+        "Školstvo"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-24T19:44:00.903730+00:00",
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
+    },
+    {
+      "title": "Rusko pripravuje dronové útoky na Španielsko, Francúzsko a Taliansko, tvrdí CIA. Pred útokom varujú aj Dáni",
+      "url": "https://dennikn.sk/5582239/rusko-pripravuje-dronove-utoky-na-spanielsko-francuzsko-a-taliansko-tvrdi-cia-pred-utokom-varuju-aj-dani/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5582239-1.mp3",
+      "published": "2026-09-24T15:57:32+00:00",
+      "published_day": "2026-09-24",
+      "categories": [
+        "Svet",
+        "NATO vs. Rusko",
+        "Vladimir Putin",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-24T19:44:00.903730+00:00",
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
+    },
+    {
+      "title": "Bez Francúzska by Slovensko ignorovali. Ako sa ruský oligarcha dostal zo sankčného zoznamu a čo to spôsobí",
+      "url": "https://dennikn.sk/5581381/bez-francuzska-by-slovensko-ignorovali-ako-sa-rusky-oligarcha-dostal-zo-sankcneho-zoznamu-a-co-to-sposobi/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5581381-1.mp3",
+      "published": "2026-09-24T15:55:09+00:00",
+      "published_day": "2026-09-24",
+      "categories": [
+        "Svet",
+        "Európska únia"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-24T19:44:00.903730+00:00",
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
+    },
+    {
+      "title": "Orbánovi ľudia sú v ohrození, dvom exministrom hrozia vysoké tresty (135. deň vlády Tiszy)",
+      "url": "https://dennikn.sk/5581837/orbanovi-ludia-su-v-ohrozeni-dvom-exministrom-hrozia-vysoke-tresty-135-den-vlady-tiszy/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5581837-1.mp3",
+      "published": "2026-09-24T15:08:51+00:00",
+      "published_day": "2026-09-24",
+      "categories": [
+        "Svet",
+        "Maďarsko",
+        "Péter Magyar",
+        "Povolebné Maďarsko",
+        "Viktor Orbán"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-24T19:44:00.903730+00:00",
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
+    },
+    {
       "title": "Koalícii hrozí strata väčšiny, Tarabu môže posilniť Šalitroš. „Nemôžeme cúvnuť,“ vraví Kuffa za SNS",
       "url": "https://dennikn.sk/5581683/koalicii-hrozi-strata-vacsiny-tarabu-moze-posilnit-salitros-nemozeme-cuvnut-vravi-kuffa-za-sns/",
       "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5581683-1.mp3",
@@ -670,7 +802,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-24T13:57:57.052925+00:00",
-      "last_seen": "2026-09-24T13:57:57.052925+00:00"
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
     },
     {
       "title": "Brad Pitt a jeho pes bojujú o život. Film V srdci divočiny rozpráva aj o vernosti a traume",
@@ -684,7 +816,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-24T13:57:57.052925+00:00",
-      "last_seen": "2026-09-24T13:57:57.052925+00:00"
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
     },
     {
       "title": "Vývoj bojov (1673. deň): Rusi blúznia o obkľúčení Dobropille, Azov ich zatiaľ zatlačil na dôležitej časti frontu",
@@ -700,7 +832,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-24T13:57:57.052925+00:00",
-      "last_seen": "2026-09-24T13:57:57.052925+00:00"
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
     },
     {
       "title": "Rúca sa nemecký „protipožiarny múr“?",
@@ -714,7 +846,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-24T13:57:57.052925+00:00",
-      "last_seen": "2026-09-24T13:57:57.052925+00:00"
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
     },
     {
       "title": "Chvat okolo Občianskeho zákonníka 2026 môže znehodnotiť jeho nezastupiteľný význam",
@@ -727,7 +859,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-24T13:57:57.052925+00:00",
-      "last_seen": "2026-09-24T13:57:57.052925+00:00"
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
     },
     {
       "title": "Lajčák tvrdí, že má VIP vstup do OSN a nie je členom slovenskej delegácie. Vystúpiť má aj ako rečník",
@@ -747,7 +879,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-24T13:57:57.052925+00:00",
-      "last_seen": "2026-09-24T13:57:57.052925+00:00"
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
     },
     {
       "title": "Putin sa môže iba smiať z toho, ako sa Európa háda pri migrácii, vraví nemecká právnička",
@@ -761,7 +893,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-24T13:57:57.052925+00:00",
-      "last_seen": "2026-09-24T13:57:57.052925+00:00"
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
     },
     {
       "title": "Obmedzte správy, prijmite, že svet nie je bezpečné miesto. Politici častejšie používajú slovo vojna, čo robiť, ak máte obavy? (anketa)",
@@ -779,7 +911,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-24T13:57:57.052925+00:00",
-      "last_seen": "2026-09-24T13:57:57.052925+00:00"
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
     },
     {
       "title": "Prieskum Ipsosu: Hlas je na historickom minime, Republika na maxime",
@@ -814,7 +946,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed/",
       "first_seen": "2026-09-24T13:57:57.052925+00:00",
-      "last_seen": "2026-09-24T13:57:57.052925+00:00"
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
     },
     {
       "title": "Púchovský z PS naznačuje, že v Hlase sú gejovia. Inakosť: špekulácie o orientácii kvír ľuďom nepomáhajú",
@@ -862,7 +994,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed/",
       "first_seen": "2026-09-24T13:57:57.052925+00:00",
-      "last_seen": "2026-09-24T13:57:57.052925+00:00"
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
     },
     {
       "title": "Predseda KDH Majerský: Valla by som asi nevolil, v Prešovskom kraji mi prieskumy zatiaľ prajú",
@@ -900,7 +1032,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
       "first_seen": "2026-09-24T13:57:57.052925+00:00",
-      "last_seen": "2026-09-24T13:57:57.052925+00:00"
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
     },
     {
       "title": "Ráno s NHL: Pospíšil je reklamou na majstrovstvá sveta. Druhý raz mu pomohli v kariére v Calgary",
@@ -917,7 +1049,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
       "first_seen": "2026-09-24T13:57:57.052925+00:00",
-      "last_seen": "2026-09-24T13:57:57.052925+00:00"
+      "last_seen": "2026-09-24T19:44:00.903730+00:00"
     }
   ]
 }
