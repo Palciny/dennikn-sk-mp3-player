@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T13:35:55.864108+00:00",
+  "generated_at": "2026-09-26T18:56:36.352133+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 11,
-  "total_count": 3560,
+  "count": 12,
+  "total_count": 3561,
   "latest_day": "2026-09-26",
   "categories": [
     "1. svetová vojna",
@@ -661,6 +661,21 @@
   ],
   "articles": [
     {
+      "title": "Ako bude vyzerať záver sezóny F1? Tímy stále nevedia, kde sa uskutoční finále",
+      "url": "https://dennikn.sk/5586056/ako-bude-vyzerat-zaver-sezony-f1-timy-stale-nevedia-kde-sa-uskutocni-finale/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5586056-1.mp3",
+      "published": "2026-09-26T17:06:25+00:00",
+      "published_day": "2026-09-26",
+      "categories": [
+        "Šport a pohyb",
+        "Formula 1",
+        "Motorizmus"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-26T18:55:44.002766+00:00",
+      "last_seen": "2026-09-26T18:55:44.002766+00:00"
+    },
+    {
       "title": "Budovanie ciest k mieru: spoločné úsilie o návrat ukrajinských detí, nezákonne zadržiavaných civilistov a vojnových zajatcov",
       "url": "https://dennikn.sk/5583392/budovanie-ciest-k-mieru-spolocne-usilie-o-navrat-ukrajinskych-deti-nezakonne-zadrziavanych-civilistov-a-vojnovych-zajatcov/",
       "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5583392-1.mp3",
@@ -672,7 +687,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-26T13:34:50.172266+00:00",
-      "last_seen": "2026-09-26T13:34:50.172266+00:00"
+      "last_seen": "2026-09-26T18:55:44.002766+00:00"
     },
     {
       "title": "Pribudne mi medaila, žartuje Ferdinand. Britské médiá a experti debatujú o treste pre Manchester City",
@@ -687,7 +702,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-26T13:34:50.172266+00:00",
-      "last_seen": "2026-09-26T13:34:50.172266+00:00"
+      "last_seen": "2026-09-26T18:55:44.002766+00:00"
     },
     {
       "title": "U druhých často neznášame to, čo u seba prehliadame. O mechanizme psychologickej projekcie v slovenskej spoločnosti",
@@ -701,7 +716,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-26T13:34:50.172266+00:00",
-      "last_seen": "2026-09-26T13:34:50.172266+00:00"
+      "last_seen": "2026-09-26T18:55:44.002766+00:00"
     },
     {
       "title": "Ad: Princípy hospodárskej súťaže komplikujú nemocniciam riadenie personálu",
@@ -715,7 +730,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-26T13:34:50.172266+00:00",
-      "last_seen": "2026-09-26T13:34:50.172266+00:00"
+      "last_seen": "2026-09-26T18:55:44.002766+00:00"
     },
     {
       "title": "GRU na Slovensku: ruská sabotážna sieť operovala zo slovenského územia",
@@ -728,7 +743,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-26T13:34:50.172266+00:00",
-      "last_seen": "2026-09-26T13:34:50.172266+00:00"
+      "last_seen": "2026-09-26T18:55:44.002766+00:00"
     },
     {
       "title": "Na nohách šľapky, v rukách telefón a spací vak. Muž s dáždnikom zvládol Cestu SNP chôdzou za necelých 10 dní",
@@ -743,7 +758,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-26T13:34:50.172266+00:00",
-      "last_seen": "2026-09-26T13:34:50.172266+00:00"
+      "last_seen": "2026-09-26T18:55:44.002766+00:00"
     },
     {
       "title": "Veľvyslankyňa EÚ v Kyjive: Z výbuchov mávam úzkosti. Nikam však nejdeme a na ťažkú zimu sa pripravujeme",
@@ -761,7 +776,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-26T13:34:50.172266+00:00",
-      "last_seen": "2026-09-26T13:34:50.172266+00:00"
+      "last_seen": "2026-09-26T18:55:44.002766+00:00"
     },
     {
       "title": "Čína stavia dátové centrá pre AI jedno za druhým. To najdôležitejšie do nich jej však chýba",
@@ -778,7 +793,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-26T13:34:50.172266+00:00",
-      "last_seen": "2026-09-26T13:34:50.172266+00:00"
+      "last_seen": "2026-09-26T18:55:44.002766+00:00"
     },
     {
       "title": "Starosta Vagač: Z parkovania sme získali 10 miliónov eur, išli na opravu ciest",
@@ -793,7 +808,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-26T13:34:50.172266+00:00",
-      "last_seen": "2026-09-26T13:34:50.172266+00:00"
+      "last_seen": "2026-09-26T18:55:44.002766+00:00"
     },
     {
       "title": "Weiss: Bola by hanba nevyhrať. Otázky a odpovede pred Ligou národov a neobvykle dlhou pauzou",
@@ -810,7 +825,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-26T13:34:50.172266+00:00",
-      "last_seen": "2026-09-26T13:34:50.172266+00:00"
+      "last_seen": "2026-09-26T18:55:44.002766+00:00"
     },
     {
       "title": "Ráno s NHL: Keď góly nie sú všetko. Chromiak svoju šancu v Los Angeles možno nedostane nikdy",
@@ -826,7 +841,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
       "first_seen": "2026-09-26T13:34:50.172266+00:00",
-      "last_seen": "2026-09-26T13:34:50.172266+00:00"
+      "last_seen": "2026-09-26T18:55:44.002766+00:00"
     }
   ]
 }
