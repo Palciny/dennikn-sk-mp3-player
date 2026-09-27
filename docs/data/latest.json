@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:32:05.206372+00:00",
+  "generated_at": "2026-09-27T19:29:14.320976+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 7,
-  "total_count": 3570,
+  "count": 8,
+  "total_count": 3571,
   "latest_day": "2026-09-27",
   "categories": [
     "1. svetová vojna",
@@ -662,6 +662,23 @@
   ],
   "articles": [
     {
+      "title": "Týždňový newsfilter: Fico sa asi iba vyhráža, ale dôvody na predčasné voľby predsa len má",
+      "url": "https://dennikn.sk/5587237/tyzdnovy-newsfilter-fico-sa-asi-iba-vyhraza-ale-dovody-na-predcasne-volby-predsa-len-ma/",
+      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5587237-1.mp3",
+      "published": "2026-09-27T16:48:38+00:00",
+      "published_day": "2026-09-27",
+      "categories": [
+        "Komentáre",
+        "Ficova vláda",
+        "Newsfilter",
+        "Robert Fico",
+        "Rusko"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-09-27T19:27:43.257752+00:00",
+      "last_seen": "2026-09-27T19:27:43.257752+00:00"
+    },
+    {
       "title": "Nedeľná nekázeň: Hľadať Boha v nepriateľovom stane",
       "url": "https://dennikn.sk/5586709/nedelna-nekazen-hladat-boha-v-nepriatelovom-stane/",
       "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5586709-1.mp3",
@@ -673,7 +690,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-27T14:31:01.046716+00:00",
-      "last_seen": "2026-09-27T14:31:01.046716+00:00"
+      "last_seen": "2026-09-27T19:27:43.257752+00:00"
     },
     {
       "title": "Zabudnite na predčasné voľby, ale Fico priznáva, že končí",
@@ -688,7 +705,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-27T14:31:01.046716+00:00",
-      "last_seen": "2026-09-27T14:31:01.046716+00:00"
+      "last_seen": "2026-09-27T19:27:43.257752+00:00"
     },
     {
       "title": "Ak sa Taraba s Dankom nespamätajú, budú predčasné voľby v januári, pohrozil Fico",
@@ -708,7 +725,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-27T14:31:01.046716+00:00",
-      "last_seen": "2026-09-27T14:31:01.046716+00:00"
+      "last_seen": "2026-09-27T19:27:43.257752+00:00"
     },
     {
       "title": "26. september 2026 je smutným výročím slovenských euroobčanov",
@@ -723,7 +740,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-27T14:31:01.046716+00:00",
-      "last_seen": "2026-09-27T14:31:01.046716+00:00"
+      "last_seen": "2026-09-27T19:27:43.257752+00:00"
     },
     {
       "title": "Ak je film Milovník, nie bojovník správa o súčasných dvadsiatnikoch, môžeme byť spokojní",
@@ -737,7 +754,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-27T14:31:01.046716+00:00",
-      "last_seen": "2026-09-27T14:31:01.046716+00:00"
+      "last_seen": "2026-09-27T19:27:43.257752+00:00"
     },
     {
       "title": "Počet zastrelených medveďov sa zvýšil o 1 500 percent, počet útokov stúpol o 40 percent. Čo s tým?",
@@ -751,7 +768,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-27T14:31:01.046716+00:00",
-      "last_seen": "2026-09-27T14:31:01.046716+00:00"
+      "last_seen": "2026-09-27T19:27:43.257752+00:00"
     },
     {
       "title": "Haraslín umlčal kritikov svojho prestupu. Proti Moldavsku bol najlepší hráč, ani nemusel dať gól",
@@ -768,7 +785,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-09-27T14:31:01.046716+00:00",
-      "last_seen": "2026-09-27T14:31:01.046716+00:00"
+      "last_seen": "2026-09-27T19:27:43.257752+00:00"
     }
   ]
 }
