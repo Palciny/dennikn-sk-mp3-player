@@ -150,6 +150,7 @@ STATS = {
     "entries_seen": 0,
     "entries_known": 0,
     "entries_new": 0,
+    "resolved_by_feed": 0,
     "resolved_by_cdn": 0,
     "resolved_by_legacy": 0,
     "resolved_by_html": 0,
@@ -712,8 +713,44 @@ def load_existing_records(now_iso: str) -> dict[str, ArticleRecord]:
     return existing
 
 
-def resolve_mp3(url: str, post_id: str | None, published: str | None, title: str = ""):
-    """Returns (mp3_url, article_html). CDN first, article page as fallback."""
+def feed_entry_mp3(entry) -> str | None:
+    """
+    An MP3 linked straight from the RSS item (enclosure, media or body HTML).
+    The feeds are not blocked, so this costs no extra requests at all.
+    """
+    if entry is None:
+        return None
+    href = episode_audio_url(entry)
+    if href and "predplatne.mp3" not in href.lower():
+        return href
+
+    chunks = [c.get("value") or "" for c in entry.get("content", []) or []]
+    chunks.append(entry.get("summary") or "")
+    for chunk in chunks:
+        if ".mp3" not in chunk.lower():
+            continue
+        found = extract_main_mp3(chunk, entry.get("link") or SITE_ROOT)
+        if found:
+            return found
+    return None
+
+
+def resolve_mp3(
+    url: str,
+    post_id: str | None,
+    published: str | None,
+    title: str = "",
+    entry=None,
+):
+    """
+    Returns (mp3_url, article_html). Cheapest source first: the RSS item, then
+    CDN probes, then the article page as the last (blockable) fallback.
+    """
+    mp3_url = feed_entry_mp3(entry)
+    if mp3_url:
+        STATS["resolved_by_feed"] += 1
+        return mp3_url, None
+
     if post_id:
         mp3_url = derive_mp3_url(post_id, published)
         if mp3_url:
@@ -794,7 +831,7 @@ def build_records() -> tuple[list[ArticleRecord], list[str]]:
 
         STATS["entries_new"] += 1
         post_id = post_id_from_entry(entry, url)
-        mp3_url, html = resolve_mp3(url, post_id, published, title)
+        mp3_url, html = resolve_mp3(url, post_id, published, title, entry)
 
         if not mp3_url:
             STATS["no_audio"] += 1
