@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T20:28:50.557857+00:00",
+  "generated_at": "2026-10-01T15:56:30.636752+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,9 +20,9 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 34,
-  "total_count": 3651,
-  "latest_day": "2026-09-30",
+  "count": 16,
+  "total_count": 3667,
+  "latest_day": "2026-10-01",
   "categories": [
     "1. svetová vojna",
     "17. november",
@@ -195,6 +195,7 @@
     "Klimatická kríza",
     "Klub slovenských turistov",
     "Knihy",
+    "Koaličná kríza",
     "Komentáre",
     "Komunálne a župné voľby 2026",
     "Konferenčná liga",
@@ -362,6 +363,7 @@
     "Ruskí špióni",
     "Ráno s NHL",
     "Rómovia",
+    "Samuel Honzek",
     "Samuel Migaľ",
     "SaS",
     "Seriál Agenti a zradcovia",
@@ -487,6 +489,7 @@
     "Životy žien"
   ],
   "published_days": [
+    "2026-10-01",
     "2026-09-30",
     "2026-09-29",
     "2026-09-28",
@@ -667,549 +670,262 @@
   ],
   "articles": [
     {
-      "title": "Primár novorodeneckého oddelenia: Rodičia niekedy trvajú na amuletoch a talizmanoch proti urieknutiu",
-      "url": "https://dennikn.sk/5590791/primar-novorodeneckeho-oddelenia-rodicia-niekedy-trvaju-na-amuletoch-a-talizmanoch-proti-urieknutiu/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5590791-1.mp3",
-      "published": "2026-09-30T19:44:55+00:00",
-      "published_day": "2026-09-30",
+      "title": "Nová doba v Maďarsku: dvoch exministrov vzali do väzby, vyšetrujú aj Orbánovho brata (142. deň vlády Tiszy)",
+      "url": "https://dennikn.sk/5596610/nova-doba-v-madarsku-dvoch-exministrov-vzali-do-vazby-vysetruju-aj-orbanovho-brata-142-den-vlady-tiszy/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5596610-1.mp3",
+      "published": "2026-10-01T15:43:56+00:00",
+      "published_day": "2026-10-01",
       "categories": [
-        "Rodina a vzťahy",
-        "Slovensko",
-        "Zdravie",
-        "Duševné zdravie",
-        "Heroine",
-        "Pôrody",
-        "Rozhovory",
-        "Zdravotníctvo",
-        "Životy žien"
+        "Svet",
+        "Maďarsko",
+        "Péter Magyar",
+        "Povolebné Maďarsko",
+        "Viktor Orbán"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T20:27:53.693324+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
     },
     {
-      "title": "Newsfilter: Fico žne jeden neúspech za druhým",
-      "url": "https://dennikn.sk/5595193/newsfilter-fico-zne-jeden-neuspech-za-druhym/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5595193-2.mp3",
-      "published": "2026-09-30T17:45:09+00:00",
-      "published_day": "2026-09-30",
+      "title": "Múdrejší ako Zuckerberg. Orbánov hlavný oligarcha by rád spolupracoval aj s Magyarovou vládou",
+      "url": "https://dennikn.sk/5596479/mudrejsi-ako-zuckerberg-orbanov-hlavny-oligarcha-by-rad-spolupracoval-aj-s-magyarovou-vladou/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5596479-1.mp3",
+      "published": "2026-10-01T15:17:38+00:00",
+      "published_day": "2026-10-01",
       "categories": [
-        "Komentáre",
-        "Andrej Danko",
-        "Čurillovci",
+        "Svet",
+        "Maďarsko",
+        "Péter Magyar",
+        "Viktor Orbán"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
+    },
+    {
+      "title": "Panel expertov o vládnej kríze: Fico je zaskočený. Danko ukázal, ako naňho zaberá vydieranie",
+      "url": "https://dennikn.sk/5596721/panel-expertov-o-vladnej-krize-fico-je-zaskoceny-danko-mu-ukazal-ako-nanho-funguje-vydieranie/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5596721-1.mp3",
+      "published": "2026-10-01T14:13:13+00:00",
+      "published_day": "2026-10-01",
+      "categories": [
+        "Slovensko",
         "Ficova vláda",
-        "Newsfilter",
-        "Robert Fico",
         "Tomáš Taraba"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T20:27:53.693324+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
     },
     {
-      "title": "Na autonómnych Robocopov nemyslite, zásadnou hrozbou AI je, že do ľudskej mysle zaseje chaos",
-      "url": "https://dennikn.sk/5594484/na-autonomnych-robocopov-nemyslite-zasadnou-hrozbou-ai-je-ze-do-ludskej-mysle-zaseje-chaos/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5594484-1.mp3",
-      "published": "2026-09-30T17:18:43+00:00",
-      "published_day": "2026-09-30",
+      "title": "Prvé výsledky komunálnych volieb sú známe, v tretine obcí je len jeden kandidát na starostu",
+      "url": "https://dennikn.sk/5594165/prve-vysledky-komunalnych-volieb-su-zname-v-tretine-obci-je-len-jeden-kandidat-na-starostu/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5594165-1.mp3",
+      "published": "2026-10-01T14:08:55+00:00",
+      "published_day": "2026-10-01",
       "categories": [
-        "Komentáre",
-        "Veda",
-        "AI"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T20:27:53.693324+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Urbanistka Štasselová: Verejný priestor by mal byť ako magnet, ktorý ťahá deti dokopy",
-      "url": "https://dennikn.sk/5593219/urbanistka-stasselova-verejny-priestor-by-mal-byt-ako-magnet-ktory-taha-deti-dokopy/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5593219-1.mp3",
-      "published": "2026-09-30T16:47:54+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Audio N",
-        "Rodina a vzťahy",
         "Slovensko",
         "Bratislava",
-        "Otcovia v plienkach",
-        "Rodičovstvo",
-        "Rozhovory"
+        "Komunálne a župné voľby 2026"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T20:27:53.693324+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
     },
     {
-      "title": "Postup polície pred útokom v Staškove preverujú. Riaditeľka dostala útočníka od detí",
-      "url": "https://dennikn.sk/5594444/postup-policie-pred-utokom-v-staskove-preveruju-riaditelka-dostala-utocnika-od-deti/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5594444-1.mp3",
-      "published": "2026-09-30T16:07:05+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Slovensko",
-        "Kriminalita",
-        "Školstvo"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T20:27:53.693324+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "62 rokov sa vracali s kamerou k 14 ľuďom. Ako dopadli tí predurčení k elitnej kariére a tí, čo sa mali stať taxikármi?",
-      "url": "https://dennikn.sk/5581225/62-rokov-sa-vracali-s-kamerou-k-14-ludom-ako-dopadli-ti-predurceni-k-elitnej-kariere-a-ti-co-sa-mali-stat-taxikarmi/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5581225-1.mp3",
-      "published": "2026-09-30T15:14:48+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Kultúra",
-        "Svet",
-        "Veda",
-        "Čítanie z Respektu",
-        "Človek",
-        "Filmy",
-        "História"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T15:31:58.085406+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Prípad Jána Čurillu a jeho kolegov sa vracia na začiatok. Aj krajský súd odmietol obžalobu",
-      "url": "https://dennikn.sk/5594306/pripad-jana-curillu-a-jeho-kolegov-sa-vracia-na-zaciatok-aj-krajsky-sud-odmietol-obzalobu/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5594306-1.mp3",
-      "published": "2026-09-30T15:01:07+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Slovensko",
-        "Čurillovci"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T15:31:58.085406+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Shooty: Láska k prírode",
-      "url": "https://dennikn.sk/5594861/shooty-laska-k-prirode/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/dpoh30092026.mp3",
-      "published": "2026-09-30T14:44:04+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Komentáre",
-        "Shooty"
-      ],
-      "feed_url": "https://dennikn.sk/komentare/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Bude mať Maďarská aliancia slovenského spojenca? PS je stále otvorené spolupráci, na jeseň príde na rad aj KDH",
-      "url": "https://dennikn.sk/5593430/bude-mat-madarska-aliancia-slovenskeho-spojenca-ps-je-stale-otvorene-spolupraci-na-jesen-pride-na-rad-aj-kdh/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5593430-1.mp3",
-      "published": "2026-09-30T14:36:42+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Slovensko",
-        "KDH",
-        "Maďarská aliancia",
-        "Progresívne Slovensko"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Miesto ubytovne vyrastie výšková kancelárska budova. Zaskočení obyvatelia Borov hovoria, že ich Penta obišla",
-      "url": "https://dennikn.sk/5579140/miesto-ubytovne-vyrastie-vyskova-kancelarska-budova-zaskoceni-obyvatelia-borov-hovoria-ze-ich-penta-obisla/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5579140-1.mp3",
-      "published": "2026-09-30T14:28:49+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Slovensko",
-        "Bratislava"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Pellegrini odvolal Tarabu, v Smere spomínajú predčasné voľby",
-      "url": "https://dennikn.sk/5594627/pellegrini-odvolal-tarabu-v-smere-spominaju-predcasne-volby/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5594627-1.mp3",
-      "published": "2026-09-30T14:26:27+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Slovensko",
-        "Andrej Danko",
-        "Ficova vláda",
-        "Peter Pellegrini",
-        "Robert Fico",
-        "SNS",
-        "Tomáš Taraba"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T15:31:58.085406+00:00"
-    },
-    {
-      "title": "Útočník zo Spiša dostal 25 rokov za úkladnú vraždu. Pripomeňme si obete",
-      "url": "https://dennikn.sk/5594247/utocnik-zo-spisa-dostal-25-rokov-za-ukladnu-vrazdu-pripomenme-si-obete/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5594247-1.mp3",
-      "published": "2026-09-30T13:58:07+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Slovensko",
-        "Útok v Spišskej Starej Vsi"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T15:31:58.085406+00:00"
-    },
-    {
-      "title": "Znova a znova som kontroloval zamknuté dvere. Ako sa žije s pocitom, že vás šikanuje vlastná hlava",
-      "url": "https://dennikn.sk/5580750/znova-a-znova-som-kontroloval-zamknute-dvere-ako-sa-zije-s-pocitom-ze-vas-sikanuje-vlastna-hlava/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5580750-1.mp3",
-      "published": "2026-09-30T13:13:24+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Rodina a vzťahy",
-        "Zdravie",
-        "Duševné zdravie",
-        "Vzťahy",
-        "Život s hendikepom",
-        "Životy mužov"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Vývoj bojov (1679. deň): Kde sú okupanti podľa ruských máp a kde sú naozaj – prehľad niektorých častí frontu",
-      "url": "https://dennikn.sk/5592123/vyvoj-bojov-1679-den-kde-su-okupanti-podla-ruskych-map-a-kde-su-naozaj-prehlad-niektorych-casti-frontu/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/exportVB30092026.mp3",
-      "published": "2026-09-30T13:11:28+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Komentáre",
-        "Vojna na Ukrajine",
-        "Vývoj bojov na Ukrajine"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "(N)ostalgia 2.0",
-      "url": "https://dennikn.sk/5591258/nostalgia-2-0/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5591258-1.mp3",
-      "published": "2026-09-30T13:04:59+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Komentáre",
-        "Nemecko"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Autorky filmu Milovník, nie bojovník: Poďte hľadať lásku v tomto šialenom svete",
-      "url": "https://dennikn.sk/5590105/autorky-filmu-milovnik-nie-bojovnik-podte-hladat-lasku-v-tomto-sialenom-svete/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5590105-1.mp3",
-      "published": "2026-09-30T12:58:11+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Kultúra",
-        "Rodina a vzťahy",
-        "Filmy",
-        "Mladí",
-        "Rozhovory"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Čo urobíte, ak sa na vás AI obráti s prosbou, aby ste ju ochránili pred utrpením?",
-      "url": "https://dennikn.sk/5593401/co-urobite-ak-sa-na-vas-ai-obrati-s-prosbou-aby-ste-ju-ochranili-pred-utrpenim/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5593401-1.mp3",
-      "published": "2026-09-30T12:53:58+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Komentáre",
-        "Do hĺbky s Jánom Markošom"
-      ],
-      "feed_url": "https://dennikn.sk/komentare/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Fico stojí pred dilemou. Päť dôvodov, prečo môže chcieť koalíciu udržať",
-      "url": "https://dennikn.sk/5593816/fico-stoji-pred-dilemou-pat-dovodov-preco-moze-chciet-koaliciu-udrzat/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5593816-1.mp3",
-      "published": "2026-09-30T11:43:33+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Slovensko",
-        "Andrej Danko",
-        "Ficova vláda",
-        "Robert Fico",
-        "Smer",
-        "SNS",
-        "Tomáš Taraba"
-      ],
-      "feed_url": "https://dennikn.sk/slovensko/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T14:51:17.156480+00:00"
-    },
-    {
-      "title": "Čo na to proruská scéna: Nezhodne sa, či zlyhal Fico, Taraba alebo Danko. Harabin hľadá stopy Sorosa",
-      "url": "https://dennikn.sk/5593483/co-na-to-proruska-scena-nezhodne-sa-ci-zlyhal-fico-taraba-alebo-danko-harabin-hlada-stopy-sorosa/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5593483-1.mp3",
-      "published": "2026-09-30T11:35:35+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Slovensko",
-        "Andrej Danko",
-        "Ficova vláda",
-        "Hoaxy a propaganda",
-        "Tomáš Taraba"
-      ],
-      "feed_url": "https://dennikn.sk/slovensko/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T14:51:17.156480+00:00"
-    },
-    {
-      "title": "Trumpov svet (618. deň): Nech žije superinteligencia. Biely dom nadchla AI až tak, že ju chce premenovať",
-      "url": "https://dennikn.sk/5593291/trumpov-svet-618-den-nech-zije-superinteligencia-biely-dom-nadchla-ai-az-tak-ze-ju-chce-premenovat/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5593291-1.mp3",
-      "published": "2026-09-30T11:24:27+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Svet",
-        "AI",
-        "Donald Trump",
-        "Konflikt na Blízkom východe",
-        "Trumpov svet (vývoj v Bielom dome)",
-        "USA"
-      ],
-      "feed_url": "https://dennikn.sk/svet/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Počas letu do Tel Avivu pilot podľa svedkov bodol kolegu. Podľa prvých správ chcel zrútiť lietadlo",
-      "url": "https://dennikn.sk/5593301/pocas-letu-do-tel-avivu-sa-pobili-piloti-jeden-chcel-podla-prvych-sprav-havarovat-s-lietadlom/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5593301-1.mp3",
-      "published": "2026-09-30T10:37:10+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Svet",
-        "Vojna na Ukrajine"
-      ],
-      "feed_url": "https://dennikn.sk/svet/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Tusk sa mýlil. S Ficom sú Rusi stále v miestnosti",
-      "url": "https://dennikn.sk/5591918/tusk-sa-mylil-s-ficom-su-rusi-stale-v-miestnosti/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5591918-1.mp3",
-      "published": "2026-09-30T10:14:21+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Komentáre"
-      ],
-      "feed_url": "https://dennikn.sk/komentare/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Vyčnievať alebo zapadnúť? Oblečenie nemení len to, ako vyzeráme, ale aj to, ako bezpečne sa cítime",
-      "url": "https://dennikn.sk/5590492/vycnievat-alebo-zapadnut-oblecenie-nemeni-len-to-ako-vyzerame-ale-aj-to-ako-bezpecne-sa-citime/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5590492-1.mp3",
-      "published": "2026-09-30T09:39:50+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Kultúra",
-        "Rodina a vzťahy",
-        "Heroine",
-        "Mladí"
-      ],
-      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Nemá zmysel sedieť s Trumpom a nepovedať mu, čo si myslíte, vraví kanadský premiér Carney pre NY Times",
-      "url": "https://dennikn.sk/5587820/nema-zmysel-sediet-s-trumpom-a-nepovedat-mu-co-si-myslite-vravi-kanadsky-premier-carney-pre-ny-times/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5587820-1.mp3",
-      "published": "2026-09-30T09:34:22+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Svet",
-        "Clá a obchodné vojny",
-        "Donald Trump",
-        "Kanada",
-        "Rozhovory",
-        "USA"
-      ],
-      "feed_url": "https://dennikn.sk/svet/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "One common misconception is that the Battle of Mohács has a single, universally accepted historical meaning, says Turkish history teacher",
-      "url": "https://dennikn.sk/5593305/one-common-misconception-is-that-the-battle-of-mohacs-has-a-single-universally-accepted-historical-meaning-says-turkish-history-teacher/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5593305-1.mp3",
-      "published": "2026-09-30T09:04:14+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Veda",
-        "Denník N in English"
-      ],
-      "feed_url": "https://dennikn.sk/veda/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Čaj za štyri eurá a klobása v cene tretiny lístka. Reprezentácia prišla na východ a bufety prestrelili ceny",
-      "url": "https://dennikn.sk/5592649/caj-za-styri-eura-a-klobasa-v-cene-tretiny-listka-reprezentacia-prisla-na-vychod-a-bufety-prestrelili-ceny/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5592649-1.mp3",
-      "published": "2026-09-30T09:00:18+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Šport a pohyb",
-        "Futbal",
-        "Futbalová reprezentácia",
-        "Liga národov",
-        "Vladimír Weiss"
-      ],
-      "feed_url": "https://dennikn.sk/sport/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Nenápadný Chust bol pár dní hlavným mestom slobodnej Ukrajiny. Dnes láka hradom aj históriou",
-      "url": "https://dennikn.sk/5580993/nenapadny-chust-bol-par-dni-hlavnym-mestom-slobodnej-ukrajiny-dnes-laka-hradom-aj-historiou/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5580993-1.mp3",
-      "published": "2026-09-30T08:35:47+00:00",
-      "published_day": "2026-09-30",
+      "title": "Pasažierovi z letu do Tel Avivu pri riadení lietadla pomohol seriál. Ak zastavil prudké klesanie, bol to malý zázrak, vraví slovenský pilot",
+      "url": "https://dennikn.sk/5596448/pasazierovi-z-letu-do-tel-avivu-pri-riadeni-lietadla-pomohol-serial-ak-zastavil-prudke-klesanie-bol-to-maly-zazrak-vravi-slovensky-pilot/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5596448-1.mp3",
+      "published": "2026-10-01T13:26:42+00:00",
+      "published_day": "2026-10-01",
       "categories": [
         "Svet"
       ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
+    },
+    {
+      "title": "Kým Fico a SIS zľahčujú ruskú hrozbu, Babiš ju po stretnutí so CIA berie vážne a hovorí o vyslaní dvoch brigád",
+      "url": "https://dennikn.sk/5587928/kym-fico-a-sis-zlahcuju-rusku-hrozbu-babis-ju-po-stretnuti-so-cia-berie-vazne-a-hovori-o-vyslani-dvoch-brigad/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5587928-1.mp3",
+      "published": "2026-10-01T13:23:09+00:00",
+      "published_day": "2026-10-01",
+      "categories": [
+        "Slovensko",
+        "Svet",
+        "Andrej Babiš",
+        "Česko",
+        "Ficova vláda",
+        "NATO vs. Rusko",
+        "Nemecko"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
+    },
+    {
+      "title": "Neistota v parlamente. Vláda podľa Tarabu „balansuje na hrane väčšiny“",
+      "url": "https://dennikn.sk/5596690/neistota-a-chaos-v-parlamente-vlada-podla-tarabu-balansuje-na-hrane-vacsiny/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5596690-1.mp3",
+      "published": "2026-10-01T13:04:06+00:00",
+      "published_day": "2026-10-01",
+      "categories": [
+        "Slovensko",
+        "Ficova vláda",
+        "Hlas",
+        "Robert Fico",
+        "SNS",
+        "Tomáš Taraba"
+      ],
+      "feed_url": "https://dennikn.sk/slovensko/feed/",
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
+    },
+    {
+      "title": "Autoritárstvo nikoho neochráni, deti ani učiteľky",
+      "url": "https://dennikn.sk/5596057/autoritarstvo-nikoho-neochrani-deti-ani-ucitelky/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5596057-1.mp3",
+      "published": "2026-10-01T12:25:30+00:00",
+      "published_day": "2026-10-01",
+      "categories": [
+        "Komentáre",
+        "Školstvo"
+      ],
+      "feed_url": "https://dennikn.sk/komentare/feed/",
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
+    },
+    {
+      "title": "Vývoj bojov (1680. deň) Tanky pálili na Rusov a vrátili sa. Ukrajinci ukázali, že aj v čase dronov môžu byť mechanizované útoky úspešné",
+      "url": "https://dennikn.sk/5594282/vyvoj-bojov-1680-den-tanky-palili-na-rusov-a-vratili-sa-ukrajinci-ukazali-ze-aj-v-case-dronov-mozu-byt-mechanizovane-utoky-uspesne/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/exportVB01102026.mp3",
+      "published": "2026-10-01T12:08:38+00:00",
+      "published_day": "2026-10-01",
+      "categories": [
+        "Audio N",
+        "Komentáre",
+        "Svet",
+        "Vojna na Ukrajine",
+        "Vývoj bojov na Ukrajine"
+      ],
       "feed_url": "https://dennikn.sk/svet/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
     },
     {
-      "title": "U Šimkovičovej urobili súťaž za 4,3 milióna eur, po odchode Machalu ju prehodnocujú",
-      "url": "https://dennikn.sk/5591507/u-simkovicovej-urobili-sutaz-za-43-miliona-eur-po-odchode-machalu-ju-prehodnocuju/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5591507-1.mp3",
-      "published": "2026-09-30T08:33:31+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Kultúra",
-        "Lukáš Machala",
-        "Martina Šimkovičová"
-      ],
-      "feed_url": "https://dennikn.sk/kultura/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Blíži sa nová éra?",
-      "url": "https://dennikn.sk/5591407/blizi-sa-nova-era/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5591407-1.mp3",
-      "published": "2026-09-30T07:35:54+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Komentáre",
-        "Dnes píše",
-        "Donald Trump",
-        "USA"
-      ],
-      "feed_url": "https://dennikn.sk/komentare/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T15:31:58.085406+00:00"
-    },
-    {
-      "title": "Ráno s NHL: Slafkovský ukázal, že je hráčom aj do škaredého zápasu. Aký bol štart novej sezóny",
-      "url": "https://dennikn.sk/5592753/rano-s-nhl-slafkovsky-ukazal-ze-je-hracom-aj-do-skaredeho-zapasu-aky-bol-start-novej-sezony/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5592753-1.mp3",
-      "published": "2026-09-30T05:30:34+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Šport a pohyb",
-        "Hokej",
-        "Juraj Slafkovský",
-        "NHL",
-        "Ráno s NHL"
-      ],
-      "feed_url": "https://dennikn.sk/sport/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Celý život som robil správne rozhodnutia, ale namiesto šťastia cítim prázdnotu. Ako zistiť, čo naozaj chcem?",
-      "url": "https://dennikn.sk/5590370/cely-zivot-som-robil-spravne-rozhodnutia-ale-namiesto-stastia-citim-prazdnotu-ako-zistit-co-naozaj-chcem/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5590370-1.mp3",
-      "published": "2026-09-30T05:20:00+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Rodina a vzťahy",
-        "Duševné zdravie",
-        "Psychologická poradňa",
-        "Životy mužov"
-      ],
-      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
-    },
-    {
-      "title": "Fico, Danko, Taraba. Všetci traja prehrali",
-      "url": "https://dennikn.sk/5592806/fico-danko-taraba-vsetci-traja-prehrali/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5592806-1.mp3",
-      "published": "2026-09-30T05:07:43+00:00",
-      "published_day": "2026-09-30",
-      "categories": [
-        "Komentáre",
-        "Ficova vláda"
-      ],
-      "feed_url": "https://dennikn.sk/komentare/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T15:31:58.085406+00:00"
-    },
-    {
-      "title": "Netušila som, čo je vojna. Potom prišli Rusi a odrezali ma od mamy. Reportáž z Charkiva, kde Liza jedným uchom počúva hudbu a druhým drony",
-      "url": "https://dennikn.sk/5590838/netusila-som-co-je-vojna-potom-prisli-rusi-a-odrezali-ma-od-mamy-reportaz-z-charkiva-kde-liza-jednym-uchom-pocuva-hudbu-a-druhym-drony/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5590838-1.mp3",
-      "published": "2026-09-30T05:02:59+00:00",
-      "published_day": "2026-09-30",
+      "title": "Bardellu dobehli staré antisemitské správy. Le Pen za ním stojí, novinárom odkázala, aby si obliekli nepriestrelnú vestu",
+      "url": "https://dennikn.sk/5596378/bardellu-dobehli-stare-antisemitske-spravy-le-pen-za-nim-stoji-novinarom-odkazala-aby-si-obliekli-nepriestrelnu-vestu/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5596378-1.mp3",
+      "published": "2026-10-01T12:01:40+00:00",
+      "published_day": "2026-10-01",
       "categories": [
         "Svet",
-        "Vojna na Ukrajine"
+        "Francúzsko"
       ],
       "feed_url": "https://dennikn.sk/svet/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
     },
     {
-      "title": "Weiss neskrýval veľký rešpekt, hovoril po rusky a spomínal Slovan. Ako sa Slováci opäť natrápili s Kazachstanom",
-      "url": "https://dennikn.sk/5592632/weiss-neskryval-velky-respekt-hovoril-po-rusky-a-spominal-slovan-ako-sa-slovaci-opat-natrapili-s-kazachstanom/",
-      "mp3_url": "https://a-static.projektn.sk/2026/09/neural-audio-elevenlabs-5592632-1.mp3",
-      "published": "2026-09-30T04:45:55+00:00",
-      "published_day": "2026-09-30",
+      "title": "Dá sa porušiť koaličná zmluva ústavne dovolenými postupmi a úkonmi koaličných politikov?",
+      "url": "https://dennikn.sk/5595762/da-sa-porusit-koalicna-zmluva-ustavne-dovolenymi-postupmi-a-ukonmi-koalicnych-politikov/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5595762-1.mp3",
+      "published": "2026-10-01T10:00:47+00:00",
+      "published_day": "2026-10-01",
+      "categories": [
+        "Komentáre",
+        "Ficova vláda",
+        "Hlas",
+        "Koaličná kríza",
+        "Smer",
+        "SNS"
+      ],
+      "feed_url": "https://dennikn.sk/komentare/feed/",
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
+    },
+    {
+      "title": "V SND zrušili ďalšiu premiéru. To som ešte nezažil, hovorí režisér, ktorý ju chystal dva roky",
+      "url": "https://dennikn.sk/5593392/v-snd-zrusili-dalsiu-premieru-to-som-este-nezazil-hovori-reziser-ktory-ju-chystal-dva-roky/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5593392-1.mp3",
+      "published": "2026-10-01T09:55:32+00:00",
+      "published_day": "2026-10-01",
+      "categories": [
+        "Kultúra",
+        "Slovenské národné divadlo"
+      ],
+      "feed_url": "https://dennikn.sk/kultura/feed/",
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
+    },
+    {
+      "title": "Zaľúbený do beznádeje",
+      "url": "https://dennikn.sk/5593156/zalubeny-do-beznadeje/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5593156-1.mp3",
+      "published": "2026-10-01T08:36:03+00:00",
+      "published_day": "2026-10-01",
+      "categories": [
+        "Komentáre",
+        "Kultúra",
+        "Dnes píše"
+      ],
+      "feed_url": "https://dennikn.sk/komentare/feed/",
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
+    },
+    {
+      "title": "Tom Cruise sa vymanil z postáv lámačov ženských sŕdc a akčných hrdinov. Digger je katastrofický film aj politická satira",
+      "url": "https://dennikn.sk/5590713/tom-cruise-sa-vymanil-z-postav-lamacov-zenskych-srdc-a-akcnych-hrdinov-digger-je-katastroficky-film-aj-politicka-satira/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5590713-1.mp3",
+      "published": "2026-10-01T07:20:16+00:00",
+      "published_day": "2026-10-01",
+      "categories": [
+        "Kultúra",
+        "Filmy"
+      ],
+      "feed_url": "https://dennikn.sk/kultura/feed/",
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
+    },
+    {
+      "title": "Bežal som maratón ako vodič a videl, ako sa bežci pripravujú o lepší čas. Pozor na úvod, slúchadlá aj na GPS",
+      "url": "https://dennikn.sk/5593638/bezal-som-maraton-ako-vodic-a-videl-ako-sa-bezci-pripravuju-o-lepsi-cas-pozor-na-uvod-sluchadla-aj-na-gps/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5593638-1.mp3",
+      "published": "2026-10-01T06:47:21+00:00",
+      "published_day": "2026-10-01",
       "categories": [
         "Šport a pohyb",
-        "Futbal",
-        "Futbalová reprezentácia",
-        "Liga národov",
-        "Vladimír Weiss"
+        "Behanie",
+        "Košice",
+        "Maratón",
+        "Polmaratón",
+        "Radíme športovcom"
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
-      "first_seen": "2026-09-30T14:51:17.156480+00:00",
-      "last_seen": "2026-09-30T20:27:53.693324+00:00"
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
+    },
+    {
+      "title": "Ráno s NHL: Nemec si nesmie preniesť zlozvyky z New Jersey, Slafkovský je strojcom úspechu. Redaktori komentujú štart ligy",
+      "url": "https://dennikn.sk/5593607/rano-s-nhl-nemec-si-nesmie-preniest-zlozvyky-z-new-jersey-slafkovsky-je-strojcom-uspechu-redaktori-komentuju-start-ligy/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5593607-1.mp3",
+      "published": "2026-10-01T05:00:13+00:00",
+      "published_day": "2026-10-01",
+      "categories": [
+        "Šport a pohyb",
+        "Dalibor Dvorský",
+        "Hokej",
+        "Juraj Slafkovský",
+        "Martin Pospíšil",
+        "NHL",
+        "Ráno s NHL",
+        "Samuel Honzek",
+        "Šimon Nemec"
+      ],
+      "feed_url": "https://dennikn.sk/sport/feed/",
+      "first_seen": "2026-10-01T15:55:34.352541+00:00",
+      "last_seen": "2026-10-01T15:55:34.352541+00:00"
     }
   ]
 }
