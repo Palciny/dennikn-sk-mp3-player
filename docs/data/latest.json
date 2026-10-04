@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T14:34:53.838942+00:00",
+  "generated_at": "2026-10-04T18:59:46.069820+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 5,
-  "total_count": 3718,
+  "count": 7,
+  "total_count": 3720,
   "latest_day": "2026-10-04",
   "categories": [
     "1. svetová vojna",
@@ -675,6 +675,46 @@
   ],
   "articles": [
     {
+      "title": "F1 v „Bahrajzii“: nezvyčajný koncept aj pripomienka problémov súčasnej formuly",
+      "url": "https://dennikn.sk/5602212/f1-v-bahrajzii-nezvycajny-koncept-aj-pripomienka-problemov-sucasnej-formuly/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5602212-1.mp3",
+      "published": "2026-10-04T18:09:34+00:00",
+      "published_day": "2026-10-04",
+      "categories": [
+        "Šport a pohyb",
+        "Formula 1",
+        "Motorizmus"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-04T18:57:48.630046+00:00",
+      "last_seen": "2026-10-04T18:57:48.630046+00:00"
+    },
+    {
+      "title": "Týždňový newsfilter: Tri správy o premiérovej kondícii – vydierateľný muž, čo neplní sľuby a klame",
+      "url": "https://dennikn.sk/5602066/tyzdnovy-newsfilter-tri-spravy-o-premierovej-kondicii-vydieratelny-muz-co-neplni-sluby-a-klame/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5602066-1.mp3",
+      "published": "2026-10-04T16:39:45+00:00",
+      "published_day": "2026-10-04",
+      "categories": [
+        "Audio N",
+        "Komentáre",
+        "Andrej Danko",
+        "Ficova vláda",
+        "Hlas",
+        "Kriminalita",
+        "Matúš Šutaj Eštok",
+        "Mladí",
+        "Newsfilter",
+        "Robert Fico",
+        "Školstvo",
+        "Smer",
+        "SNS"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-04T18:57:48.630046+00:00",
+      "last_seen": "2026-10-04T18:57:48.630046+00:00"
+    },
+    {
       "title": "Komentátor Záruba: Brankár Rybár by mohol byť prekážkou prijatia Slovana do českej ligy",
       "url": "https://dennikn.sk/5600756/komentator-zaruba-brankar-rybar-by-mohol-byt-prekazkou-prijatia-slovana-do-ceskej-ligy/",
       "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5600756-1.mp3",
@@ -691,7 +731,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-04T14:33:39.762045+00:00",
-      "last_seen": "2026-10-04T14:33:39.762045+00:00"
+      "last_seen": "2026-10-04T18:57:48.630046+00:00"
     },
     {
       "title": "Útokmi na mosty chcú rozdeliť Kyjiv. Rusko pritvrdilo ešte pred zimou, vyzýva cudzincov na odchod z mesta",
@@ -706,7 +746,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-04T14:33:39.762045+00:00",
-      "last_seen": "2026-10-04T14:33:39.762045+00:00"
+      "last_seen": "2026-10-04T18:57:48.630046+00:00"
     },
     {
       "title": "Fico, Bombic, Tate a ich fanúšikovia. Čo spája politiku s vraždou v škole",
@@ -724,7 +764,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-04T14:33:39.762045+00:00",
-      "last_seen": "2026-10-04T14:33:39.762045+00:00"
+      "last_seen": "2026-10-04T18:57:48.630046+00:00"
     },
     {
       "title": "Nemec mal tri mínusky a bol až tretí najvyťažovanejší. Napriek tomu je najlepším hráčom Calgary",
@@ -740,7 +780,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-04T14:33:39.762045+00:00",
-      "last_seen": "2026-10-04T14:33:39.762045+00:00"
+      "last_seen": "2026-10-04T18:57:48.630046+00:00"
     },
     {
       "title": "Ráno s NHL: Slafkovský bol po prehre vytočený. Ukázal, prečo ho Crosby chválil, no pokazil aj ľahké prihrávky",
@@ -757,7 +797,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-04T14:33:39.762045+00:00",
-      "last_seen": "2026-10-04T14:33:39.762045+00:00"
+      "last_seen": "2026-10-04T18:57:48.630046+00:00"
     }
   ]
 }
