@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:57:12.796102+00:00",
+  "generated_at": "2026-10-04T14:34:53.838942+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,9 +20,9 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 8,
-  "total_count": 3713,
-  "latest_day": "2026-10-03",
+  "count": 5,
+  "total_count": 3718,
+  "latest_day": "2026-10-04",
   "categories": [
     "1. svetová vojna",
     "17. november",
@@ -491,6 +491,7 @@
     "Životy žien"
   ],
   "published_days": [
+    "2026-10-04",
     "2026-10-03",
     "2026-10-02",
     "2026-10-01",
@@ -674,130 +675,89 @@
   ],
   "articles": [
     {
-      "title": "Šéfovia klanov na oslave, otázniky okolo Stalina aj vyvlastňovanie tisícov bytov. Profil berlínskej Die Linke",
-      "url": "https://dennikn.sk/5579841/sefovia-klanov-na-oslave-otazniky-okolo-stalina-aj-vyvlastnovanie-tisicov-bytov-profil-berlinskej-die-linke/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5579841-1.mp3",
-      "published": "2026-10-03T12:07:17+00:00",
-      "published_day": "2026-10-03",
+      "title": "Komentátor Záruba: Brankár Rybár by mohol byť prekážkou prijatia Slovana do českej ligy",
+      "url": "https://dennikn.sk/5600756/komentator-zaruba-brankar-rybar-by-mohol-byt-prekazkou-prijatia-slovana-do-ceskej-ligy/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5600756-1.mp3",
+      "published": "2026-10-04T09:51:40+00:00",
+      "published_day": "2026-10-04",
+      "categories": [
+        "Šport a pohyb",
+        "Česko",
+        "HC Slovan Bratislava",
+        "Hokej",
+        "Hokejová extraliga",
+        "Rozhovory",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-04T14:33:39.762045+00:00",
+      "last_seen": "2026-10-04T14:33:39.762045+00:00"
+    },
+    {
+      "title": "Útokmi na mosty chcú rozdeliť Kyjiv. Rusko pritvrdilo ešte pred zimou, vyzýva cudzincov na odchod z mesta",
+      "url": "https://dennikn.sk/5601312/utokmi-na-mosty-chcu-rozdelit-kyjiv-rusko-pritvrdilo-este-pred-zimou-vyzyva-cudzincov-na-odchod-z-mesta/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5601312-1.mp3",
+      "published": "2026-10-04T08:33:20+00:00",
+      "published_day": "2026-10-04",
       "categories": [
         "Svet",
-        "Nemecko"
+        "Vladimir Putin",
+        "Vojna na Ukrajine"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-03T14:06:36.752433+00:00",
-      "last_seen": "2026-10-03T18:56:41.368840+00:00"
+      "first_seen": "2026-10-04T14:33:39.762045+00:00",
+      "last_seen": "2026-10-04T14:33:39.762045+00:00"
     },
     {
-      "title": "Nad Dunajom vzlietlo 300 dronov a z vody vyplávala pätnásťmetrová ryba. Biela noc zaplnila ulice Bratislavy (+ foto)",
-      "url": "https://dennikn.sk/5600820/nad-dunajom-vzlietlo-300-dronov-a-z-vody-vyplavala-patnastmetrova-ryba-biela-noc-zaplnila-ulice-bratislavy-foto/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5600820-1.mp3",
-      "published": "2026-10-03T11:46:20+00:00",
-      "published_day": "2026-10-03",
+      "title": "Fico, Bombic, Tate a ich fanúšikovia. Čo spája politiku s vraždou v škole",
+      "url": "https://dennikn.sk/5601156/fico-bombic-tate-a-ich-fanusikovia-co-spaja-politiku-s-vrazdou-v-skole/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5601156-1.mp3",
+      "published": "2026-10-04T08:16:56+00:00",
+      "published_day": "2026-10-04",
       "categories": [
-        "Slovensko",
-        "Biela noc"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-03T14:06:36.752433+00:00",
-      "last_seen": "2026-10-03T18:56:41.368840+00:00"
-    },
-    {
-      "title": "Podpredseda parlamentu Dubéci z PS: Deň, keď sme odvolali Tarabu, bol mimoriadne zvláštny",
-      "url": "https://dennikn.sk/5600795/podpredseda-parlamentu-dubeci-z-ps-den-ked-sme-odvolali-tarabu-bol-mimoriadne-zvlastny/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5600795-1.mp3",
-      "published": "2026-10-03T11:06:48+00:00",
-      "published_day": "2026-10-03",
-      "categories": [
-        "Slovensko",
+        "Komentáre",
         "Ficova vláda",
-        "Igor Matovič",
-        "Progresívne Slovensko",
-        "Rozhovory",
-        "SNS",
-        "Tomáš Taraba"
+        "Kriminalita",
+        "Mladí",
+        "Robert Fico",
+        "Školstvo"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-03T14:06:36.752433+00:00",
-      "last_seen": "2026-10-03T18:56:41.368840+00:00"
+      "first_seen": "2026-10-04T14:33:39.762045+00:00",
+      "last_seen": "2026-10-04T14:33:39.762045+00:00"
     },
     {
-      "title": "Starosta Rače Drotován: Vinohrady nechceme zastavať. Prežijú, ak budú ľudia kupovať víno",
-      "url": "https://dennikn.sk/5599011/starosta-race-drotovan-vinohrady-nechceme-zastavat-preziju-ak-budu-ludia-kupovat-vino/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5599011-1.mp3",
-      "published": "2026-10-03T10:05:01+00:00",
-      "published_day": "2026-10-03",
-      "categories": [
-        "Slovensko",
-        "Bratislava",
-        "Komunálne a župné voľby 2026"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-03T14:06:36.752433+00:00",
-      "last_seen": "2026-10-03T18:56:41.368840+00:00"
-    },
-    {
-      "title": "Bosý prešiel Slovensko a na pionieri Európu. V Nórsku som sa tešil, čo sa mi zas pokazí, vraví dobrodruh Štutika",
-      "url": "https://dennikn.sk/5594585/bosy-presiel-slovensko-a-na-pionieri-europu-v-norsku-som-sa-tesil-co-sa-mi-zas-pokazi-vravi-dobrodruh-stutika/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5594585-1.mp3",
-      "published": "2026-10-03T09:50:19+00:00",
-      "published_day": "2026-10-03",
+      "title": "Nemec mal tri mínusky a bol až tretí najvyťažovanejší. Napriek tomu je najlepším hráčom Calgary",
+      "url": "https://dennikn.sk/5601503/nemec-mal-tri-minusky-a-bol-az-treti-najvytazovanejsi-napriek-tomu-je-najlepsim-hracom-calgary/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5601503-1.mp3",
+      "published": "2026-10-04T07:56:49+00:00",
+      "published_day": "2026-10-04",
       "categories": [
         "Šport a pohyb",
-        "Svet",
-        "Rozhovory",
-        "Turistika a outdoor"
+        "Hokej",
+        "NHL",
+        "Šimon Nemec"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-03T14:06:36.752433+00:00",
-      "last_seen": "2026-10-03T18:56:41.368840+00:00"
+      "first_seen": "2026-10-04T14:33:39.762045+00:00",
+      "last_seen": "2026-10-04T14:33:39.762045+00:00"
     },
     {
-      "title": "Weiss ukázal, že sa nebojí experimentovať. Potom vyhlásil, že Slovensko si nezaslúžilo vyhrať",
-      "url": "https://dennikn.sk/5600397/weiss-ukazal-ze-sa-neboji-experimentovat-potom-vyhlasil-ze-slovensko-si-nezasluzilo-vyhrat/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5600397-1.mp3",
-      "published": "2026-10-03T04:45:51+00:00",
-      "published_day": "2026-10-03",
+      "title": "Ráno s NHL: Slafkovský bol po prehre vytočený. Ukázal, prečo ho Crosby chválil, no pokazil aj ľahké prihrávky",
+      "url": "https://dennikn.sk/5601399/rano-s-nhl-slafkovsky-bol-po-prehre-vytoceny-ukazal-preco-ho-crosby-chvalil-no-pokazil-aj-lahke-prihravky/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5601399-1.mp3",
+      "published": "2026-10-04T06:03:52+00:00",
+      "published_day": "2026-10-04",
       "categories": [
         "Šport a pohyb",
-        "Futbal",
-        "Futbalová reprezentácia",
-        "Liga národov"
+        "Hokej",
+        "Juraj Slafkovský",
+        "NHL",
+        "Ráno s NHL"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-03T14:06:36.752433+00:00",
-      "last_seen": "2026-10-03T18:56:41.368840+00:00"
-    },
-    {
-      "title": "Asistent Hlasu skončil po akcii s mladými z Republiky. Vedenie Hlasu mlčí",
-      "url": "https://dennikn.sk/5598490/asistent-hlasu-skoncil-po-akcii-s-mladymi-z-republiky-vedenie-hlasu-mlci/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5598490-1.mp3",
-      "published": "2026-10-03T04:25:23+00:00",
-      "published_day": "2026-10-03",
-      "categories": [
-        "Slovensko",
-        "Hlas",
-        "Migrácia",
-        "Republika"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-03T14:06:36.752433+00:00",
-      "last_seen": "2026-10-03T18:56:41.368840+00:00"
-    },
-    {
-      "title": "Leško, Šimečka, Kostolný, Hudák: Fico je v stave vysokého stresu, všetky jeho možnosti sú zlé",
-      "url": "https://dennikn.sk/5585208/lesko-simecka-kostolny-hudak-fico-je-v-stave-vysokeho-stresu-vsetky-jeho-moznosti-su-zle/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5585208-1.mp3",
-      "published": "2026-10-03T04:00:00+00:00",
-      "published_day": "2026-10-03",
-      "categories": [
-        "Audio N",
-        "Slovensko",
-        "Ako zachrániť demokraciu",
-        "V redakcii"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-03T14:06:36.752433+00:00",
-      "last_seen": "2026-10-03T18:56:41.368840+00:00"
+      "first_seen": "2026-10-04T14:33:39.762045+00:00",
+      "last_seen": "2026-10-04T14:33:39.762045+00:00"
     }
   ]
 }
