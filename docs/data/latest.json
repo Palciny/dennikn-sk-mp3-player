@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:18:32.586955+00:00",
+  "generated_at": "2026-10-11T19:54:09.112040+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 12,
-  "total_count": 3872,
+  "count": 13,
+  "total_count": 3874,
   "latest_day": "2026-10-11",
   "categories": [
     "1. svetová vojna",
@@ -688,6 +688,27 @@
   ],
   "articles": [
     {
+      "title": "Týždňový newsfilter: Robert Fico hovorí, že má rád svoju prácu. Nedá sa nevšimnúť si to",
+      "url": "https://dennikn.sk/5616995/tyzdnovy-newsfilter-robert-fico-hovori-ze-ma-rad-svoju-pracu-neda-sa-nevsimnut-si-to/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5616995-1.mp3",
+      "published": "2026-10-11T15:42:04+00:00",
+      "published_day": "2026-10-11",
+      "categories": [
+        "Komentáre",
+        "Donald Trump",
+        "Ficova vláda",
+        "Igor Matovič",
+        "Matúš Šutaj Eštok",
+        "Newsfilter",
+        "Robert Fico",
+        "Útok v Staškove",
+        "Vladimir Putin"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-11T19:52:13.005491+00:00",
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
+    },
+    {
       "title": "Letisko v Rijáde zasiahli húsíovci tretíkrát za týždeň. Trump zvažuje údery, Saudskej Arábii ubúdajú obranné strely",
       "url": "https://dennikn.sk/5616900/letisko-v-rijade-zasiahli-husiovci-tretikrat-za-tyzden-trump-zvazuje-udery-saudskej-arabii-ubudaju-obranne-strely/",
       "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5616900-1.mp3",
@@ -702,7 +723,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-11T15:16:54.233405+00:00",
-      "last_seen": "2026-10-11T15:16:54.233405+00:00"
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
     },
     {
       "title": "Nezávislá komisia ohodnotila kandidátov na rektora UK. Tancer obstál lepšie než Števček",
@@ -716,7 +737,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-11T15:16:54.233405+00:00",
-      "last_seen": "2026-10-11T15:16:54.233405+00:00"
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
     },
     {
       "title": "Detektor lži so spoľahlivosťou 95 percent?",
@@ -729,7 +750,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-11T15:16:54.233405+00:00",
-      "last_seen": "2026-10-11T15:16:54.233405+00:00"
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
     },
     {
       "title": "Hrozba bola vážnejšia než predchádzajúce. Poľsko preveruje možný pokus o atentát na Tuska",
@@ -745,7 +766,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-11T15:16:54.233405+00:00",
-      "last_seen": "2026-10-11T15:16:54.233405+00:00"
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
     },
     {
       "title": "Uzemnením seniora spustil Matovič odpor voči svojim mítingom. Nezasahovala ochranka hnutia, ale policajti (+ video)",
@@ -759,7 +780,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-11T15:16:54.233405+00:00",
-      "last_seen": "2026-10-11T15:16:54.233405+00:00"
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
     },
     {
       "title": "Nedeľná nekázeň: Za nízkou cenou sa často skrýva vysoká cena, ktorú zaplatil niekto iný",
@@ -773,7 +794,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-11T15:16:54.233405+00:00",
-      "last_seen": "2026-10-11T15:16:54.233405+00:00"
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
     },
     {
       "title": "Dron v službách GRU: Sabotáž v Lipsku odhaľuje sieť, ktorá operovala aj v Poľsku. Stopy ďalších operácií vedú na Slovensko",
@@ -788,7 +809,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-11T15:16:54.233405+00:00",
-      "last_seen": "2026-10-11T15:16:54.233405+00:00"
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
     },
     {
       "title": "Ruské domy",
@@ -803,7 +824,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-11T15:16:54.233405+00:00",
-      "last_seen": "2026-10-11T15:16:54.233405+00:00"
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
     },
     {
       "title": "Ráno s NHL: Nemec spravil banalitu, ktorú Chára zavrhoval. Čo predchádzalo jeho prvému bodu za Calgary",
@@ -820,7 +841,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
       "first_seen": "2026-10-11T15:16:54.233405+00:00",
-      "last_seen": "2026-10-11T15:16:54.233405+00:00"
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
     },
     {
       "title": "Babiš po voľbách hovoril o nenávisti. Senátorov si dal hodnotiť cez AI, v komore chcel „normálnych ľudí“",
@@ -836,7 +857,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed/",
       "first_seen": "2026-10-11T15:16:54.233405+00:00",
-      "last_seen": "2026-10-11T15:16:54.233405+00:00"
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
     },
     {
       "title": "Otec Sauerovcov: Rodičia by nemali nazývať obetou, že vozia deti na šport. Potom hľadajú alibi, prečo nie sú úspešní",
@@ -857,7 +878,7 @@
       ],
       "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
       "first_seen": "2026-10-11T15:16:54.233405+00:00",
-      "last_seen": "2026-10-11T15:16:54.233405+00:00"
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
     },
     {
       "title": "Riaditeľ centra dizajnu Schmidt: Končím, nevládzem ľuďom odpovedať na otázku, či dostanú výplatu",
@@ -874,7 +895,7 @@
       ],
       "feed_url": "https://dennikn.sk/slovensko/feed/",
       "first_seen": "2026-10-11T15:16:54.233405+00:00",
-      "last_seen": "2026-10-11T15:16:54.233405+00:00"
+      "last_seen": "2026-10-11T19:52:13.005491+00:00"
     }
   ]
 }
