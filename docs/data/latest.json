@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:49:44.581616+00:00",
+  "generated_at": "2026-10-15T13:52:58.855858+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 16,
-  "total_count": 3972,
+  "count": 18,
+  "total_count": 3974,
   "latest_day": "2026-10-15",
   "categories": [
     "1. svetová vojna",
@@ -693,6 +693,34 @@
   ],
   "articles": [
     {
+      "title": "Hádka opozície: Hlina nakričal na PS, KDH a Demokratov a pričuchol si k Šipošovi, aby ukázal, že nesmrdí",
+      "url": "https://dennikn.sk/5625747/hadka-opozicie-hlina-nakrical-na-ps-kdh-a-demokratov-a-pricuchol-si-k-siposovi-aby-ukazal-ze-nesmrdi/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5625747-1.mp3",
+      "published": "2026-10-15T13:26:08+00:00",
+      "published_day": "2026-10-15",
+      "categories": [
+        "Slovensko"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-15T13:51:36.893566+00:00",
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
+    },
+    {
+      "title": "Otázky po útoku na zdravotnú sestru: Majú byť policajti v nemocniciach a potrebujeme záchytky?",
+      "url": "https://dennikn.sk/5625955/otazky-po-utoku-na-zdravotnu-sestru-maju-byt-policajti-v-nemocniciach-a-potrebujeme-zachytky/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5625955-1.mp3",
+      "published": "2026-10-15T12:56:12+00:00",
+      "published_day": "2026-10-15",
+      "categories": [
+        "Slovensko",
+        "Kamil Šaško",
+        "Zdravotníctvo"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-15T13:51:36.893566+00:00",
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
+    },
+    {
       "title": "Vývoj bojov (1694. deň): Zelenskyj má toho dosť. Ukrajinci znovu útočia na rafinérie a nepotrebujú na to Starlink",
       "url": "https://dennikn.sk/5625311/vyvoj-bojov-1694-den-zelenskyj-ma-toho-dost-ukrajinci-znovu-utocia-na-rafinerie-a-nepotrebuju-na-to-starlink/",
       "mp3_url": "https://a-static.projektn.sk/2026/10/exportVB15102026.mp3",
@@ -706,7 +734,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Čím viac Putin eskaluje svoje útoky na Európu, tým viac by mala Európa podporiť Ukrajinu",
@@ -722,7 +750,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Viera oslobodzuje, inak je z otrávenej studne",
@@ -736,7 +764,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Trumpov svet (633.deň): Voľby vyhrávajú peňaženky. Trumpova vojna stojí bežnú americkú domácnosť dvetisíc dolárov",
@@ -752,7 +780,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Púchovský je internetový agresor, píšu Hrčkovi ľudia v novinách, ktoré vydáva Dojevallo. Najostrejšia kampaň je v Petržalke",
@@ -767,7 +795,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Blanár sa chystá do Moskvy, Fico tak splní tretí sľub Putinovi",
@@ -784,7 +812,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Spojené voľby a budúcnosť Slovenska",
@@ -799,7 +827,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Starostlivosť o vážne chorých vo Švédsku? Tímy odborníkov na telefóne, pomôcky zdarma a asistenti doma 24/7",
@@ -818,7 +846,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Jakab z Hnutia Slovensko: Je absolútna dehonestácia žiadať vládu bez Igora Matoviča",
@@ -837,7 +865,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Čo sľubujú kandidáti na starostu v Novom Meste: jednu parkovaciu zónu, kamery a transparentný úrad",
@@ -852,7 +880,7 @@
       ],
       "feed_url": "https://dennikn.sk/slovensko/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Dievča obťažoval robot, mladíci to vysielali naživo. Technológie menia podoby sexuálneho ponižovania",
@@ -872,7 +900,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "V EÚ momentálne vidia Fica ako najvýraznejšieho Putinovho spojenca",
@@ -889,7 +917,7 @@
       ],
       "feed_url": "https://dennikn.sk/slovensko/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Dnešný ruský teror je jedinečný",
@@ -904,7 +932,7 @@
       ],
       "feed_url": "https://dennikn.sk/komentare/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Čo číta Jana Šlinská: Taliansko v troch knihách – záhadný večierok, rodinné tajomstvo a Rím, ako ho nepoznáte",
@@ -922,7 +950,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Ráno s NHL: Bolo to desivé, Slafkovský vyzeral ako pinballová loptička, vravel novinár o údere do hlavy",
@@ -939,7 +967,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     },
     {
       "title": "Je obrovská hanba, že nebolo vypredané na Lige majstrov, vraví fanúšik Slovana. Sauer si rypol do trávnika",
@@ -956,7 +984,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
       "first_seen": "2026-10-15T12:48:25.787295+00:00",
-      "last_seen": "2026-10-15T12:48:25.787295+00:00"
+      "last_seen": "2026-10-15T13:51:36.893566+00:00"
     }
   ]
 }
