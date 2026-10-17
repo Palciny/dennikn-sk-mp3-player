@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:38:50.549977+00:00",
+  "generated_at": "2026-10-17T16:05:38.928235+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 4,
-  "total_count": 4026,
+  "count": 7,
+  "total_count": 4029,
   "latest_day": "2026-10-17",
   "categories": [
     "1. svetová vojna",
@@ -697,6 +697,52 @@
   ],
   "articles": [
     {
+      "title": "Babiš utrpel debakel. Český senát zostáva v rukách opozície, jeho hlavný súper silnie",
+      "url": "https://dennikn.sk/5630268/babis-utrpel-debakel-cesky-senat-zostava-v-rukach-opozicie-jeho-hlavny-super-silnie/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5630268-1.mp3",
+      "published": "2026-10-17T15:43:20+00:00",
+      "published_day": "2026-10-17",
+      "categories": [
+        "Svet",
+        "Andrej Babiš",
+        "Česko"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-17T16:04:56.255752+00:00",
+      "last_seen": "2026-10-17T16:04:56.255752+00:00"
+    },
+    {
+      "title": "F1 v Afrike, Haas s nováčikom a od budúceho roka kratšie preteky",
+      "url": "https://dennikn.sk/5629706/f1-v-afrike-haas-s-novacikom-a-od-buduceho-roka-kratsie-preteky/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5629706-1.mp3",
+      "published": "2026-10-17T13:38:20+00:00",
+      "published_day": "2026-10-17",
+      "categories": [
+        "Audio N",
+        "Šport a pohyb",
+        "Boxová ulička",
+        "Formula 1",
+        "Motorizmus",
+        "Športové podcasty Denníka N"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-17T16:04:56.255752+00:00",
+      "last_seen": "2026-10-17T16:04:56.255752+00:00"
+    },
+    {
+      "title": "V Afrike je na spadnutie ďalšia vojna. Čo sa deje medzi Etiópiou a Eritreou, ktoré ešte nedávno bojovali bok po boku",
+      "url": "https://dennikn.sk/5629147/v-afrike-je-na-spadnutie-dalsia-vojna-co-sa-deje-medzi-etiopiou-a-eritreou-ktore-este-nedavno-bojovali-bok-po-boku/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5629147-1.mp3",
+      "published": "2026-10-17T13:00:37+00:00",
+      "published_day": "2026-10-17",
+      "categories": [
+        "Svet"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-17T16:04:56.255752+00:00",
+      "last_seen": "2026-10-17T16:04:56.255752+00:00"
+    },
+    {
       "title": "Cítia veľkú šancu a burcujú svojich voličov. Ako vyzerá kampaň favoritov na košického primátora týždeň pred voľbami",
       "url": "https://dennikn.sk/5629980/citia-velku-sancu-a-burcuju-svojich-volicov-ako-vyzera-kampan-favoritov-na-kosickeho-primatora-tyzden-pred-volbami/",
       "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5629980-1.mp3",
@@ -709,7 +755,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-17T12:38:16.024528+00:00",
-      "last_seen": "2026-10-17T12:38:16.024528+00:00"
+      "last_seen": "2026-10-17T16:04:56.255752+00:00"
     },
     {
       "title": "High 5ive: Medzi eufóriou a vyčerpaním – ako vyzeral moment po zábave v 19. storočí",
@@ -723,7 +769,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-17T12:38:16.024528+00:00",
-      "last_seen": "2026-10-17T12:38:16.024528+00:00"
+      "last_seen": "2026-10-17T16:04:56.255752+00:00"
     },
     {
       "title": "Leško, Šimečka, Kostolný, Hudák: Nestačí mať len nádej, potrebujeme ľudí, ktorí nebudú pasívni",
@@ -739,7 +785,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-17T12:38:16.024528+00:00",
-      "last_seen": "2026-10-17T12:38:16.024528+00:00"
+      "last_seen": "2026-10-17T16:04:56.255752+00:00"
     },
     {
       "title": "Čo sľubujú kandidáti na starostu v Karlovej Vsi: opraviť všetky chodníky aj obnovu Jurigovho námestia na dôstojné centrum",
@@ -754,7 +800,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-17T12:38:16.024528+00:00",
-      "last_seen": "2026-10-17T12:38:16.024528+00:00"
+      "last_seen": "2026-10-17T16:04:56.255752+00:00"
     }
   ]
 }
