@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T12:56:52.329394+00:00",
+  "generated_at": "2026-10-18T16:21:02.243176+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 9,
-  "total_count": 4039,
+  "count": 13,
+  "total_count": 4043,
   "latest_day": "2026-10-18",
   "categories": [
     "1. svetová vojna",
@@ -699,6 +699,75 @@
   ],
   "articles": [
     {
+      "title": "Izraelčania idú prvýkrát po 7. októbri voliť. Čo sa stane s ich krajinou, ak znovu uspeje Netanjahu?",
+      "url": "https://dennikn.sk/5631048/izraelcania-idu-prvykrat-po-7-oktobri-volit-co-sa-stane-s-ich-krajinou-ak-znovu-uspeje-netanjahu/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5631048-1.mp3",
+      "published": "2026-10-18T15:26:00+00:00",
+      "published_day": "2026-10-18",
+      "categories": [
+        "Svet",
+        "Izraelsko-palestínsky konflikt",
+        "Rozhovory"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-18T16:20:09.904996+00:00",
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
+    },
+    {
+      "title": "O klamstve v našom verejnom živote",
+      "url": "https://dennikn.sk/5631473/o-klamstve-v-nasom-verejnom-zivote/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5631473-1.mp3",
+      "published": "2026-10-18T15:04:57+00:00",
+      "published_day": "2026-10-18",
+      "categories": [
+        "Komentáre",
+        "Dnes píše"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-18T16:20:09.904996+00:00",
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
+    },
+    {
+      "title": "Na Rážovej kampani pracoval aj Babišov marketér, Vallo si uťahuje z jeho otvárača na konzervy (aké je finále kampane v Bratislave)",
+      "url": "https://dennikn.sk/5627849/na-razovej-kampani-pracoval-aj-babisov-marketer-vallo-si-utahuje-z-jeho-otvaraca-na-konzervy-ake-je-finale-kampane-v-bratislave/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5627849-1.mp3",
+      "published": "2026-10-18T13:02:39+00:00",
+      "published_day": "2026-10-18",
+      "categories": [
+        "Slovensko",
+        "Bratislava",
+        "Jozef Ráž",
+        "Komunálne a župné voľby 2026",
+        "Matúš Vallo",
+        "Progresívne Slovensko",
+        "Smer"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-18T16:20:09.904996+00:00",
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
+    },
+    {
+      "title": "Gröhling ohlásil vystúpenie opozičných predsedov aj s Matovičom. Znovu sľubuje niečo, čo nie je dohodnuté, reaguje PS",
+      "url": "https://dennikn.sk/5631447/grohling-ohlasil-vystupenie-opozicnych-predsedov-aj-s-matovicom-znovu-slubuje-nieco-co-nie-je-dohodnute-reaguje-ps/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5631447-1.mp3",
+      "published": "2026-10-18T12:44:16+00:00",
+      "published_day": "2026-10-18",
+      "categories": [
+        "Slovensko",
+        "Branislav Gröhling",
+        "Demokrati",
+        "Hnutie Slovensko",
+        "KDH",
+        "Maďarská aliancia",
+        "Michal Šimečka",
+        "Progresívne Slovensko",
+        "SaS"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-18T16:20:09.904996+00:00",
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
+    },
+    {
       "title": "Nenakrúcaj, lebo ťa zabijem, vyhrážali sa predavačovi. Francúzske protesty sprevádza rabovanie, podpálili aj radnicu",
       "url": "https://dennikn.sk/5631068/nenakrucaj-lebo-ta-zabijem-vyhrazali-sa-predavacovi-francuzske-protesty-sprevadza-rabovanie-podpalili-aj-radnicu/",
       "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5631068-1.mp3",
@@ -710,7 +779,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-18T12:56:04.418024+00:00",
-      "last_seen": "2026-10-18T12:56:04.418024+00:00"
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
     },
     {
       "title": "Predstavte si seba v Matrixe – vyberiete si červenú či modrú?",
@@ -724,7 +793,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-18T12:56:04.418024+00:00",
-      "last_seen": "2026-10-18T12:56:04.418024+00:00"
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
     },
     {
       "title": "Nedeľná nekázeň: Potrebujeme viac Islandu na Slovensku",
@@ -738,7 +807,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-18T12:56:04.418024+00:00",
-      "last_seen": "2026-10-18T12:56:04.418024+00:00"
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
     },
     {
       "title": "Teším sa na ďalšiu časť seriálu Velopolis",
@@ -755,7 +824,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-18T12:56:04.418024+00:00",
-      "last_seen": "2026-10-18T12:56:04.418024+00:00"
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
     },
     {
       "title": "Američania sú teraz cynickejší, Trumpa považujú za súčasť bežnej politiky, vraví novinár New York Times",
@@ -772,7 +841,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-18T12:56:04.418024+00:00",
-      "last_seen": "2026-10-18T12:56:04.418024+00:00"
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
     },
     {
       "title": "Čo sľubujú kandidáti na starostu v Podunajských Biskupiciach a Vrakuni: vyčistiť areál chemických závodov aj stálu hliadku mestskej polície",
@@ -787,7 +856,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-18T12:56:04.418024+00:00",
-      "last_seen": "2026-10-18T12:56:04.418024+00:00"
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
     },
     {
       "title": "Ráno s NHL: Pálffyho životná sezóna, Demitrova prvá v St. Louis. Ako sa pred 30 rokmi darilo Slovákom",
@@ -804,7 +873,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-18T12:56:04.418024+00:00",
-      "last_seen": "2026-10-18T12:56:04.418024+00:00"
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
     },
     {
       "title": "Otec Tourému zakázal karate. Neskôr sa ukázalo, akú službu urobil svetovému futbalu",
@@ -821,7 +890,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-18T12:56:04.418024+00:00",
-      "last_seen": "2026-10-18T12:56:04.418024+00:00"
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
     },
     {
       "title": "Fanúšikovia Slovana a Trnavy sa spojili proti SFZ. Derby prinieslo aj otázku, ktorá je väčšia než výsledok",
@@ -838,7 +907,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-18T12:56:04.418024+00:00",
-      "last_seen": "2026-10-18T12:56:04.418024+00:00"
+      "last_seen": "2026-10-18T16:20:09.904996+00:00"
     }
   ]
 }
