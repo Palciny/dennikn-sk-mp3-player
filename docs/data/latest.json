@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:03:20.704289+00:00",
+  "generated_at": "2026-10-24T18:33:05.628368+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 7,
-  "total_count": 4201,
+  "count": 13,
+  "total_count": 4207,
   "latest_day": "2026-10-24",
   "categories": [
     "1. svetová vojna",
@@ -711,6 +711,96 @@
   ],
   "articles": [
     {
+      "title": "Exit poll z Bratislavy: Vallo vyhral s väčším náskokom, než ukazoval posledný prieskum",
+      "url": "https://dennikn.sk/5645825/exit-poll-z-bratislavy-vallo-vyhral-s-vacsim-naskokom-ako-ukazoval-posledny-prieskum/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5645825-1.mp3",
+      "published": "2026-10-24T18:00:19+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Slovensko",
+        "Bratislava",
+        "Jozef Ráž",
+        "Komunálne a župné voľby 2026",
+        "Matúš Vallo"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-24T18:32:21.984287+00:00",
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
+    },
+    {
+      "title": "Sledujte volebné štúdio Denníka N naživo: Tódová, Kostolný, Šimečka, Leško aj politickí analytici",
+      "url": "https://dennikn.sk/5645956/sledujte-volebne-studio-dennika-n-nazivo-todova-kostolny-simecka-lesko-aj-politicki-analytici/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5645956-1.mp3",
+      "published": "2026-10-24T17:55:46+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Slovensko",
+        "Komunálne a župné voľby 2026"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-24T18:32:21.984287+00:00",
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
+    },
+    {
+      "title": "Od plameniakov k horiacim budovám. Premiér Rama už nemá čo ponúknuť, hovorí novinár o protestoch v Albánsku",
+      "url": "https://dennikn.sk/5641193/od-plameniakov-k-horiacim-budovam-premier-rama-uz-nema-co-ponuknut-hovori-novinar-o-protestoch-v-albansku/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5641193-1.mp3",
+      "published": "2026-10-24T17:37:11+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Svet"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-24T18:32:21.984287+00:00",
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
+    },
+    {
+      "title": "Vlhová bude opäť na pódiu. Keď sa pýtate, ako rýchlo, pozrite sa na Lindsey Vonn, vraví legendárny lyžiar Aamodt",
+      "url": "https://dennikn.sk/5645368/vlhova-bude-opat-na-podiu-ked-sa-pytate-ako-rychlo-pozrite-sa-na-lindsey-vonn-vravi-legendarny-lyziar-aamodt/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5645368-1.mp3",
+      "published": "2026-10-24T16:35:52+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Šport a pohyb",
+        "Lyžovanie",
+        "Mikaela Shiffrin",
+        "Petra Vlhová"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-24T18:32:21.984287+00:00",
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
+    },
+    {
+      "title": "High 5ive: Napíš mi list a kresbou ukáž, že ti na mne záleží",
+      "url": "https://dennikn.sk/5645329/high-5ive-napis-mi-list-a-kresbou-ukaz-ze-ti-na-mne-zalezi/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5645329-1.mp3",
+      "published": "2026-10-24T16:15:21+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Kultúra",
+        "High 5ive"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-24T18:32:21.984287+00:00",
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
+    },
+    {
+      "title": "Vlhová zažila v Söldene podobný problém ako Shiffrin. Tréner z jej reakcií na tréningu tušil, čo sa stane",
+      "url": "https://dennikn.sk/5645282/vlhova-zazila-v-soldene-podobny-problem-ako-shiffrin-trener-z-jej-reakcii-na-treningu-tusil-co-sa-stane/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5645282-1.mp3",
+      "published": "2026-10-24T14:45:28+00:00",
+      "published_day": "2026-10-24",
+      "categories": [
+        "Šport a pohyb",
+        "Lyžovanie",
+        "Mikaela Shiffrin",
+        "Petra Vlhová"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-24T18:32:21.984287+00:00",
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
+    },
+    {
       "title": "Na návšteve u Inkvizítora. Nenechať si vziať slobodu ani vzťah ku krajine",
       "url": "https://dennikn.sk/5641449/na-navsteve-u-inkvizitora-nenechat-si-vziat-slobodu-ani-vztah-ku-krajine/",
       "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5641449-1.mp3",
@@ -724,7 +814,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-24T13:02:47.934603+00:00",
-      "last_seen": "2026-10-24T13:02:47.934603+00:00"
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
     },
     {
       "title": "Putina zlomí len obava, že dopadne ako Kaddáfí, myslí si Magnitského šéf Jamison Firestone",
@@ -741,7 +831,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-24T13:02:47.934603+00:00",
-      "last_seen": "2026-10-24T13:02:47.934603+00:00"
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
     },
     {
       "title": "„Srbsko alebo mafia“. Študenti bez lídra zmenili voľby na referendum o Ficovom priateľovi Vučićovi",
@@ -754,7 +844,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-24T13:02:47.934603+00:00",
-      "last_seen": "2026-10-24T13:02:47.934603+00:00"
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
     },
     {
       "title": "Tódová napísala knihu Únos Vietnamca: Kaliňák o únose neustále klamal, raz ho dokonca hodil na CIA",
@@ -775,7 +865,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-24T13:02:47.934603+00:00",
-      "last_seen": "2026-10-24T13:02:47.934603+00:00"
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
     },
     {
       "title": "Česi protestujú za nezávislé médiá. Vládny poslanec chce prepustiť reportéra aj zrušiť ČT",
@@ -790,7 +880,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-24T13:02:47.934603+00:00",
-      "last_seen": "2026-10-24T13:02:47.934603+00:00"
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
     },
     {
       "title": "Elon Musk by za blahobyt víťazov riskoval vyhynutie ľudstva. A vy?",
@@ -803,7 +893,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-24T13:02:47.934603+00:00",
-      "last_seen": "2026-10-24T13:02:47.934603+00:00"
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
     },
     {
       "title": "Ráno z Calgary: „Nový“ Pospíšil občas nerozmýšľa, no krotí emócie. Niektoré veci by ma mohli stáť kariéru, uvedomuje si",
@@ -820,7 +910,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-24T13:02:47.934603+00:00",
-      "last_seen": "2026-10-24T13:02:47.934603+00:00"
+      "last_seen": "2026-10-24T18:32:21.984287+00:00"
     }
   ]
 }
