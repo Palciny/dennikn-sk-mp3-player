@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:41:16.773589+00:00",
+  "generated_at": "2026-10-26T15:46:23.068558+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,9 +20,9 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 26,
-  "total_count": 4235,
-  "latest_day": "2026-10-25",
+  "count": 19,
+  "total_count": 4256,
+  "latest_day": "2026-10-26",
   "categories": [
     "1. svetová vojna",
     "17. november",
@@ -398,6 +398,7 @@
     "Slovenské národné povstanie",
     "Slovenské stíhačky",
     "Slovenský štát",
+    "Sme rodina",
     "Smer",
     "SNS",
     "Srbsko",
@@ -507,6 +508,7 @@
     "Životy žien"
   ],
   "published_days": [
+    "2026-10-26",
     "2026-10-25",
     "2026-10-24",
     "2026-10-23",
@@ -712,419 +714,311 @@
   ],
   "articles": [
     {
-      "title": "Desať menej známych príbehov: prehra troch Dankov, noví primátori zo SaS, Kuffova radosť z liberála",
-      "url": "https://dennikn.sk/5648475/desat-menej-znamych-pribehov-prehra-troch-dankov-novi-primatori-zo-sas-kuffova-radost-z-liberala/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648475-1.mp3",
-      "published": "2026-10-25T18:03:57+00:00",
-      "published_day": "2026-10-25",
+      "title": "Mazurek prebral bašty Smeru, Trnku podržali dediny a juh, Baška prehral v Prievidzi",
+      "url": "https://dennikn.sk/5650728/kde-vyhrali-zupani-mazurek-prebral-basty-smeru-trnku-podrzali-dediny-a-juh-baska-prehral-v-prievidzi/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5650728-1.mp3",
+      "published": "2026-10-26T14:43:59+00:00",
+      "published_day": "2026-10-26",
       "categories": [
         "Slovensko",
         "Komunálne a župné voľby 2026"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T18:40:22.607651+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
     },
     {
-      "title": "Čo priniesli voľby v Košiciach: Lörinc porazil Polačeka, PS uspelo v Starom Meste aj zastupiteľstve, vládni kandidáti prepadli",
-      "url": "https://dennikn.sk/5649497/co-priniesli-volby-v-kosiciach-lorinc-porazil-polaceka-ps-uspelo-v-starom-meste-aj-zastupitelstve-vladni-kandidati-prepadli/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5649497-1.mp3",
-      "published": "2026-10-25T17:50:11+00:00",
-      "published_day": "2026-10-25",
+      "title": "Vývoj bojov (1705. deň): Ukrajinci sa približujú k mestu, z ktorého v lete 2023 neúspešne útočili na juh",
+      "url": "https://dennikn.sk/5650550/vyvoj-bojov-1705-den-ukrajinci-sa-priblizuju-k-mestu-z-ktoreho-v-lete-2023-neuspesne-utocili-na-juh/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/exportVB26102026.mp3",
+      "published": "2026-10-26T14:18:13+00:00",
+      "published_day": "2026-10-26",
       "categories": [
-        "Slovensko",
-        "Komunálne a župné voľby 2026",
-        "Košice"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T18:40:22.607651+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Ako volili vaši susedia v Bratislave. Na unikátnej mape si pozrite, kde dominovali Vallo a Ráž",
-      "url": "https://dennikn.sk/5649093/ako-volili-vasi-susedia-v-bratislave-na-unikatnej-mape-si-pozrite-kde-dominovali-vallo-a-raz/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5649093-1.mp3",
-      "published": "2026-10-25T17:30:23+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Slovensko",
-        "Bratislava",
-        "Jozef Ráž",
-        "Komunálne a župné voľby 2026",
-        "Matúš Vallo"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T18:40:22.607651+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Čo sa môže diať, ak súd župana Trnku právoplatne odsúdi",
-      "url": "https://dennikn.sk/5649580/co-sa-moze-diat-ak-sud-zupana-trnku-pravoplatne-odsudi/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5649580-1.mp3",
-      "published": "2026-10-25T17:24:38+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Slovensko",
-        "Košice",
-        "Rastislav Trnka"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T18:40:22.607651+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Týždňový newsfilter: Fico sa neodvážil ani na tlačovku, Šimečka sa zle rozhodol",
-      "url": "https://dennikn.sk/5649387/tyzdnovy-newsfilter-fico-sa-neodvazil-ani-na-tlacovku-simecka-sa-zle-rozhodol/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5649387-1.mp3",
-      "published": "2026-10-25T17:00:02+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
+        "Audio N",
         "Komentáre",
-        "Komunálne a župné voľby 2026",
-        "Newsfilter"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T18:40:22.607651+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "O spoločenskej zodpovednosti a o tom, kto tu spí",
-      "url": "https://dennikn.sk/5649450/o-spolocenskej-zodpovednosti-a-o-tom-kto-tu-spi/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5649450-1.mp3",
-      "published": "2026-10-25T16:53:12+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Komentáre",
-        "Komunálne a župné voľby 2026",
-        "Politici píšu",
-        "Progresívne Slovensko"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T18:40:22.607651+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Viaceré tváre z vysokej politiky vo voľbách neuspeli. Ako dopadli Gašpar, Sabo, Dvořák, Bartek, Hlina a Dostál",
-      "url": "https://dennikn.sk/5649434/viacere-tvare-z-vysokej-politiky-vo-volbach-neuspeli-ako-dopadli-gaspar-sabo-dvorak-bartek-hlina-a-dostal/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5649434-1.mp3",
-      "published": "2026-10-25T16:22:55+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Slovensko",
-        "Komunálne a župné voľby 2026"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T18:40:22.607651+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Tisíce Čechov vyšli brániť nezávislé médiá. Babiš ustúpiť nechce, televízia aj rádio chystajú štrajk",
-      "url": "https://dennikn.sk/5649355/tisice-cechov-vyslo-branit-nezavisle-media-babis-ustupit-nechce-televizia-aj-radio-chystaju-strajk/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5649355-1.mp3",
-      "published": "2026-10-25T16:09:37+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
         "Svet",
-        "Andrej Babiš",
-        "Česko"
+        "Vojna na Ukrajine",
+        "Vývoj bojov na Ukrajine"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T18:40:22.607651+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
     },
     {
-      "title": "Nikdy nevidel takého gitaristu. Povedal mi, hraj čo najviac, vraví Prešovčan David Kollar o hosťovaní v šou Ricka Beata",
-      "url": "https://dennikn.sk/5646664/nikdy-nevidel-takeho-gitaristu-povedal-mi-hraj-co-najviac-vravi-presovcan-david-kollar-o-hostovani-v-sou-ricka-beata/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5646664-1.mp3",
-      "published": "2026-10-25T15:45:46+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Kultúra",
-        "Hudba",
-        "Rozhovory"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T18:40:22.607651+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Vallo má jasnú väčšinu aj vo veľkých mestských častiach, Hrčkovi zostali dvaja poslanci. Porazenými sú Krajina, Jányová či Milanová",
-      "url": "https://dennikn.sk/5649216/vallo-ma-jasnu-vacsinu-aj-v-najvacsich-mestskych-castiach-hrckovi-zostali-dvaja-poslanci-porazenymi-su-janyova-milanova-ci-grendel/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5649216-1.mp3",
-      "published": "2026-10-25T15:34:20+00:00",
-      "published_day": "2026-10-25",
+      "title": "Danko sa teší, Huliak dlho mlčal, Boris Kollár šetril, Zoroslav Kollár míňal: ako sa darilo menším stranám",
+      "url": "https://dennikn.sk/5651105/danko-sa-tesi-huliak-mlci-boris-kollar-setril-zoroslav-kollar-minal-ako-sa-darilo-mensim-stranam/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5651105-1.mp3",
+      "published": "2026-10-26T13:47:33+00:00",
+      "published_day": "2026-10-26",
       "categories": [
         "Slovensko",
-        "Bratislava",
-        "Komunálne a župné voľby 2026"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T18:40:22.607651+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Tam, kde „nič nie je“, sa zahniezďuje fašizmus (udalosti týždňa)",
-      "url": "https://dennikn.sk/5649000/tam-kde-nic-nie-je-sa-zahniezduje-fasizmus-udalosti-tyzdna/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5649000-1.mp3",
-      "published": "2026-10-25T13:35:11+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Komentáre",
+        "Demokrati",
         "Komunálne a župné voľby 2026",
-        "Republika",
-        "Smer",
-        "Udalosti týždňa"
-      ],
-      "feed_url": "https://dennikn.sk/komentare/feed/",
-      "first_seen": "2026-10-25T18:40:22.607651+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Matúš Vallo: Budem podporovať kandidátov a strany, ktoré prinesú zmenu do vlády",
-      "url": "https://dennikn.sk/5648970/matus-vallo-budem-podporovat-kandidatov-a-strany-ktore-prinesu-zmenu-do-vlady/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648970-1.mp3",
-      "published": "2026-10-25T13:31:30+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Slovensko",
-        "Bratislava",
-        "Komunálne a župné voľby 2026",
-        "Matúš Vallo"
-      ],
-      "feed_url": "https://dennikn.sk/slovensko/feed/",
-      "first_seen": "2026-10-25T18:40:22.607651+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Šimečka o výsledku PS: Mohli sme byť spokojnejší, ale zosilneli sme. Sme ešte mladá strana",
-      "url": "https://dennikn.sk/5648479/simecka-o-vysledku-ps-mohli-sme-byt-spokojnejsi-ale-posilnili-sme-sme-este-mlada-strana/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648479-1.mp3",
-      "published": "2026-10-25T13:17:01+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Slovensko",
-        "Komunálne a župné voľby 2026",
-        "Matúš Vallo",
-        "Michal Šimečka",
-        "Progresívne Slovensko"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Jana Ďurková: V sobotu sa ukázalo, že najväčším problémom Tibora Gašpara budú voliči",
-      "url": "https://dennikn.sk/5648457/jana-durkova-v-sobotu-sa-ukazalo-ze-najvacsim-problemom-tibora-gaspara-budu-volici/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648457-1.mp3",
-      "published": "2026-10-25T12:09:59+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Slovensko",
-        "Branislav Becík",
-        "Čurillovci",
-        "Komunálne a župné voľby 2026",
-        "Rozhovory",
-        "Tibor Gašpar"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Nová primátorka Trnavy Nemčovská: Ako nezávislá získam hlasy voličov koalície aj opozície",
-      "url": "https://dennikn.sk/5648856/nova-primatorka-trnavy-nemcovska-ako-nezavisla-ziskam-hlasy-volicov-koalicie-aj-opozicie/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648856-1.mp3",
-      "published": "2026-10-25T12:07:37+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Slovensko",
-        "Komunálne a župné voľby 2026",
-        "Rozhovory",
-        "Trnava"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Nový primátor Košíc Lörinc: Polaček robil provinčné riešenia, v politike ma nikto neoklamal viackrát ako on",
-      "url": "https://dennikn.sk/5648793/novy-primator-kosic-lorinc-polacek-robil-provincne-riesenia-v-politike-ma-nikto-neoklamal-viackrat-ako-on/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648793-1.mp3",
-      "published": "2026-10-25T12:05:12+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Slovensko",
-        "Komunálne a župné voľby 2026",
-        "Košice"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T13:30:34.967344+00:00"
-    },
-    {
-      "title": "Maďarská aliancia utrpela značné straty v župách aj v obciach",
-      "url": "https://dennikn.sk/5648686/madarska-aliancia-utrpela-znacne-straty-v-zupach-aj-v-obciach/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648686-1.mp3",
-      "published": "2026-10-25T11:13:35+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Slovensko",
-        "Komunálne a župné voľby 2026",
-        "Maďarská aliancia"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T13:30:34.967344+00:00"
-    },
-    {
-      "title": "Mestské zastupiteľstvo v Bratislave: Vallo má drvivú väčšinu a veľa nových tvárí, Hrčka je osamotený, Winkler vypadol",
-      "url": "https://dennikn.sk/5648532/ako-bude-vyzerat-mestske-zastupitelstvo-v-bratislave-vallo-ma-drvivu-vacsinu-hrcka-je-osamoteny-winkler-vypadol/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648532-1.mp3",
-      "published": "2026-10-25T10:17:06+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Slovensko",
-        "Bratislava",
-        "Komunálne a župné voľby 2026"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T13:30:34.967344+00:00"
-    },
-    {
-      "title": "Smer a Hlas ďalej strácajú väčšie mestá a prišli aj o dlhoročné bašty",
-      "url": "https://dennikn.sk/5648147/smer-a-hlas-dalej-stracaju-vacsie-mesta-a-prisla-aj-o-dlhorocne-basty/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648147-2.mp3",
-      "published": "2026-10-25T10:15:57+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Slovensko",
-        "Hlas",
-        "Komunálne a župné voľby 2026",
-        "Smer",
+        "Sme rodina",
         "SNS"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T13:30:34.967344+00:00"
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
     },
     {
-      "title": "Ján Nosko zvíťazil štvrtý raz v Banskej Bystrici, väčšinu v zastupiteľstve nemá istú",
-      "url": "https://dennikn.sk/5648518/jan-nosko-zvitazil-po-stvrty-raz-banskej-bystrici-vacsinu-v-zastupitelstve-nema-istu/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648518-1.mp3",
-      "published": "2026-10-25T10:02:14+00:00",
-      "published_day": "2026-10-25",
+      "title": "Banáš priznal chybu, ale za knihou rozhovorov s Lasicom si stojí. Ikar s ním končí spoluprácu, rodina žiada odškodné",
+      "url": "https://dennikn.sk/5651195/banas-priznal-chybu-ale-za-knihou-rozhovorov-s-lasicom-nadalej-stoji-rodina-ziada-odskodne/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5651195-1.mp3",
+      "published": "2026-10-26T13:47:28+00:00",
+      "published_day": "2026-10-26",
       "categories": [
-        "Slovensko",
-        "Banská Bystrica",
-        "Komunálne a župné voľby 2026"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T13:30:34.967344+00:00"
-    },
-    {
-      "title": "5 hlavných správ volieb: Smer utrpel porážky, PS prehralo tam, kde chcelo uspieť. Extrém neoslavuje",
-      "url": "https://dennikn.sk/5648096/5-hlavnych-sprav-volieb-smer-utrpel-porazky-ps-prehralo-tam-kde-chcelo-uspiet-extrem-neoslavuje/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648096-1.mp3",
-      "published": "2026-10-25T09:47:35+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Slovensko",
-        "Komunálne a župné voľby 2026"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T13:30:34.967344+00:00"
-    },
-    {
-      "title": "Kým Rážov kovový nástroj hodíte do koša, prečítajte si tento text",
-      "url": "https://dennikn.sk/5648252/kym-razov-kovovy-nastroj-hodite-do-kosa-precitajte-si-tento-text/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648252-1.mp3",
-      "published": "2026-10-25T09:00:10+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Komentáre",
-        "Do hĺbky s Jánom Markošom",
-        "Jozef Ráž",
-        "Komunálne a župné voľby 2026",
-        "Smer"
-      ],
-      "feed_url": "https://dennikn.sk/komentare/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Majerský ostane županom, no Mazurek strojnásobil zisky a vyhral svoj boj",
-      "url": "https://dennikn.sk/5648266/majersky-ostane-zupanom-no-mazurek-strojnasobil-zisky-a-vyhral-svoj-boj/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648266-1.mp3",
-      "published": "2026-10-25T08:35:00+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Komentáre",
-        "Komunálne a župné voľby 2026",
-        "Republika",
-        "Smer"
-      ],
-      "feed_url": "https://dennikn.sk/komentare/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Leško, Shemesh, Holinová, Szalay, Obradovič, Pataj: Gašpar už nemôže byť nástupcom Fica v Smere",
-      "url": "https://dennikn.sk/5648228/lesko-shemesh-holinova-szalay-obradovic-pataj-gaspar-uz-nemoze-byt-nastupcom-fica-v-smere/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648228-1.mp3",
-      "published": "2026-10-25T08:34:25+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
-        "Komentáre",
-        "Ficova vláda",
-        "Hlas",
-        "Hnutie Slovensko",
-        "KDH",
-        "Komunálne a župné voľby 2026",
-        "Maďarská aliancia",
-        "Progresívne Slovensko",
-        "Robert Fico",
-        "SaS",
-        "Smer",
-        "SNS",
-        "Tibor Gašpar",
-        "Tomáš Taraba"
-      ],
-      "feed_url": "https://dennikn.sk/komentare/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
-    },
-    {
-      "title": "Vallova koalícia si v Bratislave udržala všetkých starostov a získala aj Karlovu Ves. V Petržalke vyhral Hrčka",
-      "url": "https://dennikn.sk/5645991/vallova-koalicia-si-v-bratislave-udrzala-vsetkych-starostov-a-ziskala-aj-karlovu-ves-v-petrzalke-vyhral-hrcka/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5645991-1.mp3",
-      "published": "2026-10-25T07:00:03+00:00",
-      "published_day": "2026-10-25",
-      "categories": [
+        "Kultúra",
         "Slovensko"
       ],
-      "feed_url": "https://dennikn.sk/slovensko/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T13:30:34.967344+00:00"
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
     },
     {
-      "title": "Ráno z Calgary: Sme šampióni aj bez Stanleyho pohára. V krčme mi vyrozprávali 22-ročnú, no stále živú krivdu",
-      "url": "https://dennikn.sk/5647840/rano-z-calgary-sme-sampioni-aj-bez-stanleyho-pohara-v-krcme-mi-vyrozpravali-24-rocnu-no-stale-zivu-krivdu/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5647840-1.mp3",
-      "published": "2026-10-25T05:35:28+00:00",
-      "published_day": "2026-10-25",
+      "title": "Pomáhali francúzski policajti v uliciach krajnej pravici? Čo ukázali videá zo sobotných protestov",
+      "url": "https://dennikn.sk/5650988/pomahali-francuzski-policajti-v-uliciach-krajnej-pravici-co-ukazali-videa-zo-sobotnych-protestov/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5650988-1.mp3",
+      "published": "2026-10-26T13:28:55+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Svet",
+        "Francúzsko"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Šipoš nesmrdí a Slovensko ešte nevonia",
+      "url": "https://dennikn.sk/5650721/sipos-nesmrdi-a-slovensko-este-nevonia/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5650721-1.mp3",
+      "published": "2026-10-26T13:12:11+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Komentáre",
+        "Hnutie Slovensko",
+        "Igor Matovič",
+        "SaS"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Športový newsfilter: Yaya Touré je pod tlakom, ale podráždenosťou na novinárov si nepomôže",
+      "url": "https://dennikn.sk/5650666/sportovy-newsfilter-yaya-toure-je-pod-tlakom-ale-podrazdenostou-na-novinarov-si-nepomoze/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5650666-1.mp3",
+      "published": "2026-10-26T13:00:24+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Šport a pohyb",
+        "Futbal",
+        "Liga majstrov",
+        "Lyžovanie",
+        "Petra Vlhová",
+        "ŠK Slovan Bratislava",
+        "Športový newsfilter",
+        "Yaya Touré"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Československí legionári boli skutoční vlastenci, vraví historik Michal Rak a vysvetľuje, prečo ich nenávideli nacisti aj komunisti",
+      "url": "https://dennikn.sk/5640808/ceskoslovenski-legionari-boli-skutocni-vlastenci-vravi-historik-michal-rak-a-vysvetluje-preco-ich-nenavideli-nacisti-aj-komunisti/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5640808-1.mp3",
+      "published": "2026-10-26T12:10:50+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Slovensko",
+        "Svet",
+        "Československo",
+        "História",
+        "Rozhovory"
+      ],
+      "feed_url": "https://dennikn.sk/slovensko/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Vučićovi stúpenci zastrašovali aj vojvodinských Slovákov: ako v Srbsku po 14 rokoch padol režim",
+      "url": "https://dennikn.sk/5650823/vucicovi-stupenci-zastrasovali-aj-vojvodinskych-slovakov-ako-padol-po-14-rokoch-rezim-v-srbsku/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5650823-1.mp3",
+      "published": "2026-10-26T12:07:50+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Svet",
+        "Srbsko"
+      ],
+      "feed_url": "https://dennikn.sk/svet/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Blanár v Moskve rokoval s Lavrovom. Rusko chce silné vzťahy so Slovenskom, povedal Putinov minister",
+      "url": "https://dennikn.sk/5648215/blanar-sa-stretava-s-putinovym-ministrom-ktory-na-ruskych-univerzitach-verbuje-studentov-do-armady/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5648215-1.mp3",
+      "published": "2026-10-26T10:49:19+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Slovensko",
+        "Svet",
+        "Juraj Blanár",
+        "Rusko",
+        "Vladimir Putin"
+      ],
+      "feed_url": "https://dennikn.sk/slovensko/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Ako vyzeral Vlhovej návrat? Pôsobí inak a fanúšikovia ju vítali aj tam, kde nebola",
+      "url": "https://dennikn.sk/5645029/ako-vyzeral-vlhovej-navrat-posobi-inak-a-fanusikovia-ju-vitali-aj-tam-kde-nebola/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5645029-1.mp3",
+      "published": "2026-10-26T09:35:56+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Šport a pohyb",
+        "Lyžovanie",
+        "Petra Vlhová"
+      ],
+      "feed_url": "https://dennikn.sk/sport/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Trumpov svet (644. deň): Obama sa nezvyčajne ostro pustil do republikánov. Robil si žarty z Trumpa, ten ho vzápätí skritizoval",
+      "url": "https://dennikn.sk/5649383/trumpov-svet-644-den-obama-sa-nezvycajne-ostro-pustil-do-republikanov-robil-si-zarty-z-trumpa-ten-ho-vzapati-skritizoval/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5649383-1.mp3",
+      "published": "2026-10-26T07:44:19+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Svet",
+        "Donald Trump",
+        "Trumpov svet (vývoj v Bielom dome)"
+      ],
+      "feed_url": "https://dennikn.sk/svet/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "San Francisco v Sumách a láska na pumpe",
+      "url": "https://dennikn.sk/5645558/san-francisco-v-sumach-a-laska-na-pumpe/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5645558-1.mp3",
+      "published": "2026-10-26T07:00:00+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Komentáre",
+        "Rodina a vzťahy",
+        "Vojna na Ukrajine",
+        "Vzťahy",
+        "Zápisky z Ukrajiny",
+        "Životy mužov",
+        "Životy žien"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Ráno s NHL: Slafkovského prvý zápas pod holým nebom ukázal, ktorú štatistiku si netreba všímať",
+      "url": "https://dennikn.sk/5650240/rano-s-nhl-slafkovskeho-prvy-zapas-pod-holym-nebom-ukazal-ktoru-statistiku-si-netreba-vsimat/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5650240-1.mp3",
+      "published": "2026-10-26T06:58:12+00:00",
+      "published_day": "2026-10-26",
       "categories": [
         "Šport a pohyb",
         "Hokej",
-        "Hokejová reprezentácia",
+        "Juraj Slafkovský",
         "NHL",
         "Ráno s NHL"
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
-      "first_seen": "2026-10-25T13:30:34.967344+00:00",
-      "last_seen": "2026-10-25T18:40:22.607651+00:00"
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Veľká cena nepriniesla majstra, ale ničila chrbtice a platničky. Tabletky proti bolesti boli nutné už pred štartom",
+      "url": "https://dennikn.sk/5650050/velka-cena-nepriniesla-majstra-ale-nicila-chrbtice-a-platnicky-tabletky-proti-bolesti-boli-nutne-uz-pred-startom/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5650050-1.mp3",
+      "published": "2026-10-26T06:35:13+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Šport a pohyb",
+        "Formula 1",
+        "Motorizmus"
+      ],
+      "feed_url": "https://dennikn.sk/sport/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Exmanželova partnerka je na nášho syna príliš prísna. Ako mám v našich vzťahoch nastaviť zdravé hranice?",
+      "url": "https://dennikn.sk/5642866/exmanzelova-partnerka-je-na-nasho-syna-prilis-prisna-ako-mam-v-nasich-vztahoch-nastavit-zdrave-hranice/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5642866-1.mp3",
+      "published": "2026-10-26T06:20:00+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Rodina a vzťahy",
+        "Cesta k zdraviu",
+        "Duševné zdravie",
+        "Mladí",
+        "Psychologická poradňa",
+        "Rodičovstvo",
+        "Vzťahy",
+        "Životy mužov",
+        "Životy žien"
+      ],
+      "feed_url": "https://dennikn.sk/rodina-a-vztahy/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Čo Mbappé zvládol, Yamal nedokázal. Mourinho sa po El Clásicu zachoval netradične",
+      "url": "https://dennikn.sk/5650053/co-mbappe-zvladol-yamal-nedokazal-mourinho-sa-po-el-clasico-zachoval-netradicne/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5650053-1.mp3",
+      "published": "2026-10-26T05:55:56+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Šport a pohyb",
+        "Futbal",
+        "La Liga",
+        "Španielsko"
+      ],
+      "feed_url": "https://dennikn.sk/sport/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Starostiek v obciach je viac. Na veľké mestá a župy však ženy dosahujú len s ťažkosťami",
+      "url": "https://dennikn.sk/5649035/starostiek-v-obciach-je-viac-na-velke-mesta-a-zupy-vsak-zeny-dosahuju-len-s-tazkostami/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5649035-1.mp3",
+      "published": "2026-10-26T05:30:40+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Slovensko",
+        "Komunálne a župné voľby 2026"
+      ],
+      "feed_url": "https://dennikn.sk/slovensko/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
+    },
+    {
+      "title": "Veľký zvrat v Brazílii. Lula je štvrtýkrát prezidentom, Bolsonaro odmieta uznať porážku",
+      "url": "https://dennikn.sk/5650068/velky-zvrat-v-brazilii-lula-sa-po-vitazstve-nad-bolsonarom-stava-stvrtykrat-prezidentom/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5650068-1.mp3",
+      "published": "2026-10-26T01:19:19+00:00",
+      "published_day": "2026-10-26",
+      "categories": [
+        "Svet",
+        "Európska únia",
+        "Latinská Amerika"
+      ],
+      "feed_url": "https://dennikn.sk/svet/feed/",
+      "first_seen": "2026-10-26T15:44:48.032039+00:00",
+      "last_seen": "2026-10-26T15:44:48.032039+00:00"
     }
   ]
 }
