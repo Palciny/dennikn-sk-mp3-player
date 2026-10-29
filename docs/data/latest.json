@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:49:17.787564+00:00",
+  "generated_at": "2026-10-29T20:48:31.588061+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 20,
-  "total_count": 4345,
+  "count": 22,
+  "total_count": 4347,
   "latest_day": "2026-10-29",
   "categories": [
     "1. svetová vojna",
@@ -718,6 +718,40 @@
   ],
   "articles": [
     {
+      "title": "Nick Winton: Otcovi prekážalo, koľko uznania dostával. Myslel na deti, ktoré sa mu nepodarilo zachrániť",
+      "url": "https://dennikn.sk/5658024/nick-winton-otcovi-prekazalo-kolko-uznania-dostaval-myslel-na-deti-ktore-sa-mu-nepodarilo-zachranit/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5658024-1.mp3",
+      "published": "2026-10-29T18:39:57+00:00",
+      "published_day": "2026-10-29",
+      "categories": [
+        "Svet",
+        "Duševné zdravie",
+        "Rozhovory",
+        "Vladimir Putin",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-29T20:47:23.638963+00:00",
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
+    },
+    {
+      "title": "Newsfilter: Už aby bolo 18. novembra",
+      "url": "https://dennikn.sk/5659474/newsfilter-uz-aby-bolo-18-novembra/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5659474-1.mp3",
+      "published": "2026-10-29T17:46:20+00:00",
+      "published_day": "2026-10-29",
+      "categories": [
+        "Komentáre",
+        "Ficova vláda",
+        "Igor Matovič",
+        "Newsfilter",
+        "Progresívne Slovensko"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-29T20:47:23.638963+00:00",
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
+    },
+    {
       "title": "Na biznise so Szijjártóovými pľúcnymi ventilátormi zarobili sprostredkovatelia miliardy forintov (170. deň vlády Tiszy)",
       "url": "https://dennikn.sk/5658571/na-biznise-so-szijjartoovymi-plucnymi-ventilatormi-zarobili-sprostredkovatelia-miliardy-forintov-170-den-vlady-tisza/",
       "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5658571-2.mp3",
@@ -732,7 +766,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Podivuhodný prípad strany Republika",
@@ -749,7 +783,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Matovič odkazuje PS, že na akciu s Gubíkom a Kollárom neprídu. Šimečka reaguje, že mu ide len o konflikt",
@@ -769,7 +803,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Po prvý raz bude viac ako polovica starostov nezávislých. Primátori hovoria, či sú im strany na príťaž",
@@ -783,7 +817,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Nech len ruský mlyn fám melie ďalej",
@@ -797,7 +831,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Tragická slepota Roberta Fica",
@@ -820,7 +854,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Vývoj bojov (1708. deň): Rusi rozpútali v ukrajinských mestách teror, vo štvrtok útočili na vlak aj autobus a zabíjali i deti",
@@ -837,7 +871,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Taraba má na úvod nižšie čísla, Demokrati aj Kiskova strana začínali silnejší, hovorí Hankovský z Ipsosu",
@@ -853,7 +887,7 @@
       ],
       "feed_url": "https://dennikn.sk/slovensko/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Revolúcia v Londýne. Z rušnej Oxford Street vytlačili autá a vznikla pešia zóna, kam nesmie ani cyklista a kolobežkár",
@@ -871,7 +905,7 @@
       ],
       "feed_url": "https://dennikn.sk/slovensko/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Urobím to, nech sa stane čokoľvek, povedal Ozzy Osbourne manželke. Výsledkom bol dojemný rozlúčkový koncert, pripomína ho nový film",
@@ -886,7 +920,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "O karikatúrach našich tradícií",
@@ -901,7 +935,7 @@
       ],
       "feed_url": "https://dennikn.sk/komentare/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Dva príbehy o konci a smrti",
@@ -915,7 +949,7 @@
       ],
       "feed_url": "https://dennikn.sk/komentare/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Zriedkavé ochorenie Hrošovského nezastavilo. Na vozíku sa na úrad síce nedostane, ale Kysučania ho zvolili",
@@ -930,7 +964,7 @@
       ],
       "feed_url": "https://dennikn.sk/slovensko/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Pohánková zdolala Ósaku a nie je to náhoda. Päť dôvodov, prečo si 18-ročnú Slovenku začať všímať",
@@ -944,7 +978,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "The Chemical Brothers sa vrátia na Pohodu. Má to byť niečo úplne šialené, vraví Michal Kaščák",
@@ -959,7 +993,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Političky a politici by nemali rozhodovať, kto bude riadiť školu",
@@ -974,7 +1008,7 @@
       ],
       "feed_url": "https://dennikn.sk/slovensko/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Riaditeľ Ikaru: Banáš nás šokoval. Dohodli sme sa, že knihu nevydá",
@@ -990,7 +1024,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Trumpov svet (647. deň): Viac kontroly, menej peňazí na vojnu s Iránom a viac pre Ukrajinu. Čo sa stane, ak demokrati vyhrajú voľby",
@@ -1006,7 +1040,7 @@
       ],
       "feed_url": "https://dennikn.sk/svet/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Kristína Mihaľová: Spievať pred Herbiem Hancockom bol stres, miestnosť bola nasvietená ako operačná sála",
@@ -1024,7 +1058,7 @@
       ],
       "feed_url": "https://dennikn.sk/kultura/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     },
     {
       "title": "Ráno z Calgary: Kam sa pozriete, tam je McDavid. Naživo je tichý a predsa je ho plná Kanada",
@@ -1042,7 +1076,7 @@
       ],
       "feed_url": "https://dennikn.sk/sport/feed/",
       "first_seen": "2026-10-29T15:47:28.751911+00:00",
-      "last_seen": "2026-10-29T15:47:28.751911+00:00"
+      "last_seen": "2026-10-29T20:47:23.638963+00:00"
     }
   ]
 }
