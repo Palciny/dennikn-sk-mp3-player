@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T14:57:51.523140+00:00",
+  "generated_at": "2026-10-31T19:41:00.871131+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 5,
-  "total_count": 4384,
+  "count": 6,
+  "total_count": 4385,
   "latest_day": "2026-10-31",
   "categories": [
     "1. svetová vojna",
@@ -720,6 +720,22 @@
   ],
   "articles": [
     {
+      "title": "Hito v Trenčíne",
+      "url": "https://dennikn.sk/5662469/hito-v-trencine/",
+      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5662469-1.mp3",
+      "published": "2026-10-31T15:01:00+00:00",
+      "published_day": "2026-10-31",
+      "categories": [
+        "Komentáre",
+        "Kultúra",
+        "Dnes píše",
+        "Trenčín"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-10-31T19:40:04.762504+00:00",
+      "last_seen": "2026-10-31T19:40:04.762504+00:00"
+    },
+    {
       "title": "Pohánková nie je zodpovedná za slovenský tenis, ale len za seba, vraví jej mentálny kouč Kocian",
       "url": "https://dennikn.sk/5653497/pohankova-nie-je-zodpovedna-za-slovensky-tenis-ale-len-za-seba-vravi-jej-mentalny-kouc-kocian/",
       "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5653497-1.mp3",
@@ -733,7 +749,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-31T14:57:20.045048+00:00",
-      "last_seen": "2026-10-31T14:57:20.045048+00:00"
+      "last_seen": "2026-10-31T19:40:04.762504+00:00"
     },
     {
       "title": "Komentátori: Matovičove slová o hodnotách nesedia, a tak mu zostáva už len tá ješitnosť",
@@ -746,7 +762,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-31T14:57:20.045048+00:00",
-      "last_seen": "2026-10-31T14:57:20.045048+00:00"
+      "last_seen": "2026-10-31T19:40:04.762504+00:00"
     },
     {
       "title": "Kandidátka Mária Debnárová: Som síce slepá, ale už sa na to nemôžem pozerať",
@@ -761,7 +777,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-31T14:57:20.045048+00:00",
-      "last_seen": "2026-10-31T14:57:20.045048+00:00"
+      "last_seen": "2026-10-31T19:40:04.762504+00:00"
     },
     {
       "title": "Novinár Rampa: Reakcia sponzorov môže byť dôležitejšia než to, či krajiny odmietnu hrať s Ruskom",
@@ -781,7 +797,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-31T14:57:20.045048+00:00",
-      "last_seen": "2026-10-31T14:57:20.045048+00:00"
+      "last_seen": "2026-10-31T19:40:04.762504+00:00"
     },
     {
       "title": "Ráno z Calgary: Nemec ukázal novú silu, keď ho tréner dal do situácie, v ktorej predtým pohorel",
@@ -799,7 +815,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-10-31T14:57:20.045048+00:00",
-      "last_seen": "2026-10-31T14:57:20.045048+00:00"
+      "last_seen": "2026-10-31T19:40:04.762504+00:00"
     }
   ]
 }
