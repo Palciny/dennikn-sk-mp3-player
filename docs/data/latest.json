@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T15:42:45.967600+00:00",
+  "generated_at": "2026-11-01T20:05:49.260156+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 5,
-  "total_count": 4392,
+  "count": 7,
+  "total_count": 4394,
   "latest_day": "2026-11-01",
   "categories": [
     "1. svetová vojna",
@@ -721,6 +721,38 @@
   ],
   "articles": [
     {
+      "title": "Týždňový newsfilter: Antifico nestačí. Ako dať autoritára dolu z hrušky?",
+      "url": "https://dennikn.sk/5663562/tyzdnovy-newsfilter-antifico-nestaci-ako-dat-autoritara-dolu-z-hrusky/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5663562-1.mp3",
+      "published": "2026-11-01T17:40:20+00:00",
+      "published_day": "2026-11-01",
+      "categories": [
+        "Komentáre",
+        "Ficova vláda",
+        "Newsfilter",
+        "Robert Fico",
+        "Slovenské stíhačky",
+        "Srbsko"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-01T20:04:59.563893+00:00",
+      "last_seen": "2026-11-01T20:04:59.563893+00:00"
+    },
+    {
+      "title": "Šestnásť minút ticha v Novom Sade, na ktoré sa nebude dať zabudnúť (+video)",
+      "url": "https://dennikn.sk/5663417/sestnast-minut-ticha-v-novom-sade-na-ktore-sa-nebude-dat-zabudnut/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5663417-1.mp3",
+      "published": "2026-11-01T15:41:40+00:00",
+      "published_day": "2026-11-01",
+      "categories": [
+        "Svet",
+        "Srbsko"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-01T20:04:59.563893+00:00",
+      "last_seen": "2026-11-01T20:04:59.563893+00:00"
+    },
+    {
       "title": "Fico si verí, že už nemusí skrývať luxus. Toto mu neprejde",
       "url": "https://dennikn.sk/5663483/fico-si-veri-ze-uz-nemusi-skryvat-luxus-toto-mu-neprejde/",
       "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5663483-1.mp3",
@@ -732,7 +764,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-01T15:41:35.111241+00:00",
-      "last_seen": "2026-11-01T15:41:35.111241+00:00"
+      "last_seen": "2026-11-01T20:04:59.563893+00:00"
     },
     {
       "title": "Nedeľná nekázeň: Na hroby nosím kvety pominuteľné ako ja",
@@ -747,7 +779,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-01T15:41:35.111241+00:00",
-      "last_seen": "2026-11-01T15:41:35.111241+00:00"
+      "last_seen": "2026-11-01T20:04:59.563893+00:00"
     },
     {
       "title": "Po 770 kilometroch na Ceste hrdinov SNP kráčal ďalej. Pervitín mi vzal osobnosť, hovorí zakladateľ Via Slovakia",
@@ -768,7 +800,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-01T15:41:35.111241+00:00",
-      "last_seen": "2026-11-01T15:41:35.111241+00:00"
+      "last_seen": "2026-11-01T20:04:59.563893+00:00"
     },
     {
       "title": "Prečo si Ukrajina zaslúži hokejové MS viac ako Rusko",
@@ -786,7 +818,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-01T15:41:35.111241+00:00",
-      "last_seen": "2026-11-01T15:41:35.111241+00:00"
+      "last_seen": "2026-11-01T20:04:59.563893+00:00"
     },
     {
       "title": "Ráno s NHL: Chromiak sa dočkal šesť rokov po drafte a rovno v prvom útoku. Dobrý debut, chválil ho tréner",
@@ -802,7 +834,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-01T15:41:35.111241+00:00",
-      "last_seen": "2026-11-01T15:41:35.111241+00:00"
+      "last_seen": "2026-11-01T20:04:59.563893+00:00"
     }
   ]
 }
