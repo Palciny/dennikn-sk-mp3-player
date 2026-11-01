@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T19:41:00.871131+00:00",
+  "generated_at": "2026-11-01T15:42:45.967600+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,9 +20,9 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 6,
-  "total_count": 4385,
-  "latest_day": "2026-10-31",
+  "count": 5,
+  "total_count": 4392,
+  "latest_day": "2026-11-01",
   "categories": [
     "1. svetová vojna",
     "17. november",
@@ -509,6 +509,7 @@
     "Životy žien"
   ],
   "published_days": [
+    "2026-11-01",
     "2026-10-31",
     "2026-10-30",
     "2026-10-29",
@@ -720,102 +721,88 @@
   ],
   "articles": [
     {
-      "title": "Hito v Trenčíne",
-      "url": "https://dennikn.sk/5662469/hito-v-trencine/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5662469-1.mp3",
-      "published": "2026-10-31T15:01:00+00:00",
-      "published_day": "2026-10-31",
+      "title": "Fico si verí, že už nemusí skrývať luxus. Toto mu neprejde",
+      "url": "https://dennikn.sk/5663483/fico-si-veri-ze-uz-nemusi-skryvat-luxus-toto-mu-neprejde/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5663483-1.mp3",
+      "published": "2026-11-01T15:06:21+00:00",
+      "published_day": "2026-11-01",
       "categories": [
         "Komentáre",
-        "Kultúra",
-        "Dnes píše",
-        "Trenčín"
+        "Robert Fico"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-31T19:40:04.762504+00:00",
-      "last_seen": "2026-10-31T19:40:04.762504+00:00"
+      "first_seen": "2026-11-01T15:41:35.111241+00:00",
+      "last_seen": "2026-11-01T15:41:35.111241+00:00"
     },
     {
-      "title": "Pohánková nie je zodpovedná za slovenský tenis, ale len za seba, vraví jej mentálny kouč Kocian",
-      "url": "https://dennikn.sk/5653497/pohankova-nie-je-zodpovedna-za-slovensky-tenis-ale-len-za-seba-vravi-jej-mentalny-kouc-kocian/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5653497-1.mp3",
-      "published": "2026-10-31T07:16:02+00:00",
-      "published_day": "2026-10-31",
+      "title": "Nedeľná nekázeň: Na hroby nosím kvety pominuteľné ako ja",
+      "url": "https://dennikn.sk/5663289/nedelna-nekazen-na-hroby-nosim-kvety-pominutelne-ako-ja/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5663289-1.mp3",
+      "published": "2026-11-01T14:23:05+00:00",
+      "published_day": "2026-11-01",
       "categories": [
+        "Audio N",
+        "Komentáre",
+        "Nedeľná nekázeň"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-01T15:41:35.111241+00:00",
+      "last_seen": "2026-11-01T15:41:35.111241+00:00"
+    },
+    {
+      "title": "Po 770 kilometroch na Ceste hrdinov SNP kráčal ďalej. Pervitín mi vzal osobnosť, hovorí zakladateľ Via Slovakia",
+      "url": "https://dennikn.sk/5659766/po-770-kilometroch-na-ceste-hrdinov-snp-kracal-dalej-pervitin-mi-daval-silu-potom-mi-vzal-osobnost-hovori-zakladatel-via-slovakia/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5659766-1.mp3",
+      "published": "2026-11-01T13:12:45+00:00",
+      "published_day": "2026-11-01",
+      "categories": [
+        "Rodina a vzťahy",
         "Šport a pohyb",
+        "Zdravie",
+        "Cesta k zdraviu",
         "Duševné zdravie",
         "Rozhovory",
-        "Tenis"
+        "Trailový beh",
+        "Turistika a outdoor",
+        "Životy mužov"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-31T14:57:20.045048+00:00",
-      "last_seen": "2026-10-31T19:40:04.762504+00:00"
+      "first_seen": "2026-11-01T15:41:35.111241+00:00",
+      "last_seen": "2026-11-01T15:41:35.111241+00:00"
     },
     {
-      "title": "Komentátori: Matovičove slová o hodnotách nesedia, a tak mu zostáva už len tá ješitnosť",
-      "url": "https://dennikn.sk/5660757/komentatori-matovicove-slova-o-hodnotach-nesedia-a-tak-mu-zostava-uz-len-ta-jesitnost/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5660757-1.mp3",
-      "published": "2026-10-31T06:49:01+00:00",
-      "published_day": "2026-10-31",
+      "title": "Prečo si Ukrajina zaslúži hokejové MS viac ako Rusko",
+      "url": "https://dennikn.sk/5663211/preco-si-ukrajina-zasluzi-hokejove-ms-viac-ako-rusko/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5663211-1.mp3",
+      "published": "2026-11-01T11:41:59+00:00",
+      "published_day": "2026-11-01",
       "categories": [
-        "Slovensko"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-31T14:57:20.045048+00:00",
-      "last_seen": "2026-10-31T19:40:04.762504+00:00"
-    },
-    {
-      "title": "Kandidátka Mária Debnárová: Som síce slepá, ale už sa na to nemôžem pozerať",
-      "url": "https://dennikn.sk/5656575/kandidatka-maria-debnarova-som-sice-slepa-ale-uz-sa-na-to-nemozem-pozerat/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5656575-1.mp3",
-      "published": "2026-10-31T06:05:00+00:00",
-      "published_day": "2026-10-31",
-      "categories": [
-        "Slovensko",
-        "Banská Bystrica",
-        "Komunálne a župné voľby 2026"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-31T14:57:20.045048+00:00",
-      "last_seen": "2026-10-31T19:40:04.762504+00:00"
-    },
-    {
-      "title": "Novinár Rampa: Reakcia sponzorov môže byť dôležitejšia než to, či krajiny odmietnu hrať s Ruskom",
-      "url": "https://dennikn.sk/5661576/novinar-rampa-reakcia-sponzorov-moze-byt-dolezitejsia-nez-to-ci-krajiny-odmietnu-hrat-s-ruskom/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5661576-1.mp3",
-      "published": "2026-10-31T05:57:44+00:00",
-      "published_day": "2026-10-31",
-      "categories": [
-        "Šport a pohyb",
-        "Svet",
+        "Komentáre",
+        "Dnes píše",
         "Hokej",
         "KHL",
-        "MS v hokeji",
-        "Rozhovory",
         "Rusko",
         "Vojna na Ukrajine"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-31T14:57:20.045048+00:00",
-      "last_seen": "2026-10-31T19:40:04.762504+00:00"
+      "first_seen": "2026-11-01T15:41:35.111241+00:00",
+      "last_seen": "2026-11-01T15:41:35.111241+00:00"
     },
     {
-      "title": "Ráno z Calgary: Nemec ukázal novú silu, keď ho tréner dal do situácie, v ktorej predtým pohorel",
-      "url": "https://dennikn.sk/5662011/rano-z-calgary-nemec-ukazal-novu-silu-ked-ho-trener-dal-do-situacie-v-ktorej-predtym-pohorel/",
-      "mp3_url": "https://a-static.projektn.sk/2026/10/neural-audio-elevenlabs-5662011-1.mp3",
-      "published": "2026-10-31T05:46:13+00:00",
-      "published_day": "2026-10-31",
+      "title": "Ráno s NHL: Chromiak sa dočkal šesť rokov po drafte a rovno v prvom útoku. Dobrý debut, chválil ho tréner",
+      "url": "https://dennikn.sk/5662848/rano-s-nhl-chromiak-sa-dockal-sest-rokov-po-drafte-a-rovno-v-prvom-utoku-dobry-debut-chvalil-ho-trener/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5662848-1.mp3",
+      "published": "2026-11-01T06:04:21+00:00",
+      "published_day": "2026-11-01",
       "categories": [
         "Šport a pohyb",
         "Hokej",
-        "Martin Pospíšil",
         "NHL",
-        "Ráno s NHL",
-        "Šimon Nemec"
+        "Ráno s NHL"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-10-31T14:57:20.045048+00:00",
-      "last_seen": "2026-10-31T19:40:04.762504+00:00"
+      "first_seen": "2026-11-01T15:41:35.111241+00:00",
+      "last_seen": "2026-11-01T15:41:35.111241+00:00"
     }
   ]
 }
