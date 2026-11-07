@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T15:21:27.556280+00:00",
+  "generated_at": "2026-11-07T19:49:07.510883+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 9,
-  "total_count": 4548,
+  "count": 11,
+  "total_count": 4550,
   "latest_day": "2026-11-07",
   "categories": [
     "1. svetová vojna",
@@ -731,6 +731,35 @@
   ],
   "articles": [
     {
+      "title": "Na proruské zhromaždenie v Košiciach prišli len stovky ľudí. Avizovaného Fica sa nedočkali",
+      "url": "https://dennikn.sk/5677788/na-proruske-zhromazdenie-v-kosiciach-prisli-len-stovky-ludi-avizovaneho-fica-sa-nedockali/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5677788-1.mp3",
+      "published": "2026-11-07T19:22:49+00:00",
+      "published_day": "2026-11-07",
+      "categories": [
+        "Slovensko",
+        "Hoaxy a propaganda",
+        "Košice",
+        "Vojna na Ukrajine"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-07T19:48:27.864361+00:00",
+      "last_seen": "2026-11-07T19:48:27.864361+00:00"
+    },
+    {
+      "title": "Ľudia sa ukrývali, kde sa dalo. Čo vieme o útoku v Krakove, kde útočník zastrelil šesť ľudí",
+      "url": "https://dennikn.sk/5677719/ludia-sa-ukryvali-kde-sa-dalo-co-vieme-o-utoku-krakove-kde-utocnik-zastrelil-sest-ludi/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5677719-1.mp3",
+      "published": "2026-11-07T18:09:22+00:00",
+      "published_day": "2026-11-07",
+      "categories": [
+        "Svet"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-07T19:48:27.864361+00:00",
+      "last_seen": "2026-11-07T19:48:27.864361+00:00"
+    },
+    {
       "title": "Boli by ste čestní, aj keby sa nikto nedíval?",
       "url": "https://dennikn.sk/5676536/boli-by-ste-cestni-aj-keby-sa-nikto-nedival/",
       "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5676536-1.mp3",
@@ -742,7 +771,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T15:20:51.324240+00:00"
+      "last_seen": "2026-11-07T19:48:27.864361+00:00"
     },
     {
       "title": "Fico skúša starý konšpiračný príbeh o referende. Doplnil teórie o Sorosovi, vražde Kuciaka či 17. novembri",
@@ -757,7 +786,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T15:20:51.324240+00:00"
+      "last_seen": "2026-11-07T19:48:27.864361+00:00"
     },
     {
       "title": "Fico hovorí o sfalšovanom referende, aby mu uverili sfalšované voľby",
@@ -772,7 +801,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T15:20:51.324240+00:00"
+      "last_seen": "2026-11-07T19:48:27.864361+00:00"
     },
     {
       "title": "Medzi tancom, športom a bezpečím pre kvír ľudí. Ako sa mení slovenská vogue scéna?",
@@ -790,7 +819,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T15:20:51.324240+00:00"
+      "last_seen": "2026-11-07T19:48:27.864361+00:00"
     },
     {
       "title": "Stalinovo mesto v Maďarsku malo byť socialistickým vzorom, napokon ho musela dobyť Červená armáda",
@@ -805,7 +834,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T15:20:51.324240+00:00"
+      "last_seen": "2026-11-07T19:48:27.864361+00:00"
     },
     {
       "title": "Kamarát na chate celé dni prepil, no aj tak si miešal proteíny. Nechápal, že o svaly sa prichádza inak, vraví biochemik Dvořák",
@@ -823,7 +852,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T15:20:51.324240+00:00"
+      "last_seen": "2026-11-07T19:48:27.864361+00:00"
     },
     {
       "title": "Ašvagandu a spirulinu mnohí užívajú roky, no vôbec netušíme, aké problémy môžu spôsobiť, vraví expert na výživu Dvořák",
@@ -841,7 +870,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T15:20:51.324240+00:00"
+      "last_seen": "2026-11-07T19:48:27.864361+00:00"
     },
     {
       "title": "Zachráni mi horčík spánok? Prečo môže byť jeho kombinácia s B6 rizikom? Odpovedá expert na športovú výživu Dvořák",
@@ -857,7 +886,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T15:20:51.324240+00:00"
+      "last_seen": "2026-11-07T19:48:27.864361+00:00"
     },
     {
       "title": "Leško, Šimečka, Kostolný, Hudák: Ukazuje sa, že demokraciu nie je možné tak ľahko zničiť",
@@ -873,7 +902,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T15:20:51.324240+00:00"
+      "last_seen": "2026-11-07T19:48:27.864361+00:00"
     }
   ]
 }
