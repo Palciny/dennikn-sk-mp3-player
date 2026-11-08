@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:49:07.510883+00:00",
+  "generated_at": "2026-11-08T15:43:22.746000+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,9 +20,9 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 11,
-  "total_count": 4550,
-  "latest_day": "2026-11-07",
+  "count": 7,
+  "total_count": 4559,
+  "latest_day": "2026-11-08",
   "categories": [
     "1. svetová vojna",
     "17. november",
@@ -513,6 +513,7 @@
     "Životy žien"
   ],
   "published_days": [
+    "2026-11-08",
     "2026-11-07",
     "2026-11-06",
     "2026-11-05",
@@ -731,178 +732,106 @@
   ],
   "articles": [
     {
-      "title": "Na proruské zhromaždenie v Košiciach prišli len stovky ľudí. Avizovaného Fica sa nedočkali",
-      "url": "https://dennikn.sk/5677788/na-proruske-zhromazdenie-v-kosiciach-prisli-len-stovky-ludi-avizovaneho-fica-sa-nedockali/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5677788-1.mp3",
-      "published": "2026-11-07T19:22:49+00:00",
-      "published_day": "2026-11-07",
+      "title": "Nedeľná nekázeň: O viere netreba toľko hovoriť",
+      "url": "https://dennikn.sk/5678726/nedelna-nekazen-o-viere-netreba-tolko-hovorit/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5678726-1.mp3",
+      "published": "2026-11-08T15:37:21+00:00",
+      "published_day": "2026-11-08",
       "categories": [
-        "Slovensko",
-        "Hoaxy a propaganda",
-        "Košice",
-        "Vojna na Ukrajine"
+        "Komentáre",
+        "Nedeľná nekázeň"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-07T19:48:27.864361+00:00",
-      "last_seen": "2026-11-07T19:48:27.864361+00:00"
+      "first_seen": "2026-11-08T15:43:03.418113+00:00",
+      "last_seen": "2026-11-08T15:43:03.418113+00:00"
     },
     {
-      "title": "Ľudia sa ukrývali, kde sa dalo. Čo vieme o útoku v Krakove, kde útočník zastrelil šesť ľudí",
-      "url": "https://dennikn.sk/5677719/ludia-sa-ukryvali-kde-sa-dalo-co-vieme-o-utoku-krakove-kde-utocnik-zastrelil-sest-ludi/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5677719-1.mp3",
-      "published": "2026-11-07T18:09:22+00:00",
-      "published_day": "2026-11-07",
+      "title": "Čo počujete, je všetko, čo potrebujete. Ondrej Veselý uviedol projekt Koncentrované hlasy s dvomi svetovými premiérami",
+      "url": "https://dennikn.sk/5678464/co-pocujete-je-vsetko-co-potrebujete-ondrej-vesely-uviedol-projekt-koncentrovane-hlasy-s-dvomi-svetovymi-premierami/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5678464-1.mp3",
+      "published": "2026-11-08T15:20:49+00:00",
+      "published_day": "2026-11-08",
+      "categories": [
+        "Kultúra",
+        "Hudba",
+        "Martina Šimkovičová"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-08T15:43:03.418113+00:00",
+      "last_seen": "2026-11-08T15:43:03.418113+00:00"
+    },
+    {
+      "title": "Pripravuje „sfalšované“ referendum 2003 falšovanie budúceho referenda o vystúpení Slovenska z Európskej únie?",
+      "url": "https://dennikn.sk/5678589/pripravuje-sfalsovane-referendum-2003-falsovanie-buduceho-referenda-o-vystupeni-slovenska-z-europskej-unie/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5678589-1.mp3",
+      "published": "2026-11-08T13:33:48+00:00",
+      "published_day": "2026-11-08",
+      "categories": [
+        "Komentáre",
+        "Európska únia",
+        "Robert Fico"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-08T15:43:03.418113+00:00",
+      "last_seen": "2026-11-08T15:43:03.418113+00:00"
+    },
+    {
+      "title": "Descartova pravda",
+      "url": "https://dennikn.sk/5678611/descartova-pravda/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5678611-1.mp3",
+      "published": "2026-11-08T13:26:57+00:00",
+      "published_day": "2026-11-08",
+      "categories": [
+        "Komentáre",
+        "Kultúra",
+        "Dnes píše"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-08T15:43:03.418113+00:00",
+      "last_seen": "2026-11-08T15:43:03.418113+00:00"
+    },
+    {
+      "title": "Na internete z neho urobili Ukrajinca. Čo vieme o strelcovi z Krakova a konšpiráciách, ktoré sa o ňom šírili",
+      "url": "https://dennikn.sk/5678366/na-internete-z-neho-urobili-ukrajinca-co-vieme-o-strelcovi-z-krakova-a-konspiraciach-ktore-sa-o-nom-sirili/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5678366-1.mp3",
+      "published": "2026-11-08T11:19:50+00:00",
+      "published_day": "2026-11-08",
+      "categories": [
+        "Svet",
+        "Hoaxy a propaganda",
+        "Poľsko"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-08T15:43:03.418113+00:00",
+      "last_seen": "2026-11-08T15:43:03.418113+00:00"
+    },
+    {
+      "title": "Keď zoslabne Únia, Slovensko padne do putinovsko-trumpovskej sivej zóny",
+      "url": "https://dennikn.sk/5673044/ked-sa-oslabi-unia-slovensko-padne-do-putinovsko-trumpovskej-sivej-zony/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5673044-1.mp3",
+      "published": "2026-11-08T07:30:00+00:00",
+      "published_day": "2026-11-08",
+      "categories": [
+        "Komentáre",
+        "Európska únia",
+        "Robert Fico"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-08T15:43:03.418113+00:00",
+      "last_seen": "2026-11-08T15:43:03.418113+00:00"
+    },
+    {
+      "title": "Generál Eizenkot dostal šancu odstaviť Netanjahua. Musí nájsť veľmi kreatívne riešenie",
+      "url": "https://dennikn.sk/5678188/general-eisenkot-dostal-sancu-odstavit-netanjahua-bude-na-to-potrebovat-velmi-kreativne-riesenie/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5678188-1.mp3",
+      "published": "2026-11-08T07:19:38+00:00",
+      "published_day": "2026-11-08",
       "categories": [
         "Svet"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-07T19:48:27.864361+00:00",
-      "last_seen": "2026-11-07T19:48:27.864361+00:00"
-    },
-    {
-      "title": "Boli by ste čestní, aj keby sa nikto nedíval?",
-      "url": "https://dennikn.sk/5676536/boli-by-ste-cestni-aj-keby-sa-nikto-nedival/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5676536-1.mp3",
-      "published": "2026-11-07T14:35:59+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Komentáre",
-        "Do hĺbky s Jánom Markošom"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T19:48:27.864361+00:00"
-    },
-    {
-      "title": "Fico skúša starý konšpiračný príbeh o referende. Doplnil teórie o Sorosovi, vražde Kuciaka či 17. novembri",
-      "url": "https://dennikn.sk/5677214/fico-skusa-stary-konspiracny-pribeh-o-referende-doplnil-teorie-o-sorosovi-vrazde-kuciaka-ci-17-novembri/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5677214-1.mp3",
-      "published": "2026-11-07T14:02:10+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Slovensko",
-        "Hoaxy a propaganda",
-        "Robert Fico"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T19:48:27.864361+00:00"
-    },
-    {
-      "title": "Fico hovorí o sfalšovanom referende, aby mu uverili sfalšované voľby",
-      "url": "https://dennikn.sk/5677397/fico-hovori-o-sfalsovanom-referende-aby-mu-uverili-sfalsovane-volby/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5677397-1.mp3",
-      "published": "2026-11-07T13:31:07+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Komentáre",
-        "Ficova vláda",
-        "Robert Fico"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T19:48:27.864361+00:00"
-    },
-    {
-      "title": "Medzi tancom, športom a bezpečím pre kvír ľudí. Ako sa mení slovenská vogue scéna?",
-      "url": "https://dennikn.sk/5671529/medzi-tancom-sportom-a-bezpecim-pre-kvir-ludi-ako-sa-meni-slovenska-vogue-scena/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5671529-1.mp3",
-      "published": "2026-11-07T13:18:51+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Kultúra",
-        "Rodina a vzťahy",
-        "Divadlo a tanec",
-        "LGBTI+",
-        "Mladí",
-        "Pekné veci"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T19:48:27.864361+00:00"
-    },
-    {
-      "title": "Stalinovo mesto v Maďarsku malo byť socialistickým vzorom, napokon ho musela dobyť Červená armáda",
-      "url": "https://dennikn.sk/5675902/stalinovo-mesto-v-madarsku-malo-byt-socialistickym-vzorom-napokon-ho-musela-dobyt-cervena-armada/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5675902-1.mp3",
-      "published": "2026-11-07T10:53:41+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Svet",
-        "História",
-        "Maďarsko"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T19:48:27.864361+00:00"
-    },
-    {
-      "title": "Kamarát na chate celé dni prepil, no aj tak si miešal proteíny. Nechápal, že o svaly sa prichádza inak, vraví biochemik Dvořák",
-      "url": "https://dennikn.sk/5667433/kamarat-na-chate-cele-dni-prepil-no-aj-tak-si-miesal-proteiny-nechapal-ze-o-svaly-sa-prichadza-inak-vravi-biochemik-dvorak/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5667433-1.mp3",
-      "published": "2026-11-07T10:25:20+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Šport a pohyb",
-        "Zdravie",
-        "Cesta k zdraviu",
-        "Chudnutie",
-        "Radíme športovcom",
-        "Rozhovory"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T19:48:27.864361+00:00"
-    },
-    {
-      "title": "Ašvagandu a spirulinu mnohí užívajú roky, no vôbec netušíme, aké problémy môžu spôsobiť, vraví expert na výživu Dvořák",
-      "url": "https://dennikn.sk/5672477/asvagandu-a-spirulinu-mnohi-uzivaju-roky-no-vobec-netusime-ake-problemy-mozu-sposobit-vravi-expert-na-vyzivu-dvorak/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5672477-1.mp3",
-      "published": "2026-11-07T10:24:58+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Šport a pohyb",
-        "Veda",
-        "Zdravie",
-        "Rozhovory",
-        "Športová veda",
-        "Zdravotníctvo"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T19:48:27.864361+00:00"
-    },
-    {
-      "title": "Zachráni mi horčík spánok? Prečo môže byť jeho kombinácia s B6 rizikom? Odpovedá expert na športovú výživu Dvořák",
-      "url": "https://dennikn.sk/5666476/zachrani-mi-horcik-spanok-preco-moze-byt-jeho-kombinacia-s-b6-rizikom-odpoveda-expert-na-sportovu-vyzivu-dvorak/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5666476-1.mp3",
-      "published": "2026-11-07T10:24:55+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Veda",
-        "Zdravie",
-        "Rozhovory",
-        "Zdravotníctvo"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T19:48:27.864361+00:00"
-    },
-    {
-      "title": "Leško, Šimečka, Kostolný, Hudák: Ukazuje sa, že demokraciu nie je možné tak ľahko zničiť",
-      "url": "https://dennikn.sk/5675601/lesko-simecka-kostolny-hudak-ukazuje-sa-ze-demokraciu-nie-je-mozne-tak-lahko-znicit/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5675601-1.mp3",
-      "published": "2026-11-07T05:01:00+00:00",
-      "published_day": "2026-11-07",
-      "categories": [
-        "Audio N",
-        "Slovensko",
-        "Ako zachrániť demokraciu",
-        "V redakcii"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-07T15:20:51.324240+00:00",
-      "last_seen": "2026-11-07T19:48:27.864361+00:00"
+      "first_seen": "2026-11-08T15:43:03.418113+00:00",
+      "last_seen": "2026-11-08T15:43:03.418113+00:00"
     }
   ]
 }
