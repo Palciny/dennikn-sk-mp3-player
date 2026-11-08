@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T15:43:22.746000+00:00",
+  "generated_at": "2026-11-08T20:06:04.328878+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 7,
-  "total_count": 4559,
+  "count": 8,
+  "total_count": 4560,
   "latest_day": "2026-11-08",
   "categories": [
     "1. svetová vojna",
@@ -732,6 +732,25 @@
   ],
   "articles": [
     {
+      "title": "Týždňový newsfilter: Taraba Ficovi robí to isté, čo sa mu vyplatilo už pri Matovičovi",
+      "url": "https://dennikn.sk/5678894/tyzdnovy-newsfilter-taraba-ficovi-robi-to-iste-co-sa-mu-vyplatilo-uz-pri-matovicovi/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5678894-1.mp3",
+      "published": "2026-11-08T17:56:41+00:00",
+      "published_day": "2026-11-08",
+      "categories": [
+        "Komentáre",
+        "Igor Matovič",
+        "Newsfilter",
+        "Progresívne Slovensko",
+        "Robert Fico",
+        "SaS",
+        "Tomáš Taraba"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-08T20:05:27.787097+00:00",
+      "last_seen": "2026-11-08T20:05:27.787097+00:00"
+    },
+    {
       "title": "Nedeľná nekázeň: O viere netreba toľko hovoriť",
       "url": "https://dennikn.sk/5678726/nedelna-nekazen-o-viere-netreba-tolko-hovorit/",
       "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5678726-1.mp3",
@@ -743,7 +762,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-08T15:43:03.418113+00:00",
-      "last_seen": "2026-11-08T15:43:03.418113+00:00"
+      "last_seen": "2026-11-08T20:05:27.787097+00:00"
     },
     {
       "title": "Čo počujete, je všetko, čo potrebujete. Ondrej Veselý uviedol projekt Koncentrované hlasy s dvomi svetovými premiérami",
@@ -758,7 +777,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-08T15:43:03.418113+00:00",
-      "last_seen": "2026-11-08T15:43:03.418113+00:00"
+      "last_seen": "2026-11-08T20:05:27.787097+00:00"
     },
     {
       "title": "Pripravuje „sfalšované“ referendum 2003 falšovanie budúceho referenda o vystúpení Slovenska z Európskej únie?",
@@ -773,7 +792,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-08T15:43:03.418113+00:00",
-      "last_seen": "2026-11-08T15:43:03.418113+00:00"
+      "last_seen": "2026-11-08T20:05:27.787097+00:00"
     },
     {
       "title": "Descartova pravda",
@@ -788,7 +807,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-08T15:43:03.418113+00:00",
-      "last_seen": "2026-11-08T15:43:03.418113+00:00"
+      "last_seen": "2026-11-08T20:05:27.787097+00:00"
     },
     {
       "title": "Na internete z neho urobili Ukrajinca. Čo vieme o strelcovi z Krakova a konšpiráciách, ktoré sa o ňom šírili",
@@ -803,7 +822,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-08T15:43:03.418113+00:00",
-      "last_seen": "2026-11-08T15:43:03.418113+00:00"
+      "last_seen": "2026-11-08T20:05:27.787097+00:00"
     },
     {
       "title": "Keď zoslabne Únia, Slovensko padne do putinovsko-trumpovskej sivej zóny",
@@ -818,7 +837,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-08T15:43:03.418113+00:00",
-      "last_seen": "2026-11-08T15:43:03.418113+00:00"
+      "last_seen": "2026-11-08T20:05:27.787097+00:00"
     },
     {
       "title": "Generál Eizenkot dostal šancu odstaviť Netanjahua. Musí nájsť veľmi kreatívne riešenie",
@@ -831,7 +850,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-08T15:43:03.418113+00:00",
-      "last_seen": "2026-11-08T15:43:03.418113+00:00"
+      "last_seen": "2026-11-08T20:05:27.787097+00:00"
     }
   ]
 }
