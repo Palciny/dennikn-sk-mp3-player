@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T15:28:56.868344+00:00",
+  "generated_at": "2026-11-14T20:18:54.008173+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,8 +20,8 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 7,
-  "total_count": 4702,
+  "count": 10,
+  "total_count": 4705,
   "latest_day": "2026-11-14",
   "categories": [
     "1. svetová vojna",
@@ -744,6 +744,49 @@
   ],
   "articles": [
     {
+      "title": "Gröhling nevystúpi 17. novembra na bratislavskom opozičnom zhromaždení. Z tribúny však odznie aj príspevok SaS",
+      "url": "https://dennikn.sk/5692900/grohling-nevystupi-17-novembra-na-bratislavskom-opozicnom-zhromazdeni-z-tribuny-vsak-odznie-aj-prispevok-sas/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5692900-1.mp3",
+      "published": "2026-11-14T18:38:31+00:00",
+      "published_day": "2026-11-14",
+      "categories": [
+        "Nezaradené"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-14T20:18:30.290269+00:00",
+      "last_seen": "2026-11-14T20:18:30.290269+00:00"
+    },
+    {
+      "title": "Šimečka a Naď ohlásia spoločnú koalíciu, Demokrati budú mať na kandidátke s PS pätinu miest",
+      "url": "https://dennikn.sk/5692851/simecka-a-nad-ohlasia-spolocnu-koaliciu-demokrati-budu-mat-na-kandidatke-s-ps-patinu-miest/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5692851-1.mp3",
+      "published": "2026-11-14T17:46:06+00:00",
+      "published_day": "2026-11-14",
+      "categories": [
+        "Slovensko",
+        "Demokrati",
+        "Progresívne Slovensko"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-14T20:18:30.290269+00:00",
+      "last_seen": "2026-11-14T20:18:30.290269+00:00"
+    },
+    {
+      "title": "Vlhová v Levi: Na dátach ukazujeme, kde stratila, ale aj kde bola najrýchlejšia zo všetkých",
+      "url": "https://dennikn.sk/5692440/vlhova-v-levi-na-datach-ukazujeme-kde-stratila-ale-aj-kde-bola-najrychlejsia-zo-vsetkych/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5692440-1.mp3",
+      "published": "2026-11-14T16:15:30+00:00",
+      "published_day": "2026-11-14",
+      "categories": [
+        "Šport a pohyb",
+        "Lyžovanie",
+        "Petra Vlhová"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-14T20:18:30.290269+00:00",
+      "last_seen": "2026-11-14T20:18:30.290269+00:00"
+    },
+    {
       "title": "Fica teší, keď trpíme. Slovenskí umelci žijúci v Prahe vysvetľujú, v čom je situácia v Česku iná",
       "url": "https://dennikn.sk/5692596/fica-tesi-ked-trpime-slovenski-umelci-zijuci-v-prahe-vysvetluju-v-com-je-situacia-v-cesku-ina/",
       "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5692596-1.mp3",
@@ -758,7 +801,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T15:28:36.253053+00:00"
+      "last_seen": "2026-11-14T20:18:30.290269+00:00"
     },
     {
       "title": "Mazurek sa v Prahe cez dav protestujúcich nedostal na konferenciu krajnej pravice",
@@ -775,7 +818,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T15:28:36.253053+00:00"
+      "last_seen": "2026-11-14T20:18:30.290269+00:00"
     },
     {
       "title": "Bomba v obchodnom centre",
@@ -789,7 +832,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T15:28:36.253053+00:00"
+      "last_seen": "2026-11-14T20:18:30.290269+00:00"
     },
     {
       "title": "Mohol som žiť kdekoľvek, tak som sa vrátil domov. Tommy Lee Jones žije ako jeho filmové postavy (reportáž New York Times)",
@@ -804,7 +847,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T15:28:36.253053+00:00"
+      "last_seen": "2026-11-14T20:18:30.290269+00:00"
     },
     {
       "title": "Na čo si dať pozor v menopauze a má zmysel kolagén? Nutričná expertka Vágnerová vyberá sedem mýtov o zdraví žien",
@@ -821,7 +864,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T15:28:36.253053+00:00"
+      "last_seen": "2026-11-14T20:18:30.290269+00:00"
     },
     {
       "title": "Šéfredaktor Tabery: Fico už nemá silu a je na smiech. Už to nie je ten chlap, čo vie buchnúť po stole",
@@ -837,7 +880,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T15:28:36.253053+00:00"
+      "last_seen": "2026-11-14T20:18:30.290269+00:00"
     },
     {
       "title": "Bolo to Weissovo majstrovstvo, odvaha i z núdze cnosť. Slováci postúpili vďaka ťahom trénera",
@@ -854,7 +897,7 @@
       ],
       "feed_url": "https://dennikn.sk/feed/",
       "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T15:28:36.253053+00:00"
+      "last_seen": "2026-11-14T20:18:30.290269+00:00"
     }
   ]
 }
