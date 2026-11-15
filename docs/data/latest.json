@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T20:18:54.008173+00:00",
+  "generated_at": "2026-11-15T16:01:23.280310+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,9 +20,9 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 10,
-  "total_count": 4705,
-  "latest_day": "2026-11-14",
+  "count": 9,
+  "total_count": 4714,
+  "latest_day": "2026-11-15",
   "categories": [
     "1. svetová vojna",
     "17. november",
@@ -519,6 +519,7 @@
     "Životy žien"
   ],
   "published_days": [
+    "2026-11-15",
     "2026-11-14",
     "2026-11-13",
     "2026-11-12",
@@ -744,160 +745,141 @@
   ],
   "articles": [
     {
-      "title": "Gröhling nevystúpi 17. novembra na bratislavskom opozičnom zhromaždení. Z tribúny však odznie aj príspevok SaS",
-      "url": "https://dennikn.sk/5692900/grohling-nevystupi-17-novembra-na-bratislavskom-opozicnom-zhromazdeni-z-tribuny-vsak-odznie-aj-prispevok-sas/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5692900-1.mp3",
-      "published": "2026-11-14T18:38:31+00:00",
-      "published_day": "2026-11-14",
+      "title": "Proti Babišovi na Letnej protestovalo najviac ľudí od roku 1989, tvrdia organizátori. Obávajú sa, že médiá sú len začiatok",
+      "url": "https://dennikn.sk/5693871/statisice-ludi-protestuju-na-letnej-proti-babisovej-vlade-obavaju-sa-ze-media-su-len-zaciatok/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5693871-1.mp3",
+      "published": "2026-11-15T13:54:42+00:00",
+      "published_day": "2026-11-15",
       "categories": [
-        "Nezaradené"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-14T20:18:30.290269+00:00",
-      "last_seen": "2026-11-14T20:18:30.290269+00:00"
-    },
-    {
-      "title": "Šimečka a Naď ohlásia spoločnú koalíciu, Demokrati budú mať na kandidátke s PS pätinu miest",
-      "url": "https://dennikn.sk/5692851/simecka-a-nad-ohlasia-spolocnu-koaliciu-demokrati-budu-mat-na-kandidatke-s-ps-patinu-miest/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5692851-1.mp3",
-      "published": "2026-11-14T17:46:06+00:00",
-      "published_day": "2026-11-14",
-      "categories": [
-        "Slovensko",
-        "Demokrati",
-        "Progresívne Slovensko"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-14T20:18:30.290269+00:00",
-      "last_seen": "2026-11-14T20:18:30.290269+00:00"
-    },
-    {
-      "title": "Vlhová v Levi: Na dátach ukazujeme, kde stratila, ale aj kde bola najrýchlejšia zo všetkých",
-      "url": "https://dennikn.sk/5692440/vlhova-v-levi-na-datach-ukazujeme-kde-stratila-ale-aj-kde-bola-najrychlejsia-zo-vsetkych/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5692440-1.mp3",
-      "published": "2026-11-14T16:15:30+00:00",
-      "published_day": "2026-11-14",
-      "categories": [
-        "Šport a pohyb",
-        "Lyžovanie",
-        "Petra Vlhová"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-14T20:18:30.290269+00:00",
-      "last_seen": "2026-11-14T20:18:30.290269+00:00"
-    },
-    {
-      "title": "Fica teší, keď trpíme. Slovenskí umelci žijúci v Prahe vysvetľujú, v čom je situácia v Česku iná",
-      "url": "https://dennikn.sk/5692596/fica-tesi-ked-trpime-slovenski-umelci-zijuci-v-prahe-vysvetluju-v-com-je-situacia-v-cesku-ina/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5692596-1.mp3",
-      "published": "2026-11-14T14:27:17+00:00",
-      "published_day": "2026-11-14",
-      "categories": [
-        "Kultúra",
+        "Svet",
         "Andrej Babiš",
         "Česko",
-        "Martina Šimkovičová",
         "Médiá"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T20:18:30.290269+00:00"
+      "first_seen": "2026-11-15T16:00:46.927480+00:00",
+      "last_seen": "2026-11-15T16:00:46.927480+00:00"
     },
     {
-      "title": "Mazurek sa v Prahe cez dav protestujúcich nedostal na konferenciu krajnej pravice",
-      "url": "https://dennikn.sk/5692445/mazurek-sa-v-prahe-cez-dav-protestujucich-nedostal-na-konferenciu-krajnej-pravice/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5692445-1.mp3",
-      "published": "2026-11-14T12:43:50+00:00",
-      "published_day": "2026-11-14",
-      "categories": [
-        "Slovensko",
-        "Svet",
-        "Česko",
-        "Hoaxy a propaganda",
-        "Milan Mazurek"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T20:18:30.290269+00:00"
-    },
-    {
-      "title": "Bomba v obchodnom centre",
-      "url": "https://dennikn.sk/5692168/bomba-v-obchodnom-centre/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5692168-1.mp3",
-      "published": "2026-11-14T08:36:20+00:00",
-      "published_day": "2026-11-14",
+      "title": "Bola to revolúcia? Nebola to revolúcia?",
+      "url": "https://dennikn.sk/5693865/bola-to-revolucia-nebola-to-revolucia/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5693865-1.mp3",
+      "published": "2026-11-15T13:02:50+00:00",
+      "published_day": "2026-11-15",
       "categories": [
         "Komentáre",
-        "Filozofické otázky"
+        "17. november"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T20:18:30.290269+00:00"
+      "first_seen": "2026-11-15T16:00:46.927480+00:00",
+      "last_seen": "2026-11-15T16:00:46.927480+00:00"
     },
     {
-      "title": "Mohol som žiť kdekoľvek, tak som sa vrátil domov. Tommy Lee Jones žije ako jeho filmové postavy (reportáž New York Times)",
-      "url": "https://dennikn.sk/5686263/mohol-som-zit-kdekolvek-tak-som-sa-vratil-domov-tommy-lee-jones-zije-ako-jeho-filmove-postavy-reportaz-new-york-times/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5686263-1.mp3",
-      "published": "2026-11-14T07:15:00+00:00",
-      "published_day": "2026-11-14",
+      "title": "Nedeľná nekázeň: Pravdu nemožno mať, pravde možno iba patriť",
+      "url": "https://dennikn.sk/5693587/nedelna-nekazen-pravdu-nemozno-mat-pravde-mozno-iba-patrit-2/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5693587-1.mp3",
+      "published": "2026-11-15T11:28:38+00:00",
+      "published_day": "2026-11-15",
+      "categories": [
+        "Komentáre",
+        "Nedeľná nekázeň"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-15T16:00:46.927480+00:00",
+      "last_seen": "2026-11-15T16:00:46.927480+00:00"
+    },
+    {
+      "title": "Klin sa klinom vyráža, Fico usvedčuje Fica",
+      "url": "https://dennikn.sk/5693504/klin-sa-klinom-vyraza-fico-usvedcuje-fica/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5693504-1.mp3",
+      "published": "2026-11-15T10:23:57+00:00",
+      "published_day": "2026-11-15",
+      "categories": [
+        "Komentáre",
+        "Do hĺbky s Jánom Markošom",
+        "Ficova vláda",
+        "Robert Fico",
+        "Smer"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-15T16:00:46.927480+00:00",
+      "last_seen": "2026-11-15T16:00:46.927480+00:00"
+    },
+    {
+      "title": "Keby Slovensko viac čítalo Lasicu, malo by menej problémov",
+      "url": "https://dennikn.sk/5693501/keby-slovensko-viac-citalo-lasicu-malo-by-menej-problemov/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5693501-1.mp3",
+      "published": "2026-11-15T10:02:21+00:00",
+      "published_day": "2026-11-15",
       "categories": [
         "Kultúra",
-        "Čítanie z The New York Times",
-        "Filmy"
+        "Knihy",
+        "Milan Lasica"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T20:18:30.290269+00:00"
+      "first_seen": "2026-11-15T16:00:46.927480+00:00",
+      "last_seen": "2026-11-15T16:00:46.927480+00:00"
     },
     {
-      "title": "Na čo si dať pozor v menopauze a má zmysel kolagén? Nutričná expertka Vágnerová vyberá sedem mýtov o zdraví žien",
-      "url": "https://dennikn.sk/5653504/na-co-si-dat-pozor-v-menopauze-a-ma-zmysel-kolagen-nutricna-expertka-vagnerova-vybera-sedem-mytov-o-zdravi-zien/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5653504-1.mp3",
-      "published": "2026-11-14T07:05:53+00:00",
-      "published_day": "2026-11-14",
+      "title": "Emocionálny návrat pápeža Leva XIV. do Peru",
+      "url": "https://dennikn.sk/5693420/emocionalny-navrat-papeza-leva-xiv-do-peru/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5693420-1.mp3",
+      "published": "2026-11-15T09:35:29+00:00",
+      "published_day": "2026-11-15",
       "categories": [
-        "Šport a pohyb",
+        "Komentáre",
+        "Cirkvi",
+        "Pápež Lev XIV."
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-15T16:00:46.927480+00:00",
+      "last_seen": "2026-11-15T16:00:46.927480+00:00"
+    },
+    {
+      "title": "Ty si nikdy nebola nijakou lokomotívou, Slnečnica!",
+      "url": "https://dennikn.sk/5691215/ty-si-nikdy-nebola-nijakou-lokomotivou-slnecnica/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5691215-1.mp3",
+      "published": "2026-11-15T09:15:44+00:00",
+      "published_day": "2026-11-15",
+      "categories": [
+        "Komentáre",
+        "17. november",
+        "Dnes píše"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-15T16:00:46.927480+00:00",
+      "last_seen": "2026-11-15T16:00:46.927480+00:00"
+    },
+    {
+      "title": "Nenahraditeľná Nvidia: V čom spočíva výnimočnosť firmy, ktorú musel opustiť Jensen Huang",
+      "url": "https://dennikn.sk/5691268/nenahraditelna-nvidia-v-com-spociva-vynimocnost-firmy-ktoru-musel-opustit-jensen-huang/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5691268-1.mp3",
+      "published": "2026-11-15T07:00:00+00:00",
+      "published_day": "2026-11-15",
+      "categories": [
+        "Svet",
         "Veda",
-        "Zdravie",
-        "Cesta k zdraviu",
-        "Rozhovory"
+        "AI",
+        "Technológie"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T20:18:30.290269+00:00"
+      "first_seen": "2026-11-15T16:00:46.927480+00:00",
+      "last_seen": "2026-11-15T16:00:46.927480+00:00"
     },
     {
-      "title": "Šéfredaktor Tabery: Fico už nemá silu a je na smiech. Už to nie je ten chlap, čo vie buchnúť po stole",
-      "url": "https://dennikn.sk/5691521/sefredaktor-tabery-fico-uz-nema-silu-a-je-na-smiech-uz-to-nie-je-ten-chlap-co-vie-buchnut-po-stole/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5691521-1.mp3",
-      "published": "2026-11-14T06:40:44+00:00",
-      "published_day": "2026-11-14",
-      "categories": [
-        "Audio N",
-        "Slovensko",
-        "Robert Fico",
-        "V redakcii"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T20:18:30.290269+00:00"
-    },
-    {
-      "title": "Bolo to Weissovo majstrovstvo, odvaha i z núdze cnosť. Slováci postúpili vďaka ťahom trénera",
-      "url": "https://dennikn.sk/5692074/slovaci-nehrali-dobre-ale-vdaka-prekvapivym-tahom-trenera-weissa-postupili-v-lige-narodov-do-b-divizie/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5692074-1.mp3",
-      "published": "2026-11-14T06:38:25+00:00",
-      "published_day": "2026-11-14",
+      "title": "Ráno s NHL: Noci v autobuse, bitky na tréningu. Matúš Lisý opisuje, ako sa má Slovák v kanadskej juniorke",
+      "url": "https://dennikn.sk/5689902/rano-s-nhl-noci-v-autobuse-bitky-na-treningu-matus-lisy-opisuje-ako-sa-ma-slovak-v-kanadskej-juniorke/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5689902-1.mp3",
+      "published": "2026-11-15T06:11:11+00:00",
+      "published_day": "2026-11-15",
       "categories": [
         "Šport a pohyb",
-        "Futbal",
-        "Futbalová reprezentácia",
-        "Liga národov",
-        "Vladimír Weiss"
+        "Hokej",
+        "Ráno s NHL"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-14T15:28:36.253053+00:00",
-      "last_seen": "2026-11-14T20:18:30.290269+00:00"
+      "first_seen": "2026-11-15T16:00:46.927480+00:00",
+      "last_seen": "2026-11-15T16:00:46.927480+00:00"
     }
   ]
 }
