@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T16:33:37.307570+00:00",
+  "generated_at": "2026-11-22T16:50:58.149382+00:00",
   "sources": [
     "https://dennikn.sk/feed/",
     "https://dennikn.sk/slovensko/feed/",
@@ -20,9 +20,9 @@
     "https://dennikn.sk/veda/feed",
     "https://dennikn.sk/sport/feed"
   ],
-  "count": 9,
-  "total_count": 4853,
-  "latest_day": "2026-11-21",
+  "count": 8,
+  "total_count": 4861,
+  "latest_day": "2026-11-22",
   "categories": [
     "1. svetová vojna",
     "17. november",
@@ -523,6 +523,7 @@
     "Životy žien"
   ],
   "published_days": [
+    "2026-11-22",
     "2026-11-21",
     "2026-11-20",
     "2026-11-19",
@@ -755,156 +756,134 @@
   ],
   "articles": [
     {
-      "title": "Budúcnosť je tu, ale iná, než sme chceli. Berlin Manson v nových piesňach konfrontujú pravicu aj ľavicu",
-      "url": "https://dennikn.sk/5707529/buducnost-je-tu-ale-ina-nez-sme-chceli-berlin-manson-v-novych-piesnach-konfrontuju-pravicu-aj-lavicu/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5707529-1.mp3",
-      "published": "2026-11-21T15:26:31+00:00",
-      "published_day": "2026-11-21",
-      "categories": [
-        "Kultúra",
-        "Album týždňa",
-        "Hudba"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-21T16:33:00.595958+00:00",
-      "last_seen": "2026-11-21T16:33:00.595958+00:00"
-    },
-    {
-      "title": "High 5ive: Experimentovala v umení aj živote. Mačacie životy Leonor Fini",
-      "url": "https://dennikn.sk/5707208/high-5ive-experimentovala-v-umeni-aj-zivote-macacie-zivoty-leonor-fini/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5707208-1.mp3",
-      "published": "2026-11-21T14:31:16+00:00",
-      "published_day": "2026-11-21",
-      "categories": [
-        "Kultúra",
-        "High 5ive"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-21T16:33:00.595958+00:00",
-      "last_seen": "2026-11-21T16:33:00.595958+00:00"
-    },
-    {
-      "title": "S umelou inteligenciou je každý čarodejník. Ale za akú cenu?",
-      "url": "https://dennikn.sk/5707254/s-umelou-inteligenciou-je-kazdy-carodejnik-ale-za-aku-cenu/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5707254-1.mp3",
-      "published": "2026-11-21T10:38:47+00:00",
-      "published_day": "2026-11-21",
+      "title": "Týždňový newsfilter: Fico straší šialenstvom, Matovič robí cirkus, PS odpovedá spájaním",
+      "url": "https://dennikn.sk/5708526/tyzdnovy-newsfilter-fico-strasi-sialenstvom-matovic-robi-cirkus-ps-odpoveda-spajanim/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5708526-1.mp3",
+      "published": "2026-11-22T16:28:02+00:00",
+      "published_day": "2026-11-22",
       "categories": [
         "Komentáre",
-        "AI",
-        "Do hĺbky s Jánom Markošom"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-21T16:33:00.595958+00:00",
-      "last_seen": "2026-11-21T16:33:00.595958+00:00"
-    },
-    {
-      "title": "Komentátori: Z počítania ľudí na protestoch sa stal fetiš, rozhodne mobilizácia vo voľbách",
-      "url": "https://dennikn.sk/5705399/komentatori-z-pocitania-ludi-na-protestoch-sa-stal-fetis-rozhodne-mobilizacia-vo-volbach/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5705399-1.mp3",
-      "published": "2026-11-21T08:06:51+00:00",
-      "published_day": "2026-11-21",
-      "categories": [
-        "Audio N",
-        "Slovensko",
-        "17. november",
         "Demokrati",
         "Ficova vláda",
-        "Peter Pellegrini",
+        "Igor Matovič",
+        "Newsfilter",
         "Progresívne Slovensko",
         "Robert Fico",
-        "V redakcii"
+        "Vojna na Ukrajine"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-21T16:33:00.595958+00:00",
-      "last_seen": "2026-11-21T16:33:00.595958+00:00"
+      "first_seen": "2026-11-22T16:50:18.517620+00:00",
+      "last_seen": "2026-11-22T16:50:18.517620+00:00"
     },
     {
-      "title": "Najväčší omyl diktátora Franca: za nástupcu si vybral kráľa, ktorý sa videl ako demokrat",
-      "url": "https://dennikn.sk/5702786/najvacsi-omyl-diktatora-franca-za-nastupcu-si-vybral-krala-ktory-sa-videl-ako-demokrat/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5702786-1.mp3",
-      "published": "2026-11-21T07:30:00+00:00",
-      "published_day": "2026-11-21",
-      "categories": [
-        "Svet",
-        "História",
-        "Španielsko"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-21T16:33:00.595958+00:00",
-      "last_seen": "2026-11-21T16:33:00.595958+00:00"
-    },
-    {
-      "title": "Keď sme našli v Ázii prázdne kancelárie, začali nás sledovať. Ako reportéri NY Times odhalili kauzu šéfa Nvidie",
-      "url": "https://dennikn.sk/5705782/ked-sme-nasli-v-azii-prazdne-kancelarie-zacali-nas-sledovat-aj-v-obchodoch-ako-reporteri-ny-times-odhalili-kauzu-sefa-nvidie/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5705782-1.mp3",
-      "published": "2026-11-21T07:00:00+00:00",
-      "published_day": "2026-11-21",
-      "categories": [
-        "Svet",
-        "Čína",
-        "Čítanie z The New York Times",
-        "Rozhovory",
-        "Technológie",
-        "USA"
-      ],
-      "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-21T16:33:00.595958+00:00",
-      "last_seen": "2026-11-21T16:33:00.595958+00:00"
-    },
-    {
-      "title": "Únos Vietnamca: Falošná nádej Žilinka",
-      "url": "https://dennikn.sk/5706642/unos-vietnamca-falosna-nadej-zilinka/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5706642-1.mp3",
-      "published": "2026-11-21T06:02:59+00:00",
-      "published_day": "2026-11-21",
+      "title": "Prvý prieskum s koalíciou PS a Demokratov: voľby by vyhrala so ziskom 24 percent",
+      "url": "https://dennikn.sk/5707803/prvy-prieskum-s-koaliciou-ps-a-demokratov-volby-by-vyhrala-so-ziskom-24-percent/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5707803-1.mp3",
+      "published": "2026-11-22T16:11:50+00:00",
+      "published_day": "2026-11-22",
       "categories": [
         "Slovensko",
-        "Knihy",
-        "Maroš Žilinka",
-        "Únos vietnamského občana"
+        "Demokrati",
+        "Hlas",
+        "Hnutie Slovensko",
+        "KDH",
+        "Prieskumy preferencií",
+        "Progresívne Slovensko",
+        "Republika",
+        "SaS",
+        "Smer",
+        "SNS"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-21T16:33:00.595958+00:00",
-      "last_seen": "2026-11-21T16:33:00.595958+00:00"
+      "first_seen": "2026-11-22T16:50:18.517620+00:00",
+      "last_seen": "2026-11-22T16:50:18.517620+00:00"
     },
     {
-      "title": "Fanúšik Slovana: Nerozumiem, prečo sa hráči nebijú za klub. Ligu majstrov by inde nehrali",
-      "url": "https://dennikn.sk/5702556/fanusik-slovana-nerozumiem-preco-sa-hraci-nebiju-za-klub-ligu-majstrov-by-inde-nehrali/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5702556-1.mp3",
-      "published": "2026-11-21T05:49:04+00:00",
-      "published_day": "2026-11-21",
+      "title": "Fico sa pustil do Republiky za to, že už chce zostať v EÚ a NATO. Prezident ho kritizoval za reči o sfalšovanom referende",
+      "url": "https://dennikn.sk/5708375/fico-sa-pustil-do-republiky-za-to-ze-uz-chce-zostat-v-eu-a-nato-prezident-ho-kritizoval-za-reci-o-sfalsovanom-referende/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5708375-1.mp3",
+      "published": "2026-11-22T13:34:06+00:00",
+      "published_day": "2026-11-22",
       "categories": [
-        "Šport a pohyb",
-        "Futbal",
-        "Futbalová Niké liga",
-        "Liga majstrov",
-        "ŠK Slovan Bratislava",
-        "Vladimír Weiss",
-        "Yaya Touré"
+        "Slovensko"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-21T16:33:00.595958+00:00",
-      "last_seen": "2026-11-21T16:33:00.595958+00:00"
+      "first_seen": "2026-11-22T16:50:18.517620+00:00",
+      "last_seen": "2026-11-22T16:50:18.517620+00:00"
     },
     {
-      "title": "Silvia má 45, v trailovom behu je vo svetovej elite: Ubrala som v tréningu a pridala sacharidy, vraví po životnej sezóne",
-      "url": "https://dennikn.sk/5700316/silvia-ma-45-v-trailovom-behu-je-vo-svetovej-elite-ubrala-som-v-treningu-a-pridala-sacharidy-vravi-po-zivotnej-sezone/",
-      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5700316-1.mp3",
-      "published": "2026-11-21T05:41:51+00:00",
-      "published_day": "2026-11-21",
+      "title": "Nedeľná nekázeň: Boh sa rád ukazuje v prestrojení",
+      "url": "https://dennikn.sk/5708163/nedelna-nekazen-boh-sa-rad-ukazuje-v-prestrojeni/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5708163-1.mp3",
+      "published": "2026-11-22T12:46:25+00:00",
+      "published_day": "2026-11-22",
       "categories": [
-        "Šport a pohyb",
-        "Atletika",
-        "Behanie",
-        "Cesta k zdraviu",
-        "Radíme športovcom",
-        "Rozhovory",
-        "Turistika a outdoor"
+        "Komentáre",
+        "Nedeľná nekázeň"
       ],
       "feed_url": "https://dennikn.sk/feed/",
-      "first_seen": "2026-11-21T16:33:00.595958+00:00",
-      "last_seen": "2026-11-21T16:33:00.595958+00:00"
+      "first_seen": "2026-11-22T16:50:18.517620+00:00",
+      "last_seen": "2026-11-22T16:50:18.517620+00:00"
+    },
+    {
+      "title": "Tri veci, ktoré som sa naučil na Orave",
+      "url": "https://dennikn.sk/5707811/tri-veci-ktore-som-sa-naucil-na-orave/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5707811-1.mp3",
+      "published": "2026-11-22T11:05:11+00:00",
+      "published_day": "2026-11-22",
+      "categories": [
+        "Komentáre",
+        "Dnes píše"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-22T16:50:18.517620+00:00",
+      "last_seen": "2026-11-22T16:50:18.517620+00:00"
+    },
+    {
+      "title": "Jimi Hendrix vo Ľvive",
+      "url": "https://dennikn.sk/5708121/jimi-hendrix-vo-lvive/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5708121-1.mp3",
+      "published": "2026-11-22T09:48:31+00:00",
+      "published_day": "2026-11-22",
+      "categories": [
+        "Kultúra",
+        "Hvoreckého knižnica",
+        "Knihy"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-22T16:50:18.517620+00:00",
+      "last_seen": "2026-11-22T16:50:18.517620+00:00"
+    },
+    {
+      "title": "Existuje prítomný okamih?",
+      "url": "https://dennikn.sk/5706732/existuje-pritomny-okamih/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5706732-1.mp3",
+      "published": "2026-11-22T08:48:50+00:00",
+      "published_day": "2026-11-22",
+      "categories": [
+        "Komentáre",
+        "Filozofické otázky"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-22T16:50:18.517620+00:00",
+      "last_seen": "2026-11-22T16:50:18.517620+00:00"
+    },
+    {
+      "title": "Ráno s NHL: Dáta ukázali, že Slafkovský nehral dobre. Pozitívne správy však prišli z tréningu",
+      "url": "https://dennikn.sk/5707892/rano-s-nhl-data-ukazali-ze-slafkovsky-nehral-dobre-dobre-spravy-vsak-prisli-z-treningu/",
+      "mp3_url": "https://a-static.projektn.sk/2026/11/neural-audio-elevenlabs-5707892-1.mp3",
+      "published": "2026-11-22T07:53:48+00:00",
+      "published_day": "2026-11-22",
+      "categories": [
+        "Šport a pohyb",
+        "Hokej",
+        "Juraj Slafkovský",
+        "NHL",
+        "Ráno s NHL"
+      ],
+      "feed_url": "https://dennikn.sk/feed/",
+      "first_seen": "2026-11-22T16:50:18.517620+00:00",
+      "last_seen": "2026-11-22T16:50:18.517620+00:00"
     }
   ]
 }
